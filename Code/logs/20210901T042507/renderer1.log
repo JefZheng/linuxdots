@@ -1,0 +1,38 @@
+[2021-09-01 04:25:10.356] [renderer1] [info] Setting search error: XHR failed
+[2021-09-01 04:25:10.468] [renderer1] [info] Setting search error: XHR failed
+[2021-09-01 04:25:10.687] [renderer1] [info] Setting search error: XHR failed
+[2021-09-01 04:25:10.726] [renderer1] [info] Setting search error: XHR failed
+[2021-09-01 04:25:11.422] [renderer1] [error] write EPIPE: Error: write EPIPE
+    at afterWriteDispatched (internal/stream_base_commons.js:156:25)
+    at writeGeneric (internal/stream_base_commons.js:147:3)
+    at Socket._writeGeneric (net.js:785:11)
+    at Socket._write (net.js:797:8)
+    at writeOrBuffer (internal/streams/writable.js:358:12)
+    at Socket.write (internal/streams/writable.js:303:10)
+    at a.request (/home/jeff/.vscode/extensions/asvetliakov.vscode-neovim-0.0.82/node_modules/neovim/lib/utils/transport.js:87:21)
+    at /home/jeff/.vscode/extensions/asvetliakov.vscode-neovim-0.0.82/node_modules/neovim/lib/api/client.js:121:28
+    at new Promise (<anonymous>)
+    at o.requestApi (/home/jeff/.vscode/extensions/asvetliakov.vscode-neovim-0.0.82/node_modules/neovim/lib/api/client.js:120:16)
+    at o.next (/home/jeff/.vscode/extensions/asvetliakov.vscode-neovim-0.0.82/node_modules/neovim/lib/api/client.js:136:38)
+    at Generator.next (<anonymous>)
+    at /home/jeff/.vscode/extensions/asvetliakov.vscode-neovim-0.0.82/node_modules/neovim/lib/api/client.js:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/home/jeff/.vscode/extensions/asvetliakov.vscode-neovim-0.0.82/node_modules/neovim/lib/api/client.js:4:12)
+    at o.generateApi (/home/jeff/.vscode/extensions/asvetliakov.vscode-neovim-0.0.82/node_modules/neovim/lib/api/client.js:133:16)
+    at o.setupTransport (/home/jeff/.vscode/extensions/asvetliakov.vscode-neovim-0.0.82/node_modules/neovim/lib/api/client.js:117:30)
+    at o.attach (/home/jeff/.vscode/extensions/asvetliakov.vscode-neovim-0.0.82/node_modules/neovim/lib/api/client.js:32:14)
+    at t.attach (/home/jeff/.vscode/extensions/asvetliakov.vscode-neovim-0.0.82/node_modules/neovim/lib/attach/attach.js:25:16)
+    at new $e (/home/jeff/.vscode/extensions/asvetliakov.vscode-neovim-0.0.82/src/main_controller.ts:152:23)
+    at o (/home/jeff/.vscode/extensions/asvetliakov.vscode-neovim-0.0.82/src/extension.ts:37:24)
+    at o.next (<anonymous>)
+    at /home/jeff/.vscode/extensions/asvetliakov.vscode-neovim-0.0.82/dist/extension.js:2:352732
+    at new Promise (<anonymous>)
+    at Le (/home/jeff/.vscode/extensions/asvetliakov.vscode-neovim-0.0.82/dist/extension.js:2:352468)
+    at Function._callActivateOptional (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:90:14919)
+    at Function._callActivate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:90:14592)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:90:12789
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async Promise.all (index 2)
+    at async Promise.all (index 0)
+[2021-09-01 04:25:11.761] [renderer1] [info] Setting search error: XHR failed
+[2021-09-01 04:25:11.807] [renderer1] [info] Setting search error: XHR failed

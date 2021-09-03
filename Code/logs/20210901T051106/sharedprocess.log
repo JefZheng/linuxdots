@@ -1,0 +1,5 @@
+[2021-09-01 05:11:18.108] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-09-01 05:11:18.108] [sharedprocess] [info] [logs cleanup]: Removing log folders '20210901T041558'
+[2021-09-01 05:11:38.108] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-09-01 05:11:38.109] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-09-01 05:11:48.111] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.

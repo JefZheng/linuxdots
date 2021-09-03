@@ -1,0 +1,95 @@
+[2021-09-01 04:28:29.741] [exthost] [info] extension host started
+[2021-09-01 04:28:29.801] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-09-01 04:28:29.802] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-09-01 04:28:29.809] [exthost] [info] ExtensionService#_doActivateExtension aaron-bond.better-comments {"startup":false,"extensionId":{"value":"aaron-bond.better-comments","_lower":"aaron-bond.better-comments"},"activationEvent":"onLanguage:plaintext"}
+[2021-09-01 04:28:29.809] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jeff/.vscode/extensions/aaron-bond.better-comments-2.1.0/out/extension
+[2021-09-01 04:28:29.810] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-09-01 04:28:29.810] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-09-01 04:28:29.812] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-01 04:28:29.812] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2021-09-01 04:28:29.824] [exthost] [info] ExtensionService#_doActivateExtension asvetliakov.vscode-neovim {"startup":true,"extensionId":{"value":"asvetliakov.vscode-neovim","_lower":"asvetliakov.vscode-neovim"},"activationEvent":"*"}
+[2021-09-01 04:28:29.824] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jeff/.vscode/extensions/asvetliakov.vscode-neovim-0.0.82/dist/extension.js
+[2021-09-01 04:28:29.854] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"extensionId":{"value":"christian-kohler.path-intellisense","_lower":"christian-kohler.path-intellisense"},"activationEvent":"*"}
+[2021-09-01 04:28:29.854] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jeff/.vscode/extensions/christian-kohler.path-intellisense-2.4.0/out/extension.js
+[2021-09-01 04:28:29.863] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css {"startup":true,"extensionId":{"value":"ecmel.vscode-html-css","_lower":"ecmel.vscode-html-css"},"activationEvent":"*"}
+[2021-09-01 04:28:29.863] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jeff/.vscode/extensions/ecmel.vscode-html-css-1.10.2/dist/extension.js
+[2021-09-01 04:28:29.888] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-rename-tag","_lower":"formulahendry.auto-rename-tag"},"activationEvent":"*"}
+[2021-09-01 04:28:29.888] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jeff/.vscode/extensions/formulahendry.auto-rename-tag-0.1.8/packages/extension/dist/extensionMain.js
+[2021-09-01 04:28:29.905] [exthost] [info] ExtensionService#_doActivateExtension kamikillerto.vscode-colorize {"startup":true,"extensionId":{"value":"kamikillerto.vscode-colorize","_lower":"kamikillerto.vscode-colorize"},"activationEvent":"*"}
+[2021-09-01 04:28:29.905] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jeff/.vscode/extensions/kamikillerto.vscode-colorize-0.11.1/out/src/extension
+[2021-09-01 04:28:29.920] [exthost] [info] ExtensionService#_doActivateExtension mhutchie.git-graph {"startup":true,"extensionId":{"value":"mhutchie.git-graph","_lower":"mhutchie.git-graph"},"activationEvent":"*"}
+[2021-09-01 04:28:29.920] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jeff/.vscode/extensions/mhutchie.git-graph-1.30.0/out/extension.js
+[2021-09-01 04:28:29.935] [exthost] [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare {"startup":true,"extensionId":{"value":"ms-vsliveshare.vsliveshare","_lower":"ms-vsliveshare.vsliveshare"},"activationEvent":"*"}
+[2021-09-01 04:28:29.935] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jeff/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.4761/out/prod/extension-prod
+[2021-09-01 04:28:30.860] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight {"startup":true,"extensionId":{"value":"naumovs.color-highlight","_lower":"naumovs.color-highlight"},"activationEvent":"*"}
+[2021-09-01 04:28:30.860] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jeff/.vscode/extensions/naumovs.color-highlight-2.4.0/dist/extension
+[2021-09-01 04:28:30.872] [exthost] [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow {"startup":true,"extensionId":{"value":"oderwat.indent-rainbow","_lower":"oderwat.indent-rainbow"},"activationEvent":"*"}
+[2021-09-01 04:28:30.872] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jeff/.vscode/extensions/oderwat.indent-rainbow-7.5.0/out/extension
+[2021-09-01 04:28:30.873] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2021-09-01 04:28:30.873] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jeff/.vscode/extensions/pkief.material-icon-theme-4.10.0/dist/extension
+[2021-09-01 04:28:30.881] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2021-09-01 04:28:30.882] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jeff/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2021-09-01 04:28:31.047] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker {"startup":true,"extensionId":{"value":"streetsidesoftware.code-spell-checker","_lower":"streetsidesoftware.code-spell-checker"},"activationEvent":"*"}
+[2021-09-01 04:28:31.047] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jeff/.vscode/extensions/streetsidesoftware.code-spell-checker-2.0.1/packages/client/dist/extension.js
+[2021-09-01 04:28:31.097] [exthost] [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme {"startup":true,"extensionId":{"value":"zhuangtongfa.material-theme","_lower":"zhuangtongfa.material-theme"},"activationEvent":"*"}
+[2021-09-01 04:28:31.097] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jeff/.vscode/extensions/zhuangtongfa.material-theme-3.11.4/out/extension.js
+[2021-09-01 04:28:31.106] [exthost] [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion {"startup":true,"extensionId":{"value":"Zignd.html-css-class-completion","_lower":"zignd.html-css-class-completion"},"activationEvent":"*"}
+[2021-09-01 04:28:31.106] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jeff/.vscode/extensions/zignd.html-css-class-completion-1.20.0/dist/extension.js
+[2021-09-01 04:28:31.542] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-09-01 04:28:31.542] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-09-01 04:28:31.647] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":false,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-01 04:28:31.647] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github/dist/extension.js
+[2021-09-01 04:28:31.687] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-09-01 04:28:31.687] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-09-01 04:28:32.981] [exthost] [info] eager extensions activated
+[2021-09-01 04:28:32.992] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-09-01 04:28:32.992] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-09-01 04:28:32.995] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-09-01 04:28:32.995] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-09-01 04:28:32.996] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2 {"startup":false,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer-2","_lower":"coenraads.bracket-pair-colorizer-2"},"activationEvent":"onStartupFinished"}
+[2021-09-01 04:28:32.996] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jeff/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.1/out/src/extension
+[2021-09-01 04:28:33.005] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":false,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"onStartupFinished"}
+[2021-09-01 04:28:33.005] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jeff/.vscode/extensions/dbaeumer.vscode-eslint-2.1.23/client/out/extension
+[2021-09-01 04:28:33.009] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":false,"extensionId":{"value":"eamodio.gitlens","_lower":"eamodio.gitlens"},"activationEvent":"onStartupFinished"}
+[2021-09-01 04:28:33.009] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jeff/.vscode/extensions/eamodio.gitlens-11.6.0/dist/gitlens
+[2021-09-01 04:28:33.029] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2021-09-01 04:28:33.029] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jeff/.vscode/extensions/esbenp.prettier-vscode-8.1.0/dist/extension
+[2021-09-01 04:28:33.119] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner {"startup":false,"extensionId":{"value":"formulahendry.code-runner","_lower":"formulahendry.code-runner"},"activationEvent":"onStartupFinished"}
+[2021-09-01 04:28:33.119] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jeff/.vscode/extensions/formulahendry.code-runner-0.11.5/out/src/extension
+[2021-09-01 04:28:33.134] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-wsl","_lower":"ms-vscode-remote.remote-wsl"},"activationEvent":"onStartupFinished"}
+[2021-09-01 04:28:33.134] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jeff/.vscode/extensions/ms-vscode-remote.remote-wsl-0.58.2/dist/extension
+[2021-09-01 04:28:33.151] [exthost] [info] ExtensionService#_doActivateExtension rangav.vscode-thunder-client {"startup":false,"extensionId":{"value":"rangav.vscode-thunder-client","_lower":"rangav.vscode-thunder-client"},"activationEvent":"onStartupFinished"}
+[2021-09-01 04:28:33.151] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jeff/.vscode/extensions/rangav.vscode-thunder-client-1.9.1/dist/extension
+[2021-09-01 04:28:35.497] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-09-01 04:28:35.545] [exthost] [error] ProxyResolver#resolveProxy Canceled: Canceled
+    at Object.i [as canceled] (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+    at h._remoteCall (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:12893)
+    at Proxy.w.<computed>.E.charCodeAt.w.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:9388)
+    at E.resolveProxy (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:36763)
+    at Object.resolveProxy (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:57628)
+    at useProxySettings (/opt/visual-studio-code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:159:16)
+    at /opt/visual-studio-code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:107:13
+    at /opt/visual-studio-code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:335:13
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) 
+[2021-09-01 04:28:35.558] [exthost] [error] ProxyResolver#resolveProxy Canceled: Canceled
+    at Object.i [as canceled] (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+    at h._remoteCall (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:12893)
+    at Proxy.w.<computed>.E.charCodeAt.w.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:9388)
+    at E.resolveProxy (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:36763)
+    at Object.resolveProxy (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:57628)
+    at useProxySettings (/opt/visual-studio-code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:159:16)
+    at /opt/visual-studio-code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:107:13
+    at /opt/visual-studio-code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:335:13
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) 
+[2021-09-01 04:28:35.568] [exthost] [error] ProxyResolver#resolveProxy Canceled: Canceled
+    at Object.i [as canceled] (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+    at h._remoteCall (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:12893)
+    at Proxy.w.<computed>.E.charCodeAt.w.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:9388)
+    at E.resolveProxy (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:36763)
+    at Object.resolveProxy (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:57628)
+    at useProxySettings (/opt/visual-studio-code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:159:16)
+    at /opt/visual-studio-code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:107:13
+    at /opt/visual-studio-code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:335:13
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) 
+[2021-09-01 04:28:36.816] [exthost] [error] Error: ENOENT: no such file or directory, unlink '/home/jeff/.local/share/vsliveshare/cascade.json'
+[2021-09-01 04:28:40.535] [exthost] [info] exiting with code 0

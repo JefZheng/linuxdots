@@ -1,0 +1,6 @@
+[2021-09-01 04:25:08.592] [sharedprocess] [info] Deleted from disk wallabyjs.quokka-vscode /home/jeff/.vscode/extensions/wallabyjs.quokka-vscode-1.0.397
+[2021-09-01 04:25:18.291] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-09-01 04:25:18.292] [sharedprocess] [info] [logs cleanup]: Removing log folders '20210831T234126, 20210831T235738, 20210831T235739'
+[2021-09-01 04:25:38.288] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-09-01 04:25:38.288] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-09-01 04:25:48.293] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
