@@ -1,6 +1,0 @@
-2021/09/27-09:37:38.282 a8c Reusing MANIFEST /home/jeffrey/.config/Slack/Local Storage/leveldb/MANIFEST-000001
-2021/09/27-09:37:38.283 a8c Recovering log #145
-2021/09/27-09:37:38.283 a8c Reusing old log /home/jeffrey/.config/Slack/Local Storage/leveldb/000145.log 
-2021/09/27-09:53:40.393 1bb9 Level-0 table #149: started
-2021/09/27-09:53:40.406 1bb9 Level-0 table #149: 12691 bytes OK
-2021/09/27-09:53:40.409 1bb9 Delete type=0 #145
