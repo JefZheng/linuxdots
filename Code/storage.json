@@ -3,13 +3,7 @@
     "openedPathsList": {
         "entries": [
             {
-                "folderUri": "file:///home/jeff/.config"
-            },
-            {
-                "fileUri": "file:///home/jeff/.config/i3/config"
-            },
-            {
-                "fileUri": "file:///home/jeff/.config/i3/i3blocks.conf"
+                "folderUri": "file:///home/jeffrey/Work/smartrr"
             }
         ]
     },
@@ -24,10 +18,6 @@
                     {
                         "id": "workbench.action.newWindow",
                         "label": "New &&Window"
-                    },
-                    {
-                        "id": "welcome.showNewFileEntries",
-                        "label": "New File..."
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -45,7 +35,7 @@
                         "label": "Open Wor&&kspace..."
                     },
                     {
-                        "id": "submenuitem.29",
+                        "id": "submenuitem.30",
                         "label": "Open &&Recent",
                         "submenu": {
                             "items": [
@@ -61,38 +51,13 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "fsPath": "/home/jeff/.config",
-                                        "external": "file:///home/jeff/.config",
-                                        "path": "/home/jeff/.config",
+                                        "fsPath": "/home/jeffrey/Work/smartrr",
+                                        "external": "file:///home/jeffrey/Work/smartrr",
+                                        "path": "/home/jeffrey/Work/smartrr",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/.config"
-                                },
-                                {
-                                    "id": "vscode.menubar.separator"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/jeff/.config/i3/config",
-                                        "path": "/home/jeff/.config/i3/config",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/.config/i3/config"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/jeff/.config/i3/i3blocks.conf",
-                                        "path": "/home/jeff/.config/i3/i3blocks.conf",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/.config/i3/i3blocks.conf"
+                                    "label": "~/Work/smartrr"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -151,7 +116,7 @@
                         "checked": true
                     },
                     {
-                        "id": "submenuitem.28",
+                        "id": "submenuitem.29",
                         "label": "&&Preferences",
                         "submenu": {
                             "items": [
@@ -264,6 +229,22 @@
                         "label": "&&Copy"
                     },
                     {
+                        "id": "submenuitem.23",
+                        "label": "Copy As",
+                        "submenu": {
+                            "items": [
+                                {
+                                    "id": "gitlens.copyRemoteFileUrlToClipboard",
+                                    "label": "Copy Remote File Url"
+                                },
+                                {
+                                    "id": "gitlens.copyRemoteFileUrlFrom",
+                                    "label": "Copy Remote File Url From..."
+                                }
+                            ]
+                        }
+                    },
+                    {
                         "id": "editor.action.clipboardPasteAction",
                         "label": "&&Paste"
                     },
@@ -272,13 +253,11 @@
                     },
                     {
                         "id": "actions.find",
-                        "label": "&&Find",
-                        "enabled": false
+                        "label": "&&Find"
                     },
                     {
                         "id": "editor.action.startFindReplaceAction",
-                        "label": "&&Replace",
-                        "enabled": false
+                        "label": "&&Replace"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -399,7 +378,7 @@
                         "id": "vscode.menubar.separator"
                     },
                     {
-                        "id": "submenuitem.19",
+                        "id": "submenuitem.20",
                         "label": "&&Appearance",
                         "submenu": {
                             "items": [
@@ -440,7 +419,8 @@
                                 },
                                 {
                                     "id": "workbench.action.togglePanel",
-                                    "label": "Show &&Panel"
+                                    "label": "Show &&Panel",
+                                    "checked": true
                                 },
                                 {
                                     "id": "workbench.action.toggleEditorVisibility",
@@ -481,7 +461,7 @@
                         }
                     },
                     {
-                        "id": "submenuitem.26",
+                        "id": "submenuitem.27",
                         "label": "Editor &&Layout",
                         "submenu": {
                             "items": [
@@ -594,7 +574,7 @@
                     {
                         "id": "editor.action.toggleWordWrap",
                         "label": "&&Word Wrap",
-                        "enabled": false
+                        "checked": true
                     },
                     {
                         "id": "editor.action.toggleMinimap",
@@ -621,8 +601,7 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back",
-                        "enabled": false
+                        "label": "&&Back"
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -638,7 +617,7 @@
                         "id": "vscode.menubar.separator"
                     },
                     {
-                        "id": "submenuitem.31",
+                        "id": "submenuitem.32",
                         "label": "Switch &&Editor",
                         "submenu": {
                             "items": [
@@ -687,7 +666,7 @@
                         }
                     },
                     {
-                        "id": "submenuitem.32",
+                        "id": "submenuitem.33",
                         "label": "Switch &&Group",
                         "submenu": {
                             "items": [
@@ -773,28 +752,23 @@
                     },
                     {
                         "id": "editor.action.revealDefinition",
-                        "label": "Go to &&Definition",
-                        "enabled": false
+                        "label": "Go to &&Definition"
                     },
                     {
                         "id": "editor.action.revealDeclaration",
-                        "label": "Go to &&Declaration",
-                        "enabled": false
+                        "label": "Go to &&Declaration"
                     },
                     {
                         "id": "editor.action.goToTypeDefinition",
-                        "label": "Go to &&Type Definition",
-                        "enabled": false
+                        "label": "Go to &&Type Definition"
                     },
                     {
                         "id": "editor.action.goToImplementation",
-                        "label": "Go to &&Implementations",
-                        "enabled": false
+                        "label": "Go to &&Implementations"
                     },
                     {
                         "id": "editor.action.goToReferences",
-                        "label": "Go to &&References",
-                        "enabled": false
+                        "label": "Go to &&References"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -856,8 +830,7 @@
                     },
                     {
                         "id": "workbench.action.debug.configure",
-                        "label": "Open &&Configurations",
-                        "enabled": false
+                        "label": "Open &&Configurations"
                     },
                     {
                         "id": "debug.addConfiguration",
@@ -894,7 +867,7 @@
                         "label": "Toggle &&Breakpoint"
                     },
                     {
-                        "id": "submenuitem.27",
+                        "id": "submenuitem.28",
                         "label": "&&New Breakpoint",
                         "submenu": {
                             "items": [
@@ -949,8 +922,7 @@
                     },
                     {
                         "id": "workbench.action.terminal.split",
-                        "label": "&&Split Terminal",
-                        "enabled": false
+                        "label": "&&Split Terminal"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1090,10 +1062,6 @@
             "workbench.action.newWindow": {
                 "label": "Ctrl+Shift+N",
                 "userSettingsLabel": "ctrl+shift+n"
-            },
-            "welcome.showNewFileEntries": {
-                "label": "Ctrl+Alt+Super+N",
-                "userSettingsLabel": "ctrl+alt+meta+n"
             },
             "workbench.action.files.openFile": {
                 "label": "Ctrl+O",
@@ -1299,8 +1267,9 @@
                 "userSettingsLabel": "ctrl+shift+f"
             },
             "workbench.view.scm": {
-                "label": "Ctrl+Shift+G",
-                "userSettingsLabel": "ctrl+shift+g"
+                "label": "Ctrl+Shift+G G",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+shift+g g"
             },
             "workbench.view.debug": {
                 "label": "Ctrl+Shift+D",
@@ -1510,39 +1479,39 @@
         }
     },
     "theme": "vs-dark",
-    "themeBackground": "#1e2127",
+    "themeBackground": "#222436",
     "windowSplash": {
         "baseTheme": "vs-dark",
         "colorInfo": {
-            "foreground": "#cccccc",
-            "background": "#1e2127",
-            "editorBackground": "#1e2127",
-            "titleBarBackground": "#282c34",
-            "activityBarBackground": "#282c34",
-            "sideBarBackground": "#21252b",
-            "statusBarBackground": "#21252b",
-            "statusBarNoFolderBackground": "#21252b"
+            "foreground": "#c8d3f5",
+            "background": "#222436",
+            "editorBackground": "#222436",
+            "titleBarBackground": "#1e2030",
+            "activityBarBackground": "#1e2030",
+            "sideBarBackground": "#1e2030",
+            "statusBarBackground": "#1e2030",
+            "statusBarNoFolderBackground": "#222436"
         },
         "layoutInfo": {
             "sideBarSide": "right",
             "editorPartMinWidth": 220,
             "titleBarHeight": 0,
             "activityBarWidth": 48,
-            "sideBarWidth": 300,
+            "sideBarWidth": 292,
             "statusBarHeight": 22,
             "windowBorder": false
         }
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/jeff/.config",
-            "backupPath": "/home/jeff/.config/Code/Backups/7b08a3b6a7818f1d7ce3debba7067c25",
+            "folder": "file:///home/jeffrey/Work/smartrr",
+            "backupPath": "/home/jeffrey/.config/Code/Backups/3c343183877af5e12d8c73528438e031",
             "uiState": {
                 "mode": 1,
-                "x": 18,
-                "y": 43,
-                "width": 1884,
-                "height": 1019
+                "x": 11,
+                "y": 36,
+                "width": 945,
+                "height": 512
             }
         },
         "openedWindows": []

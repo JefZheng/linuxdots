@@ -1,0 +1,773 @@
+Validating found git in: git
+Using git 2.33.0 from git
+> git rev-parse --git-dir
+Open repository: /home/jeffrey/Work/smartrr
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/datadog-integration-vendor-portal refs/remotes/feature/datadog-integration-vendor-portal
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jeffrey/Work/smartrr/.git/refs/remotes/origin/feature/datadog-integration-vendor-portal', is most likely packed.
+> git config --get commit.template
+> git show --textconv :backend/src/applicationEventListeners/onSubscriptionCreate.ts
+> git ls-files --stage -- /home/jeffrey/Work/smartrr/backend/src/applicationEventListeners/onSubscriptionCreate.ts
+> git cat-file -s aa809267e71ef82c51e97c90e66fcccca400ea38
+> git check-ignore -v -z --stdin
+> git config --global user.email
+> git config --global user.name
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/datadog-integration-vendor-portal refs/remotes/feature/datadog-integration-vendor-portal
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jeffrey/Work/smartrr/.git/refs/remotes/origin/feature/datadog-integration-vendor-portal', is most likely packed.
+> git config --get commit.template
+> git show -s --format=%an <%ae> [%ai] 8bcce4c097b45ca16f421787ee426e8524d79742
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 8bcce4c097b45ca16f421787ee426e8524d79742
+> git show -s --format=%an <%ae> [%ai] 7adff5717d7b9df740fffb1636380ed9a5aa0de4
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 7adff5717d7b9df740fffb1636380ed9a5aa0de4
+> git show -s --format=%an <%ae> [%ai] 56cacc442642a05d3ada05024164ec18d87d2da5
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 56cacc442642a05d3ada05024164ec18d87d2da5
+> git show -s --format=%an <%ae> [%ai] f3f4f6dfa1ceeb30353378ac8982c08b1800f1aa
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z f3f4f6dfa1ceeb30353378ac8982c08b1800f1aa
+> git show -s --format=%an <%ae> [%ai] f053689fedfd6d0c049183ae4801ba76ee924231
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z f053689fedfd6d0c049183ae4801ba76ee924231
+> git show -s --format=%an <%ae> [%ai] 89c8d65c411dfe7c6280b7d53279048374aeb6dc
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 89c8d65c411dfe7c6280b7d53279048374aeb6dc
+> git show -s --format=%an <%ae> [%ai] 40c75b5cdcb11f26d071832e88228ab67a1d4ec0
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 40c75b5cdcb11f26d071832e88228ab67a1d4ec0
+> git show -s --format=%an <%ae> [%ai] 51652d44e66d049c85f34b0a3fb4813e353d357f
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 51652d44e66d049c85f34b0a3fb4813e353d357f
+> git show -s --format=%an <%ae> [%ai] 43430d949abd0a63c6db42e382e13c683138ecd9
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 43430d949abd0a63c6db42e382e13c683138ecd9
+> git show -s --format=%an <%ae> [%ai] 0d2ea7a6da855ee9c6ce7fbcee9f123e91eff20f
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 0d2ea7a6da855ee9c6ce7fbcee9f123e91eff20f
+> git show -s --format=%an <%ae> [%ai] 6065153e02136891fe2af5da2abf19243d06fc49
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 6065153e02136891fe2af5da2abf19243d06fc49
+> git show -s --format=%an <%ae> [%ai] 6088d80b974f360fa2b3a1c074f5fea8331edd1f
+> git fetch
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+git@gitlab.com: Permission denied (publickey,keyboard-interactive).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/jeffrey/Work/smartrr/backend/src/applicationEventListeners/onSubscriptionCreate.ts
+> git cat-file -s aa809267e71ef82c51e97c90e66fcccca400ea38
+> git show --textconv :backend/src/applicationEventListeners/onSubscriptionCreate.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/datadog-integration-vendor-portal refs/remotes/feature/datadog-integration-vendor-portal
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jeffrey/Work/smartrr/.git/refs/remotes/origin/feature/datadog-integration-vendor-portal', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :shared/entities/Schedule/RRuleManager.ts
+> git ls-files --stage -- /home/jeffrey/Work/smartrr/shared/entities/Schedule/RRuleManager.ts
+> git cat-file -s 9255643b949239b523ab249facfc8661f6e209c7
+> git fetch
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+git@gitlab.com: Permission denied (publickey,keyboard-interactive).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/jeffrey/Work/smartrr/shared/entities/Schedule/RRuleManager.ts
+> git cat-file -s 9255643b949239b523ab249facfc8661f6e209c7
+> git show --textconv :shared/entities/Schedule/RRuleManager.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/datadog-integration-vendor-portal refs/remotes/feature/datadog-integration-vendor-portal
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jeffrey/Work/smartrr/.git/refs/remotes/origin/feature/datadog-integration-vendor-portal', is most likely packed.
+> git config --get commit.template
+> git show --textconv :package.json
+> git ls-files --stage -- /home/jeffrey/Work/smartrr/package.json
+> git cat-file -s 06317d929c35f432096b828c7116f59c983d0705
+> git fetch
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+git@gitlab.com: Permission denied (publickey,keyboard-interactive).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/jeffrey/Work/smartrr/package.json
+> git cat-file -s 06317d929c35f432096b828c7116f59c983d0705
+> git show --textconv :package.json
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/datadog-integration-vendor-portal refs/remotes/feature/datadog-integration-vendor-portal
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jeffrey/Work/smartrr/.git/refs/remotes/origin/feature/datadog-integration-vendor-portal', is most likely packed.
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+git@gitlab.com: Permission denied (publickey,keyboard-interactive).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/jeffrey/Work/smartrr/package.json
+> git cat-file -s 06317d929c35f432096b828c7116f59c983d0705
+> git show --textconv :package.json
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/datadog-integration-vendor-portal refs/remotes/feature/datadog-integration-vendor-portal
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jeffrey/Work/smartrr/.git/refs/remotes/origin/feature/datadog-integration-vendor-portal', is most likely packed.
+> git config --get commit.template
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+git@gitlab.com: Permission denied (publickey,keyboard-interactive).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/jeffrey/Work/smartrr/package.json
+> git cat-file -s 06317d929c35f432096b828c7116f59c983d0705
+> git show --textconv :package.json
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/datadog-integration-vendor-portal refs/remotes/feature/datadog-integration-vendor-portal
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jeffrey/Work/smartrr/.git/refs/remotes/origin/feature/datadog-integration-vendor-portal', is most likely packed.
+> git config --get commit.template
+> git show --textconv :.vscode/launch.json
+> git ls-files --stage -- /home/jeffrey/Work/smartrr/.vscode/launch.json
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :backend/src/integrations/events.ts
+> git ls-files --stage -- /home/jeffrey/Work/smartrr/backend/src/integrations/events.ts
+> git cat-file -s b93a4f4eaf1be2c911afbc3ebf1a078aa9425d20
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/datadog-integration-vendor-portal refs/remotes/feature/datadog-integration-vendor-portal
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jeffrey/Work/smartrr/.git/refs/remotes/origin/feature/datadog-integration-vendor-portal', is most likely packed.
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+git@gitlab.com: Permission denied (publickey,keyboard-interactive).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/jeffrey/Work/smartrr/backend/src/integrations/events.ts
+> git cat-file -s b93a4f4eaf1be2c911afbc3ebf1a078aa9425d20
+> git show --textconv :backend/src/integrations/events.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/datadog-integration-vendor-portal refs/remotes/feature/datadog-integration-vendor-portal
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jeffrey/Work/smartrr/.git/refs/remotes/origin/feature/datadog-integration-vendor-portal', is most likely packed.
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+git@gitlab.com: Permission denied (publickey,keyboard-interactive).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/jeffrey/Work/smartrr/backend/src/integrations/events.ts
+> git cat-file -s b93a4f4eaf1be2c911afbc3ebf1a078aa9425d20
+> git show --textconv :backend/src/integrations/events.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/datadog-integration-vendor-portal refs/remotes/feature/datadog-integration-vendor-portal
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jeffrey/Work/smartrr/.git/refs/remotes/origin/feature/datadog-integration-vendor-portal', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /home/jeffrey/Work/smartrr/backend/src/integrations/events.ts
+> git symbolic-ref --short HEAD
+> git cat-file -s b93a4f4eaf1be2c911afbc3ebf1a078aa9425d20
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/datadog-integration-vendor-portal refs/remotes/feature/datadog-integration-vendor-portal
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git show --textconv :backend/src/integrations/events.ts
+Warning: Failed to watch ref '/home/jeffrey/Work/smartrr/.git/refs/remotes/origin/feature/datadog-integration-vendor-portal', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/datadog-integration-vendor-portal refs/remotes/feature/datadog-integration-vendor-portal
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jeffrey/Work/smartrr/.git/refs/remotes/origin/feature/datadog-integration-vendor-portal', is most likely packed.
+> git config --get commit.template
+> git ls-files --stage -- /home/jeffrey/Work/smartrr/backend/src/integrations/events.ts
+> git cat-file -s b93a4f4eaf1be2c911afbc3ebf1a078aa9425d20
+> git show --textconv :backend/src/integrations/events.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feature/datadog-integration-vendor-portal refs/remotes/feature/datadog-integration-vendor-portal
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jeffrey/Work/smartrr/.git/refs/remotes/origin/feature/datadog-integration-vendor-portal', is most likely packed.
+> git config --get commit.template
+> git ls-files --stage -- /home/jeffrey/Work/smartrr/backend/src/integrations/events.ts
+> git cat-file -s b93a4f4eaf1be2c911afbc3ebf1a078aa9425d20
+> git show --textconv :backend/src/integrations/events.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/jeffrey/Work/smartrr/backend/src/integrations/events.ts
+> git cat-file -s b93a4f4eaf1be2c911afbc3ebf1a078aa9425d20
+> git show --textconv :backend/src/integrations/events.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/jeffrey/Work/smartrr/backend/src/integrations/events.ts
+> git cat-file -s 7c7f33d80d0058c759feb74e2f4777c7bf958249
+> git show --textconv :backend/src/integrations/events.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+git@gitlab.com: Permission denied (publickey,keyboard-interactive).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/jeffrey/Work/smartrr/backend/src/integrations/events.ts
+> git cat-file -s 7c7f33d80d0058c759feb74e2f4777c7bf958249
+> git show --textconv :backend/src/integrations/events.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+git@gitlab.com: Permission denied (publickey,keyboard-interactive).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/jeffrey/Work/smartrr/backend/src/integrations/events.ts
+> git cat-file -s 7c7f33d80d0058c759feb74e2f4777c7bf958249
+> git show --textconv :backend/src/integrations/events.ts
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+git@gitlab.com: Permission denied (publickey,keyboard-interactive).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git fetch
+> git ls-files --stage -- /home/jeffrey/Work/smartrr/backend/src/integrations/events.ts
+> git cat-file -s 7c7f33d80d0058c759feb74e2f4777c7bf958249
+> git show --textconv :backend/src/integrations/events.ts
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+git@gitlab.com: Permission denied (publickey,keyboard-interactive).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/jeffrey/Work/smartrr/backend/src/integrations/events.ts
+> git cat-file -s 7c7f33d80d0058c759feb74e2f4777c7bf958249
+> git show --textconv :backend/src/integrations/events.ts
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+git@gitlab.com: Permission denied (publickey,keyboard-interactive).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git fetch
+> git ls-files --stage -- /home/jeffrey/Work/smartrr/backend/src/integrations/events.ts
+> git cat-file -s 7c7f33d80d0058c759feb74e2f4777c7bf958249
+> git show --textconv :backend/src/integrations/events.ts
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+git@gitlab.com: Permission denied (publickey,keyboard-interactive).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/jeffrey/Work/smartrr/backend/src/integrations/events.ts
+> git cat-file -s 7c7f33d80d0058c759feb74e2f4777c7bf958249
+> git show --textconv :backend/src/integrations/events.ts
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+git@gitlab.com: Permission denied (publickey,keyboard-interactive).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/jeffrey/Work/smartrr/backend/src/integrations/events.ts
+> git cat-file -s 7c7f33d80d0058c759feb74e2f4777c7bf958249
+> git show --textconv :backend/src/integrations/events.ts
+> git ls-files --stage -- /home/jeffrey/Work/smartrr/backend/src/integrations/events.ts
+> git cat-file -s 7c7f33d80d0058c759feb74e2f4777c7bf958249
+> git show --textconv :backend/src/integrations/events.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/jeffrey/Work/smartrr/backend/src/integrations/events.ts
+> git cat-file -s 7c7f33d80d0058c759feb74e2f4777c7bf958249
+> git show --textconv :backend/src/integrations/events.ts
+> git ls-files --stage -- /home/jeffrey/Work/smartrr/backend/src/integrations/events.ts
+> git cat-file -s 7c7f33d80d0058c759feb74e2f4777c7bf958249
+> git show --textconv :backend/src/integrations/events.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :.gitignore
+> git ls-files --stage -- /home/jeffrey/Work/smartrr/.gitignore
+> git cat-file -s 59066b65cfd9bbd27a616e4b1135a706969ba389
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+git@gitlab.com: Permission denied (publickey,keyboard-interactive).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/jeffrey/Work/smartrr/.gitignore
+> git cat-file -s 59066b65cfd9bbd27a616e4b1135a706969ba389
+> git show --textconv :.gitignore
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+git@gitlab.com: Permission denied (publickey,keyboard-interactive).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/jeffrey/Work/smartrr/.gitignore
+> git cat-file -s 59066b65cfd9bbd27a616e4b1135a706969ba389
+> git show --textconv :.gitignore
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+git@gitlab.com: Permission denied (publickey,keyboard-interactive).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/jeffrey/Work/smartrr/.gitignore
+> git cat-file -s 59066b65cfd9bbd27a616e4b1135a706969ba389
+> git show --textconv :.gitignore
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+git@gitlab.com: Permission denied (publickey,keyboard-interactive).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/jeffrey/Work/smartrr/.gitignore
+> git cat-file -s 59066b65cfd9bbd27a616e4b1135a706969ba389
+> git show --textconv :.gitignore
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+git@gitlab.com: Permission denied (publickey,keyboard-interactive).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git fetch
+> git ls-files --stage -- /home/jeffrey/Work/smartrr/.gitignore
+> git cat-file -s 59066b65cfd9bbd27a616e4b1135a706969ba389
+> git show --textconv :.gitignore
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+git@gitlab.com: Permission denied (publickey,keyboard-interactive).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/jeffrey/Work/smartrr/.gitignore
+> git cat-file -s 59066b65cfd9bbd27a616e4b1135a706969ba389
+> git show --textconv :.gitignore
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :shared/entities/Schedule/RRuleManager.ts
+> git ls-files --stage -- /home/jeffrey/Work/smartrr/shared/entities/Schedule/RRuleManager.ts
+> git cat-file -s 9255643b949239b523ab249facfc8661f6e209c7
+> git fetch
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+git@gitlab.com: Permission denied (publickey,keyboard-interactive).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/jeffrey/Work/smartrr/shared/entities/Schedule/RRuleManager.ts
+> git cat-file -s 9255643b949239b523ab249facfc8661f6e209c7
+> git show --textconv :shared/entities/Schedule/RRuleManager.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+git@gitlab.com: Permission denied (publickey,keyboard-interactive).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/jeffrey/Work/smartrr/shared/entities/Schedule/RRuleManager.ts
+> git cat-file -s 9255643b949239b523ab249facfc8661f6e209c7
+> git show --textconv :shared/entities/Schedule/RRuleManager.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+git@gitlab.com: Permission denied (publickey,keyboard-interactive).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/jeffrey/Work/smartrr/shared/entities/Schedule/RRuleManager.ts
+> git cat-file -s 9255643b949239b523ab249facfc8661f6e209c7
+> git show --textconv :shared/entities/Schedule/RRuleManager.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+git@gitlab.com: Permission denied (publickey,keyboard-interactive).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/jeffrey/Work/smartrr/shared/entities/Schedule/RRuleManager.ts
+> git cat-file -s 9255643b949239b523ab249facfc8661f6e209c7
+> git show --textconv :shared/entities/Schedule/RRuleManager.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+git@gitlab.com: Permission denied (publickey,keyboard-interactive).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/jeffrey/Work/smartrr/shared/entities/Schedule/RRuleManager.ts
+> git cat-file -s 9255643b949239b523ab249facfc8661f6e209c7
+> git show --textconv :shared/entities/Schedule/RRuleManager.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+git@gitlab.com: Permission denied (publickey,keyboard-interactive).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/jeffrey/Work/smartrr/shared/entities/Schedule/RRuleManager.ts
+> git cat-file -s 9255643b949239b523ab249facfc8661f6e209c7
+> git show --textconv :shared/entities/Schedule/RRuleManager.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+git@gitlab.com: Permission denied (publickey,keyboard-interactive).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/jeffrey/Work/smartrr/shared/entities/Schedule/RRuleManager.ts
+> git cat-file -s 9255643b949239b523ab249facfc8661f6e209c7
+> git show --textconv :shared/entities/Schedule/RRuleManager.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+git@gitlab.com: Permission denied (publickey,keyboard-interactive).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/jeffrey/Work/smartrr/shared/entities/Schedule/RRuleManager.ts
+> git cat-file -s 9255643b949239b523ab249facfc8661f6e209c7
+> git show --textconv :shared/entities/Schedule/RRuleManager.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+git@gitlab.com: Permission denied (publickey,keyboard-interactive).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/jeffrey/Work/smartrr/shared/entities/Schedule/RRuleManager.ts
+> git cat-file -s 9255643b949239b523ab249facfc8661f6e209c7
+> git show --textconv :shared/entities/Schedule/RRuleManager.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+git@gitlab.com: Permission denied (publickey,keyboard-interactive).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/jeffrey/Work/smartrr/shared/entities/Schedule/RRuleManager.ts
+> git cat-file -s 9255643b949239b523ab249facfc8661f6e209c7
+> git show --textconv :shared/entities/Schedule/RRuleManager.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+git@gitlab.com: Permission denied (publickey,keyboard-interactive).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/jeffrey/Work/smartrr/shared/entities/Schedule/RRuleManager.ts
+> git cat-file -s 9255643b949239b523ab249facfc8661f6e209c7
+> git show --textconv :shared/entities/Schedule/RRuleManager.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+git@gitlab.com: Permission denied (publickey,keyboard-interactive).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/jeffrey/Work/smartrr/shared/entities/Schedule/RRuleManager.ts
+> git cat-file -s 9255643b949239b523ab249facfc8661f6e209c7
+> git show --textconv :shared/entities/Schedule/RRuleManager.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+git@gitlab.com: Permission denied (publickey,keyboard-interactive).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/jeffrey/Work/smartrr/shared/entities/Schedule/RRuleManager.ts
+> git cat-file -s 9255643b949239b523ab249facfc8661f6e209c7
+> git show --textconv :shared/entities/Schedule/RRuleManager.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+git@gitlab.com: Permission denied (publickey,keyboard-interactive).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/jeffrey/Work/smartrr/shared/entities/Schedule/RRuleManager.ts
+> git cat-file -s 9255643b949239b523ab249facfc8661f6e209c7
+> git show --textconv :shared/entities/Schedule/RRuleManager.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+git@gitlab.com: Permission denied (publickey,keyboard-interactive).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/jeffrey/Work/smartrr/shared/entities/Schedule/RRuleManager.ts
+> git cat-file -s 9255643b949239b523ab249facfc8661f6e209c7
+> git show --textconv :shared/entities/Schedule/RRuleManager.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+git@gitlab.com: Permission denied (publickey,keyboard-interactive).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/jeffrey/Work/smartrr/shared/entities/Schedule/RRuleManager.ts
+> git cat-file -s 9255643b949239b523ab249facfc8661f6e209c7
+> git show --textconv :shared/entities/Schedule/RRuleManager.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+git@gitlab.com: Permission denied (publickey,keyboard-interactive).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/jeffrey/Work/smartrr/shared/entities/Schedule/RRuleManager.ts
+> git cat-file -s 9255643b949239b523ab249facfc8661f6e209c7
+> git show --textconv :shared/entities/Schedule/RRuleManager.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+git@gitlab.com: Permission denied (publickey,keyboard-interactive).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/jeffrey/Work/smartrr/shared/entities/Schedule/RRuleManager.ts
+> git cat-file -s 9255643b949239b523ab249facfc8661f6e209c7
+> git show --textconv :shared/entities/Schedule/RRuleManager.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template

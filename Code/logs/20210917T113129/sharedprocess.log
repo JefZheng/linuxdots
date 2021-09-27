@@ -1,0 +1,14 @@
+[2021-09-17 11:31:32.661] [sharedprocess] [info] Deleted from disk streetsidesoftware.code-spell-checker /home/jeffrey/.vscode/extensions/streetsidesoftware.code-spell-checker-2.0.4
+[2021-09-17 11:31:32.663] [sharedprocess] [info] Deleted from disk ms-vscode.vscode-typescript-next /home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210914
+[2021-09-17 11:31:40.985] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-09-17 11:31:40.986] [sharedprocess] [info] [logs cleanup]: Removing log folders '20210914T095135'
+[2021-09-17 11:32:00.992] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-09-17 11:32:00.994] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-09-17 11:32:10.992] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
+[2021-09-20 09:48:51.648] [sharedprocess] [info] Installing extension: ms-vscode-remote.remote-containers
+[2021-09-20 09:48:51.649] [sharedprocess] [info] Installing the extension without checking dependencies and pack ms-vscode-remote.remote-containers
+[2021-09-20 09:48:52.129] [sharedprocess] [info] Downloaded extension: ms-vscode-remote.remote-containers /home/jeffrey/.config/Code/CachedExtensionVSIXs/ms-vscode-remote.remote-containers-0.194.0
+[2021-09-20 09:48:52.637] [sharedprocess] [info] Extracted extension to /home/jeffrey/.vscode/extensions/.89bd4b97-b242-4936-bfaa-c93ecf581002: ms-vscode-remote.remote-containers
+[2021-09-20 09:48:52.654] [sharedprocess] [info] Renamed to /home/jeffrey/.vscode/extensions/ms-vscode-remote.remote-containers-0.194.0
+[2021-09-20 09:48:52.656] [sharedprocess] [info] Extracting completed. ms-vscode-remote.remote-containers
+[2021-09-20 09:48:52.664] [sharedprocess] [info] Extension installed successfully: ms-vscode-remote.remote-containers

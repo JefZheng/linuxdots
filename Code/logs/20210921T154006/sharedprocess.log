@@ -1,0 +1,6 @@
+[2021-09-21 15:40:08.425] [sharedprocess] [info] Deleted from disk ms-vscode.vscode-typescript-next /home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210919
+[2021-09-21 15:40:17.799] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-09-21 15:40:17.799] [sharedprocess] [info] [logs cleanup]: Removing log folders '20210914T152538'
+[2021-09-21 15:40:37.802] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-09-21 15:40:37.803] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-09-21 15:40:47.802] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.

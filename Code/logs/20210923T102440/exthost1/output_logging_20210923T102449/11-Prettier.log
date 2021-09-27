@@ -1,0 +1,2643 @@
+["INFO" - 10:24:49 AM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 10:24:49 AM] Extension Version: 9.0.0.
+["INFO" - 10:27:26 AM] Formatting file:///home/jeffrey/Work/smartrr/frontend/test/Schedule/Schedule.test.ts
+["INFO" - 10:27:26 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 10:27:26 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 10:27:26 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 10:27:26 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 10:27:26 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/frontend/test/Schedule/Schedule.test.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 10:27:27 AM] Formatting completed in 0.494ms.
+["INFO" - 10:31:40 AM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 10:31:40 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 10:31:40 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 10:31:40 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 10:31:40 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 10:31:40 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 10:31:40 AM] Formatting completed in 0.123ms.
+["INFO" - 10:33:18 AM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 10:33:18 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 10:33:18 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 10:33:18 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 10:33:18 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 10:33:18 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 10:33:18 AM] Formatting completed in 0.096ms.
+["INFO" - 10:33:47 AM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 10:33:47 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 10:33:47 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 10:33:47 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 10:33:47 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 10:33:47 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 10:33:47 AM] Formatting completed in 0.122ms.
+["INFO" - 10:35:00 AM] Formatting file:///home/jeffrey/Work/smartrr/frontend/test/Schedule/Schedule.test.ts
+["INFO" - 10:35:00 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 10:35:00 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 10:35:00 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 10:35:00 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 10:35:00 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/frontend/test/Schedule/Schedule.test.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 10:35:01 AM] Formatting completed in 0.313ms.
+["INFO" - 10:37:44 AM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 10:37:44 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 10:37:44 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 10:37:44 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 10:37:44 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 10:37:44 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "rangeEnd": 4359,
+  "rangeStart": 4315,
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["ERROR" - 10:37:44 AM] Error formatting document.
+["ERROR" - 10:37:44 AM] Expression expected. (115:1)
+  113 |   if (nextAnchor.getDay === initialDate.getDay && 
+  114 |     nextAnchor.getDay === initialDate.getDay && 
+> 115 | }
+      | ^
+  116 | 
+  117 | // uses getRRuleAnchorDates so that the previous anchor date can be isolated from the RRule
+  118 | export function getPreviousAnchorDate(anchorRRule: Readonly<RRule>, initialDate: Date): Date {
+SyntaxError: Expression expected. (115:1)
+  113 |   if (nextAnchor.getDay === initialDate.getDay && 
+  114 |     nextAnchor.getDay === initialDate.getDay && 
+> 115 | }
+      | ^
+  116 | 
+  117 | // uses getRRuleAnchorDates so that the previous anchor date can be isolated from the RRule
+  118 | export function getPreviousAnchorDate(anchorRRule: Readonly<RRule>, initialDate: Date): Date {
+    at e (/home/jeffrey/Work/smartrr/node_modules/prettier/parser-typescript.js:1:384)
+    at Object.parse (/home/jeffrey/Work/smartrr/node_modules/prettier/parser-typescript.js:1:3072782)
+    at Object.parse (/home/jeffrey/Work/smartrr/node_modules/prettier/index.js:13625:19)
+    at formatRange (/home/jeffrey/Work/smartrr/node_modules/prettier/index.js:14986:14)
+    at format (/home/jeffrey/Work/smartrr/node_modules/prettier/index.js:15125:14)
+    at /home/jeffrey/Work/smartrr/node_modules/prettier/index.js:57542:12
+    at Object.Success [as format] (/home/jeffrey/Work/smartrr/node_modules/prettier/index.js:57562:12)
+    at t.default.<anonymous> (/home/jeffrey/.vscode/extensions/esbenp.prettier-vscode-9.0.0/src/PrettierEditService.ts:434:45)
+    at Generator.next (<anonymous>)
+    at s (/home/jeffrey/.vscode/extensions/esbenp.prettier-vscode-9.0.0/dist/extension.js:1:7872)
+["INFO" - 10:37:44 AM] Formatting completed in 0.094ms.
+["INFO" - 10:37:45 AM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 10:37:45 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 10:37:45 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 10:37:45 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 10:37:45 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 10:37:45 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "rangeEnd": 4408,
+  "rangeStart": 4364,
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["ERROR" - 10:37:45 AM] Error formatting document.
+["ERROR" - 10:37:45 AM] Expression expected. (116:1)
+  114 |     nextAnchor.getDay === initialDate.getDay && 
+  115 |     nextAnchor.getDay === initialDate.getDay && 
+> 116 | }
+      | ^
+  117 | 
+  118 | // uses getRRuleAnchorDates so that the previous anchor date can be isolated from the RRule
+  119 | export function getPreviousAnchorDate(anchorRRule: Readonly<RRule>, initialDate: Date): Date {
+SyntaxError: Expression expected. (116:1)
+  114 |     nextAnchor.getDay === initialDate.getDay && 
+  115 |     nextAnchor.getDay === initialDate.getDay && 
+> 116 | }
+      | ^
+  117 | 
+  118 | // uses getRRuleAnchorDates so that the previous anchor date can be isolated from the RRule
+  119 | export function getPreviousAnchorDate(anchorRRule: Readonly<RRule>, initialDate: Date): Date {
+    at e (/home/jeffrey/Work/smartrr/node_modules/prettier/parser-typescript.js:1:384)
+    at Object.parse (/home/jeffrey/Work/smartrr/node_modules/prettier/parser-typescript.js:1:3072782)
+    at Object.parse (/home/jeffrey/Work/smartrr/node_modules/prettier/index.js:13625:19)
+    at formatRange (/home/jeffrey/Work/smartrr/node_modules/prettier/index.js:14986:14)
+    at format (/home/jeffrey/Work/smartrr/node_modules/prettier/index.js:15125:14)
+    at /home/jeffrey/Work/smartrr/node_modules/prettier/index.js:57542:12
+    at Object.Success [as format] (/home/jeffrey/Work/smartrr/node_modules/prettier/index.js:57562:12)
+    at t.default.<anonymous> (/home/jeffrey/.vscode/extensions/esbenp.prettier-vscode-9.0.0/src/PrettierEditService.ts:434:45)
+    at Generator.next (<anonymous>)
+    at s (/home/jeffrey/.vscode/extensions/esbenp.prettier-vscode-9.0.0/dist/extension.js:1:7872)
+["INFO" - 10:37:45 AM] Formatting completed in 0.025ms.
+["INFO" - 10:38:09 AM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 10:38:09 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 10:38:09 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 10:38:09 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 10:38:09 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 10:38:09 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["ERROR" - 10:38:09 AM] Error formatting document.
+["ERROR" - 10:38:09 AM] ')' expected. (116:1)
+  114 |     nextAnchor.getMonth === initialDate.getMonth && 
+  115 |     nextAnchor.getFullYear === initialDate.getFullYear_ 
+> 116 | }
+      | ^
+  117 | 
+  118 | // uses getRRuleAnchorDates so that the previous anchor date can be isolated from the RRule
+  119 | export function getPreviousAnchorDate(anchorRRule: Readonly<RRule>, initialDate: Date): Date {
+SyntaxError: ')' expected. (116:1)
+  114 |     nextAnchor.getMonth === initialDate.getMonth && 
+  115 |     nextAnchor.getFullYear === initialDate.getFullYear_ 
+> 116 | }
+      | ^
+  117 | 
+  118 | // uses getRRuleAnchorDates so that the previous anchor date can be isolated from the RRule
+  119 | export function getPreviousAnchorDate(anchorRRule: Readonly<RRule>, initialDate: Date): Date {
+    at e (/home/jeffrey/Work/smartrr/node_modules/prettier/parser-typescript.js:1:384)
+    at Object.parse (/home/jeffrey/Work/smartrr/node_modules/prettier/parser-typescript.js:1:3072782)
+    at Object.parse (/home/jeffrey/Work/smartrr/node_modules/prettier/index.js:13625:19)
+    at coreFormat (/home/jeffrey/Work/smartrr/node_modules/prettier/index.js:14899:14)
+    at format (/home/jeffrey/Work/smartrr/node_modules/prettier/index.js:15131:14)
+    at /home/jeffrey/Work/smartrr/node_modules/prettier/index.js:57542:12
+    at Object.Success [as format] (/home/jeffrey/Work/smartrr/node_modules/prettier/index.js:57562:12)
+    at t.default.<anonymous> (/home/jeffrey/.vscode/extensions/esbenp.prettier-vscode-9.0.0/src/PrettierEditService.ts:434:45)
+    at Generator.next (<anonymous>)
+    at s (/home/jeffrey/.vscode/extensions/esbenp.prettier-vscode-9.0.0/dist/extension.js:1:7872)
+["INFO" - 10:38:09 AM] Formatting completed in 0.065ms.
+["INFO" - 10:38:11 AM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 10:38:11 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 10:38:11 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 10:38:11 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 10:38:11 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 10:38:11 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["ERROR" - 10:38:11 AM] Error formatting document.
+["ERROR" - 10:38:11 AM] Expression expected. (116:1)
+  114 |     nextAnchor.getMonth === initialDate.getMonth && 
+  115 |     nextAnchor.getFullYear === initialDate.getFullYear) 
+> 116 | }
+      | ^
+  117 | 
+  118 | // uses getRRuleAnchorDates so that the previous anchor date can be isolated from the RRule
+  119 | export function getPreviousAnchorDate(anchorRRule: Readonly<RRule>, initialDate: Date): Date {
+SyntaxError: Expression expected. (116:1)
+  114 |     nextAnchor.getMonth === initialDate.getMonth && 
+  115 |     nextAnchor.getFullYear === initialDate.getFullYear) 
+> 116 | }
+      | ^
+  117 | 
+  118 | // uses getRRuleAnchorDates so that the previous anchor date can be isolated from the RRule
+  119 | export function getPreviousAnchorDate(anchorRRule: Readonly<RRule>, initialDate: Date): Date {
+    at e (/home/jeffrey/Work/smartrr/node_modules/prettier/parser-typescript.js:1:384)
+    at Object.parse (/home/jeffrey/Work/smartrr/node_modules/prettier/parser-typescript.js:1:3072782)
+    at Object.parse (/home/jeffrey/Work/smartrr/node_modules/prettier/index.js:13625:19)
+    at coreFormat (/home/jeffrey/Work/smartrr/node_modules/prettier/index.js:14899:14)
+    at format (/home/jeffrey/Work/smartrr/node_modules/prettier/index.js:15131:14)
+    at /home/jeffrey/Work/smartrr/node_modules/prettier/index.js:57542:12
+    at Object.Success [as format] (/home/jeffrey/Work/smartrr/node_modules/prettier/index.js:57562:12)
+    at t.default.<anonymous> (/home/jeffrey/.vscode/extensions/esbenp.prettier-vscode-9.0.0/src/PrettierEditService.ts:434:45)
+    at Generator.next (<anonymous>)
+    at s (/home/jeffrey/.vscode/extensions/esbenp.prettier-vscode-9.0.0/dist/extension.js:1:7872)
+["INFO" - 10:38:11 AM] Formatting completed in 0.03ms.
+["INFO" - 10:38:15 AM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 10:38:15 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 10:38:15 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 10:38:15 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 10:38:15 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 10:38:15 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["ERROR" - 10:38:15 AM] Error formatting document.
+["ERROR" - 10:38:15 AM] Expression expected. (117:1)
+  115 |     nextAnchor.getMonth === initialDate.getMonth && 
+  116 |     nextAnchor.getFullYear === initialDate.getFullYear) 
+> 117 | }
+      | ^
+  118 | 
+  119 | // uses getRRuleAnchorDates so that the previous anchor date can be isolated from the RRule
+  120 | export function getPreviousAnchorDate(anchorRRule: Readonly<RRule>, initialDate: Date): Date {
+SyntaxError: Expression expected. (117:1)
+  115 |     nextAnchor.getMonth === initialDate.getMonth && 
+  116 |     nextAnchor.getFullYear === initialDate.getFullYear) 
+> 117 | }
+      | ^
+  118 | 
+  119 | // uses getRRuleAnchorDates so that the previous anchor date can be isolated from the RRule
+  120 | export function getPreviousAnchorDate(anchorRRule: Readonly<RRule>, initialDate: Date): Date {
+    at e (/home/jeffrey/Work/smartrr/node_modules/prettier/parser-typescript.js:1:384)
+    at Object.parse (/home/jeffrey/Work/smartrr/node_modules/prettier/parser-typescript.js:1:3072782)
+    at Object.parse (/home/jeffrey/Work/smartrr/node_modules/prettier/index.js:13625:19)
+    at coreFormat (/home/jeffrey/Work/smartrr/node_modules/prettier/index.js:14899:14)
+    at format (/home/jeffrey/Work/smartrr/node_modules/prettier/index.js:15131:14)
+    at /home/jeffrey/Work/smartrr/node_modules/prettier/index.js:57542:12
+    at Object.Success [as format] (/home/jeffrey/Work/smartrr/node_modules/prettier/index.js:57562:12)
+    at t.default.<anonymous> (/home/jeffrey/.vscode/extensions/esbenp.prettier-vscode-9.0.0/src/PrettierEditService.ts:434:45)
+    at Generator.next (<anonymous>)
+    at s (/home/jeffrey/.vscode/extensions/esbenp.prettier-vscode-9.0.0/dist/extension.js:1:7872)
+["INFO" - 10:38:15 AM] Formatting completed in 0.048ms.
+["INFO" - 10:38:56 AM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 10:38:56 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 10:38:56 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 10:38:56 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 10:38:56 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 10:38:56 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 10:38:56 AM] Formatting completed in 0.084ms.
+["INFO" - 10:42:16 AM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 10:42:16 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 10:42:16 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 10:42:16 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 10:42:16 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 10:42:16 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 10:42:17 AM] Formatting completed in 0.132ms.
+["INFO" - 10:43:39 AM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 10:43:39 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 10:43:39 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 10:43:39 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 10:43:39 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 10:43:39 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 10:43:39 AM] Formatting completed in 0.106ms.
+["INFO" - 10:45:05 AM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 10:45:05 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 10:45:05 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 10:45:06 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 10:45:06 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 10:45:06 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 10:45:06 AM] Formatting completed in 0.13ms.
+["INFO" - 10:45:34 AM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 10:45:34 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 10:45:34 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 10:45:34 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 10:45:34 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 10:45:34 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 10:45:34 AM] Formatting completed in 0.111ms.
+["INFO" - 10:45:48 AM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 10:45:48 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 10:45:48 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 10:45:48 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 10:45:48 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 10:45:48 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 10:45:48 AM] Formatting completed in 0.057ms.
+["INFO" - 10:46:59 AM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 10:46:59 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 10:46:59 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 10:46:59 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 10:46:59 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 10:46:59 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 10:46:59 AM] Formatting completed in 0.046ms.
+["INFO" - 10:47:25 AM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 10:47:25 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 10:47:25 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 10:47:25 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 10:47:25 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 10:47:25 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 10:47:25 AM] Formatting completed in 0.125ms.
+["INFO" - 10:47:33 AM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 10:47:33 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 10:47:33 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 10:47:33 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 10:47:33 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 10:47:33 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 10:47:33 AM] Formatting completed in 0.06ms.
+["INFO" - 10:49:28 AM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 10:49:28 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 10:49:28 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 10:49:28 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 10:49:28 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 10:49:28 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 10:49:28 AM] Formatting completed in 0.093ms.
+["INFO" - 10:49:38 AM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 10:49:38 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 10:49:38 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 10:49:38 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 10:49:38 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 10:49:38 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 10:49:38 AM] Formatting completed in 0.067ms.
+["INFO" - 10:50:08 AM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 10:50:08 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 10:50:08 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 10:50:08 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 10:50:08 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 10:50:08 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 10:50:08 AM] Formatting completed in 0.049ms.
+["INFO" - 10:50:41 AM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 10:50:41 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 10:50:41 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 10:50:41 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 10:50:41 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 10:50:41 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 10:50:41 AM] Formatting completed in 0.059ms.
+["INFO" - 10:52:44 AM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 10:52:44 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 10:52:44 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 10:52:44 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 10:52:44 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 10:52:44 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 10:52:44 AM] Formatting completed in 0.05ms.
+["INFO" - 10:53:14 AM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 10:53:14 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 10:53:14 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 10:53:14 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 10:53:14 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 10:53:14 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 10:53:14 AM] Formatting completed in 0.09ms.
+["INFO" - 10:54:39 AM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 10:54:39 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 10:54:39 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 10:54:39 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 10:54:39 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 10:54:39 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 10:54:39 AM] Formatting completed in 0.058ms.
+["INFO" - 10:56:11 AM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 10:56:11 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 10:56:11 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 10:56:11 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 10:56:11 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 10:56:11 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 10:56:11 AM] Formatting completed in 0.059ms.
+["INFO" - 10:57:25 AM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 10:57:25 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 10:57:25 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 10:57:25 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 10:57:25 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 10:57:25 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 10:57:25 AM] Formatting completed in 0.05ms.
+["INFO" - 10:59:49 AM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 10:59:49 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 10:59:49 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 10:59:49 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 10:59:49 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 10:59:49 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 10:59:49 AM] Formatting completed in 0.05ms.
+["INFO" - 10:59:57 AM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 10:59:57 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 10:59:57 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 10:59:57 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 10:59:57 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 10:59:57 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 10:59:57 AM] Formatting completed in 0.045ms.
+["INFO" - 11:02:26 AM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 11:02:26 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 11:02:26 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 11:02:26 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 11:02:26 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 11:02:26 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 11:02:26 AM] Formatting completed in 0.045ms.
+["INFO" - 11:02:27 AM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 11:02:27 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 11:02:27 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 11:02:27 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 11:02:27 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 11:02:27 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 11:02:28 AM] Formatting completed in 0.037ms.
+["INFO" - 11:02:53 AM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 11:02:53 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 11:02:53 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 11:02:53 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 11:02:53 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 11:02:53 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 11:02:53 AM] Formatting completed in 0.178ms.
+["INFO" - 11:04:43 AM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 11:04:43 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 11:04:43 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 11:04:43 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 11:04:43 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 11:04:43 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 11:04:43 AM] Formatting completed in 0.037ms.
+["INFO" - 11:05:16 AM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 11:05:16 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 11:05:16 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 11:05:16 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 11:05:16 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 11:05:16 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "rangeEnd": 5270,
+  "rangeStart": 4845,
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 11:05:16 AM] Formatting completed in 0.055ms.
+["INFO" - 11:05:39 AM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 11:05:39 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 11:05:39 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 11:05:39 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 11:05:39 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 11:05:39 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 11:05:39 AM] Formatting completed in 0.054ms.
+["INFO" - 11:05:57 AM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 11:05:57 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 11:05:57 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 11:05:57 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 11:05:57 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 11:05:57 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 11:05:57 AM] Formatting completed in 0.044ms.
+["INFO" - 11:06:41 AM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 11:06:41 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 11:06:41 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 11:06:41 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 11:06:41 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 11:06:41 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 11:06:41 AM] Formatting completed in 0.075ms.
+["INFO" - 11:07:17 AM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 11:07:17 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 11:07:17 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 11:07:17 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 11:07:17 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 11:07:17 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 11:07:17 AM] Formatting completed in 0.035ms.
+["INFO" - 11:08:09 AM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 11:08:09 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 11:08:09 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 11:08:09 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 11:08:09 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 11:08:09 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 11:08:09 AM] Formatting completed in 0.088ms.
+["INFO" - 11:18:50 AM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 11:18:50 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 11:18:50 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 11:18:50 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 11:18:50 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 11:18:50 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 11:18:50 AM] Formatting completed in 0.11ms.
+["INFO" - 11:19:32 AM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 11:19:32 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 11:19:32 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 11:19:32 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 11:19:32 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 11:19:32 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 11:19:33 AM] Formatting completed in 0.073ms.
+["INFO" - 11:20:16 AM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 11:20:16 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 11:20:16 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 11:20:16 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 11:20:16 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 11:20:16 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 11:20:16 AM] Formatting completed in 0.054ms.
+["INFO" - 11:20:20 AM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 11:20:20 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 11:20:20 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 11:20:20 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 11:20:20 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 11:20:20 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 11:20:20 AM] Formatting completed in 0.049ms.
+["INFO" - 11:22:07 AM] Formatting file:///home/jeffrey/Work/smartrr/frontend/test/Schedule/Schedule.test.ts
+["INFO" - 11:22:07 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 11:22:07 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 11:22:07 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 11:22:07 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 11:22:07 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/frontend/test/Schedule/Schedule.test.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 11:22:08 AM] Formatting completed in 0.309ms.
+["INFO" - 11:22:09 AM] Formatting file:///home/jeffrey/Work/smartrr/frontend/test/Schedule/Schedule.test.ts
+["INFO" - 11:22:09 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 11:22:09 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 11:22:09 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 11:22:09 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 11:22:09 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/frontend/test/Schedule/Schedule.test.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 11:22:09 AM] Formatting completed in 0.25ms.
+["INFO" - 11:22:17 AM] Formatting file:///home/jeffrey/Work/smartrr/frontend/test/Schedule/Schedule.test.ts
+["INFO" - 11:22:17 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 11:22:17 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 11:22:17 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 11:22:17 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 11:22:17 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/frontend/test/Schedule/Schedule.test.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 11:22:17 AM] Formatting completed in 0.299ms.
+["INFO" - 11:24:50 AM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 11:24:50 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 11:24:50 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 11:24:50 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 11:24:50 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 11:24:50 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 11:24:50 AM] Formatting completed in 0.118ms.
+["INFO" - 11:25:00 AM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 11:25:00 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 11:25:00 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 11:25:00 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 11:25:00 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 11:25:00 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 11:25:00 AM] Formatting completed in 0.062ms.
+["INFO" - 11:26:44 AM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 11:26:44 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 11:26:44 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 11:26:44 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 11:26:44 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 11:26:44 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 11:26:44 AM] Formatting completed in 0.208ms.
+["INFO" - 11:26:45 AM] Formatting file:///home/jeffrey/Work/smartrr/frontend/test/Schedule/Schedule.test.ts
+["INFO" - 11:26:45 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 11:26:45 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 11:26:45 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 11:26:45 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 11:26:45 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/frontend/test/Schedule/Schedule.test.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 11:26:45 AM] Formatting completed in 0.42ms.
+["INFO" - 11:28:12 AM] Formatting file:///home/jeffrey/Work/smartrr/frontend/test/Schedule/Schedule.test.ts
+["INFO" - 11:28:12 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 11:28:12 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 11:28:12 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 11:28:12 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 11:28:12 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/frontend/test/Schedule/Schedule.test.ts",
+  "parser": "typescript",
+  "rangeEnd": 48957,
+  "rangeStart": 48946,
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 11:28:12 AM] Formatting completed in 0.233ms.
+["INFO" - 11:28:13 AM] Formatting file:///home/jeffrey/Work/smartrr/frontend/test/Schedule/Schedule.test.ts
+["INFO" - 11:28:13 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 11:28:13 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 11:28:13 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 11:28:13 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 11:28:13 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/frontend/test/Schedule/Schedule.test.ts",
+  "parser": "typescript",
+  "rangeEnd": 49006,
+  "rangeStart": 48995,
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 11:28:13 AM] Formatting completed in 0.188ms.
+["INFO" - 11:28:14 AM] Formatting file:///home/jeffrey/Work/smartrr/frontend/test/Schedule/Schedule.test.ts
+["INFO" - 11:28:15 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 11:28:15 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 11:28:15 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 11:28:15 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 11:28:15 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/frontend/test/Schedule/Schedule.test.ts",
+  "parser": "typescript",
+  "rangeEnd": 49177,
+  "rangeStart": 49166,
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 11:28:15 AM] Formatting completed in 0.17ms.
+["INFO" - 11:28:16 AM] Formatting file:///home/jeffrey/Work/smartrr/frontend/test/Schedule/Schedule.test.ts
+["INFO" - 11:28:16 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 11:28:16 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 11:28:16 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 11:28:16 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 11:28:16 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/frontend/test/Schedule/Schedule.test.ts",
+  "parser": "typescript",
+  "rangeEnd": 49361,
+  "rangeStart": 49350,
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 11:28:16 AM] Formatting completed in 0.156ms.
+["INFO" - 11:32:04 AM] Formatting file:///home/jeffrey/Work/smartrr/frontend/test/Schedule/Schedule.test.ts
+["INFO" - 11:32:04 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 11:32:04 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 11:32:04 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 11:32:04 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 11:32:04 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/frontend/test/Schedule/Schedule.test.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 11:32:04 AM] Formatting completed in 0.373ms.
+["INFO" - 11:32:40 AM] Formatting file:///home/jeffrey/Work/smartrr/frontend/test/Schedule/Schedule.test.ts
+["INFO" - 11:32:40 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 11:32:40 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 11:32:40 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 11:32:40 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 11:32:40 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/frontend/test/Schedule/Schedule.test.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 11:32:40 AM] Formatting completed in 0.314ms.
+["INFO" - 11:34:43 AM] Formatting file:///home/jeffrey/Work/smartrr/frontend/test/Schedule/Schedule.test.ts
+["INFO" - 11:34:43 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 11:34:43 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 11:34:43 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 11:34:43 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 11:34:43 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/frontend/test/Schedule/Schedule.test.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 11:34:43 AM] Formatting completed in 0.342ms.
+["INFO" - 11:35:46 AM] Formatting file:///home/jeffrey/Work/smartrr/frontend/test/Schedule/Schedule.test.ts
+["INFO" - 11:35:46 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 11:35:46 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 11:35:46 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 11:35:46 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 11:35:46 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/frontend/test/Schedule/Schedule.test.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 11:35:47 AM] Formatting completed in 0.322ms.
+["INFO" - 11:37:28 AM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 11:37:28 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 11:37:28 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 11:37:28 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 11:37:28 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 11:37:28 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 11:37:28 AM] Formatting completed in 0.095ms.
+["INFO" - 11:38:53 AM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 11:38:53 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 11:38:53 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 11:38:53 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 11:38:53 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 11:38:53 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 11:38:53 AM] Formatting completed in 0.071ms.
+["INFO" - 11:39:11 AM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 11:39:11 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 11:39:11 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 11:39:11 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 11:39:11 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 11:39:11 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 11:39:11 AM] Formatting completed in 0.13ms.
+["INFO" - 11:39:15 AM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 11:39:15 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 11:39:15 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 11:39:15 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 11:39:15 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 11:39:15 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 11:39:15 AM] Formatting completed in 0.048ms.
+["INFO" - 11:41:09 AM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 11:41:09 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 11:41:09 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 11:41:09 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 11:41:09 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 11:41:09 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 11:41:09 AM] Formatting completed in 0.073ms.
+["INFO" - 11:41:31 AM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 11:41:31 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 11:41:31 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 11:41:31 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 11:41:31 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 11:41:31 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 11:41:31 AM] Formatting completed in 0.042ms.
+["INFO" - 11:42:17 AM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/RRuleManager.ts
+["INFO" - 11:42:17 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 11:42:17 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 11:42:17 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 11:42:17 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 11:42:17 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/RRuleManager.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 11:42:17 AM] Formatting completed in 0.094ms.
+["INFO" - 11:44:06 AM] Formatting file:///home/jeffrey/Work/smartrr/frontend/test/Schedule/Schedule.test.ts
+["INFO" - 11:44:06 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 11:44:06 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 11:44:06 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 11:44:06 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 11:44:06 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/frontend/test/Schedule/Schedule.test.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 11:44:06 AM] Formatting completed in 0.309ms.
+["INFO" - 11:44:17 AM] Formatting file:///home/jeffrey/Work/smartrr/frontend/test/Schedule/Schedule.test.ts
+["INFO" - 11:44:17 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 11:44:17 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 11:44:17 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 11:44:17 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 11:44:17 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/frontend/test/Schedule/Schedule.test.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 11:44:17 AM] Formatting completed in 0.227ms.
+["INFO" - 11:45:38 AM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 11:45:38 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 11:45:38 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 11:45:38 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 11:45:38 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 11:45:38 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 11:45:38 AM] Formatting completed in 0.065ms.
+["INFO" - 11:50:04 AM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 11:50:04 AM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 11:50:04 AM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 11:50:04 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 11:50:04 AM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 11:50:04 AM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 11:50:04 AM] Formatting completed in 0.046ms.
+["INFO" - 1:24:16 PM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/RRuleManager.ts
+["INFO" - 1:24:16 PM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 1:24:16 PM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 1:24:16 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 1:24:16 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 1:24:16 PM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/RRuleManager.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 1:24:16 PM] Formatting completed in 0.124ms.
+["INFO" - 2:28:22 PM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/RRuleManager.ts
+["INFO" - 2:28:22 PM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 2:28:22 PM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 2:28:22 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 2:28:22 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 2:28:22 PM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/RRuleManager.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 2:28:22 PM] Formatting completed in 0.135ms.
+["INFO" - 2:35:12 PM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 2:35:12 PM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 2:35:12 PM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 2:35:12 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 2:35:12 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 2:35:12 PM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 2:35:12 PM] Formatting completed in 0.041ms.
+["INFO" - 2:35:16 PM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 2:35:16 PM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 2:35:16 PM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 2:35:16 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 2:35:16 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 2:35:16 PM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 2:35:16 PM] Formatting completed in 0.032ms.
+["INFO" - 2:35:49 PM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 2:35:49 PM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 2:35:49 PM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 2:35:49 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 2:35:49 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 2:35:49 PM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 2:35:49 PM] Formatting completed in 0.041ms.
+["INFO" - 2:35:56 PM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 2:35:56 PM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 2:35:56 PM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 2:35:56 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 2:35:56 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 2:35:56 PM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 2:35:56 PM] Formatting completed in 0.055ms.
+["INFO" - 2:36:22 PM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 2:36:22 PM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 2:36:22 PM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 2:36:22 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 2:36:22 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 2:36:22 PM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 2:36:22 PM] Formatting completed in 0.047ms.
+["INFO" - 2:36:30 PM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 2:36:30 PM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 2:36:30 PM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 2:36:30 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 2:36:30 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 2:36:30 PM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 2:36:30 PM] Formatting completed in 0.038ms.
+["INFO" - 2:37:25 PM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 2:37:25 PM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 2:37:25 PM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 2:37:25 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 2:37:25 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 2:37:25 PM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 2:37:25 PM] Formatting completed in 0.058ms.
+["INFO" - 3:20:21 PM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 3:20:21 PM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 3:20:21 PM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 3:20:21 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 3:20:21 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 3:20:21 PM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 3:20:21 PM] Formatting completed in 0.071ms.
+["INFO" - 3:32:05 PM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 3:32:05 PM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 3:32:05 PM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 3:32:05 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 3:32:05 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 3:32:05 PM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 3:32:05 PM] Formatting completed in 0.032ms.
+["INFO" - 3:32:29 PM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 3:32:29 PM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 3:32:29 PM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 3:32:29 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 3:32:29 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 3:32:29 PM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 3:32:29 PM] Formatting completed in 0.036ms.
+["INFO" - 3:33:56 PM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 3:33:56 PM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 3:33:56 PM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 3:33:56 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 3:33:56 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 3:33:56 PM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["ERROR" - 3:33:56 PM] Error formatting document.
+["ERROR" - 3:33:56 PM] '(' expected. (147:1)
+  145 | export function getCorrectedAnchorRRule
+  146 | 
+> 147 | export function getRRuleCorrectedToTarget(
+      | ^
+  148 |   rruleOptions: AllowablePartialRRuleOptions,
+  149 |   initialDate: Date,
+  150 |   targetDate: Date,
+SyntaxError: '(' expected. (147:1)
+  145 | export function getCorrectedAnchorRRule
+  146 | 
+> 147 | export function getRRuleCorrectedToTarget(
+      | ^
+  148 |   rruleOptions: AllowablePartialRRuleOptions,
+  149 |   initialDate: Date,
+  150 |   targetDate: Date,
+    at e (/home/jeffrey/Work/smartrr/node_modules/prettier/parser-typescript.js:1:384)
+    at Object.parse (/home/jeffrey/Work/smartrr/node_modules/prettier/parser-typescript.js:1:3072782)
+    at Object.parse (/home/jeffrey/Work/smartrr/node_modules/prettier/index.js:13625:19)
+    at coreFormat (/home/jeffrey/Work/smartrr/node_modules/prettier/index.js:14899:14)
+    at format (/home/jeffrey/Work/smartrr/node_modules/prettier/index.js:15131:14)
+    at /home/jeffrey/Work/smartrr/node_modules/prettier/index.js:57542:12
+    at Object.Success [as format] (/home/jeffrey/Work/smartrr/node_modules/prettier/index.js:57562:12)
+    at t.default.<anonymous> (/home/jeffrey/.vscode/extensions/esbenp.prettier-vscode-9.0.0/src/PrettierEditService.ts:434:45)
+    at Generator.next (<anonymous>)
+    at s (/home/jeffrey/.vscode/extensions/esbenp.prettier-vscode-9.0.0/dist/extension.js:1:7872)
+["INFO" - 3:33:56 PM] Formatting completed in 0.033ms.
+["INFO" - 3:57:03 PM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts
+["INFO" - 3:57:03 PM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 3:57:03 PM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 3:57:03 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 3:57:03 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 3:57:03 PM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/utils/getCorrectedRRule.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 3:57:03 PM] Formatting completed in 0.056ms.
+["INFO" - 5:26:23 PM] Formatting file:///home/jeffrey/Work/smartrr/shared/entities/Schedule/RRuleManager.ts
+["INFO" - 5:26:23 PM] Using config file at '/home/jeffrey/Work/smartrr/.prettierrc'
+["INFO" - 5:26:23 PM] Using ignore file (if present) at /home/jeffrey/Work/smartrr/.prettierignore
+["INFO" - 5:26:23 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 5:26:23 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 5:26:23 PM] Prettier Options:
+{
+  "filepath": "/home/jeffrey/Work/smartrr/shared/entities/Schedule/RRuleManager.ts",
+  "parser": "typescript",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "printWidth": 114,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "endOfLine": "lf"
+}
+["INFO" - 5:26:23 PM] Formatting completed in 0.09ms.

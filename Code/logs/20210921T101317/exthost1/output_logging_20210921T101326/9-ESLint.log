@@ -1,0 +1,6 @@
+[Info  - 10:13:26 AM] ESLint server is starting
+[Info  - 10:13:26 AM] ESLint server running in node v14.16.0
+[Info  - 10:13:26 AM] ESLint server is running.
+[Info  - 10:13:27 AM] ESLint library loaded from: /home/jeffrey/Work/smartrr/node_modules/eslint/lib/api.js
+Warning: React version not specified in eslint-plugin-react settings. See https://github.com/yannickcr/eslint-plugin-react#configuration .
+[Info  - 10:58:31 AM] ESLint library loaded from: /home/jeffrey/Work/smartrr/frontend/node_modules/eslint/lib/api.js

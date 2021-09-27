@@ -1,0 +1,11 @@
+[2021-09-21T15:45:32.029Z] Start: Run: docker version --format {{.Server.APIVersion}}
+[2021-09-21T15:45:32.073Z] Stop (44 ms): Run: docker version --format {{.Server.APIVersion}}
+[2021-09-21T15:45:32.074Z] spawn docker ENOENT
+[2021-09-21T15:45:32.076Z] CLI host's PATH: /home/linuxbrew/.linuxbrew/bin:/home/linuxbrew/.linuxbrew/sbin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/var/lib/snapd/snap/bin
+[2021-09-21T15:45:32.077Z] Start: Run: docker version --format {{.Server.APIVersion}}
+[2021-09-21T15:45:32.126Z] Stop (49 ms): Run: docker version --format {{.Server.APIVersion}}
+[2021-09-21T15:45:32.126Z] spawn docker ENOENT
+[2021-09-21T15:45:32.127Z] CLI host's PATH: /home/linuxbrew/.linuxbrew/bin:/home/linuxbrew/.linuxbrew/sbin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/var/lib/snapd/snap/bin
+[2021-09-21T15:45:32.029Z] Remote-Containers 0.194.0 in VS Code 1.60.1 (83bd43bc519d15e50c4272c6cf5c1479df196a4d).
+[2021-09-21T15:45:32.128Z] Stop (99 ms): Run: docker version --format {{.Server.APIVersion}}
+[2021-09-21T15:45:32.129Z] Stop (52 ms): Run: docker version --format {{.Server.APIVersion}}

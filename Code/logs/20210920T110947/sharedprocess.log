@@ -1,0 +1,29 @@
+[2021-09-20 11:09:52.078] [sharedprocess] [info] Installing extension: ms-vscode.vscode-typescript-next
+[2021-09-20 11:09:52.080] [sharedprocess] [info] Installing extension: streetsidesoftware.code-spell-checker
+[2021-09-20 11:09:52.081] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2021-09-20 11:09:52.211] [sharedprocess] [info] Installing extension: vspacecode.whichkey
+[2021-09-20 11:09:53.317] [sharedprocess] [info] Downloaded extension: vspacecode.whichkey /home/jeffrey/.config/Code/CachedExtensionVSIXs/vspacecode.whichkey-0.9.3
+[2021-09-20 11:09:53.346] [sharedprocess] [info] Extracted extension to /home/jeffrey/.vscode/extensions/.ecfa045a-dcee-4a10-afba-38c7a714deee: vspacecode.whichkey
+[2021-09-20 11:09:53.353] [sharedprocess] [info] Renamed to /home/jeffrey/.vscode/extensions/vspacecode.whichkey-0.9.3
+[2021-09-20 11:09:53.356] [sharedprocess] [info] Extracting completed. vspacecode.whichkey
+[2021-09-20 11:09:53.364] [sharedprocess] [info] Extension installed successfully: vspacecode.whichkey
+[2021-09-20 11:09:53.429] [sharedprocess] [info] Downloaded extension: streetsidesoftware.code-spell-checker /home/jeffrey/.config/Code/CachedExtensionVSIXs/streetsidesoftware.code-spell-checker-2.0.6
+[2021-09-20 11:09:53.897] [sharedprocess] [info] Downloaded extension: esbenp.prettier-vscode /home/jeffrey/.config/Code/CachedExtensionVSIXs/esbenp.prettier-vscode-9.0.0
+[2021-09-20 11:09:53.903] [sharedprocess] [info] Downloaded extension: ms-vscode.vscode-typescript-next /home/jeffrey/.config/Code/CachedExtensionVSIXs/ms-vscode.vscode-typescript-next-4.5.20210919
+[2021-09-20 11:09:54.230] [sharedprocess] [info] Extracted extension to /home/jeffrey/.vscode/extensions/.7152eab1-559b-4582-bdb1-bd32e97a188f: streetsidesoftware.code-spell-checker
+[2021-09-20 11:09:54.238] [sharedprocess] [info] Renamed to /home/jeffrey/.vscode/extensions/streetsidesoftware.code-spell-checker-2.0.6
+[2021-09-20 11:09:54.241] [sharedprocess] [info] Extracting completed. streetsidesoftware.code-spell-checker
+[2021-09-20 11:09:54.251] [sharedprocess] [info] Extension installed successfully: streetsidesoftware.code-spell-checker
+[2021-09-20 11:09:54.585] [sharedprocess] [info] Extracted extension to /home/jeffrey/.vscode/extensions/.49cc5d63-e9d9-4bd6-aa2b-3835b28a7d7a: esbenp.prettier-vscode
+[2021-09-20 11:09:54.590] [sharedprocess] [info] Renamed to /home/jeffrey/.vscode/extensions/esbenp.prettier-vscode-9.0.0
+[2021-09-20 11:09:54.592] [sharedprocess] [info] Extracting completed. esbenp.prettier-vscode
+[2021-09-20 11:09:54.596] [sharedprocess] [info] Extension installed successfully: esbenp.prettier-vscode
+[2021-09-20 11:09:54.801] [sharedprocess] [info] Extracted extension to /home/jeffrey/.vscode/extensions/.a45d1e9b-fc19-4aa5-b4fa-d918107b0ee7: ms-vscode.vscode-typescript-next
+[2021-09-20 11:09:54.854] [sharedprocess] [info] Renamed to /home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210919
+[2021-09-20 11:09:54.857] [sharedprocess] [info] Extracting completed. ms-vscode.vscode-typescript-next
+[2021-09-20 11:09:54.861] [sharedprocess] [info] Extension installed successfully: ms-vscode.vscode-typescript-next
+[2021-09-20 11:09:59.333] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-09-20 11:09:59.335] [sharedprocess] [info] [logs cleanup]: Removing log folders '20210914T102007'
+[2021-09-20 11:10:19.335] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-09-20 11:10:19.335] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-09-20 11:10:29.342] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.

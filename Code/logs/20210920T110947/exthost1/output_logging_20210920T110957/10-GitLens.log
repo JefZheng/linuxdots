@@ -1,0 +1,5 @@
+[2021-09-20 15:12:39:848] [/home/jeffrey/Work/smartrr/shared/utils/RRuleManager/utils] Git spawn /usr/bin/git ENOENT • 14 ms 
+[2021-09-20 15:16:00:614] [/home/jeffrey/Work/smartrr/shared/utils/RRuleManager] Git spawn /usr/bin/git ENOENT • 10 ms 
+[2021-09-20 15:36:32:694] [/home/jeffrey/Work/smartrr/backend/src/routes/shared/conversions/shopify] Git spawn /usr/bin/git ENOENT • 10 ms 
+[2021-09-20 17:01:45:493] [/home/jeffrey/Work/smartrr/shared/utils/RRuleManager] Git spawn /usr/bin/git ENOENT • 12 ms 
+[2021-09-20 17:02:43:960] [/home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210915/node_modules/typescript/lib] Git Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any parent up to mount point /) • Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). • 24 ms 

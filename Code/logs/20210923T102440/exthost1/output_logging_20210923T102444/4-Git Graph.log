@@ -1,0 +1,28 @@
+[2021-09-23 10:24:44.651] Starting Git Graph ...
+[2021-09-23 10:24:44.786] Using git (version: 2.33.0)
+[2021-09-23 10:24:44.809] > git rev-parse --show-toplevel
+[2021-09-23 10:24:44.809] Showing "Git Graph" Status Bar Item
+[2021-09-23 10:24:44.810] Started Git Graph - Ready to use!
+[2021-09-23 10:24:44.985] Searching workspace for new repos ...
+[2021-09-23 10:24:44.985] Completed searching workspace for new repos
+[2021-09-23 10:24:45.958] Successfully set Visual Studio Code Context "git-graph:codiconsSupported" to "true"
+[2021-09-23 10:45:36.217] Created Git Graph View
+[2021-09-23 10:45:36.403] > git branch -a --no-color
+[2021-09-23 10:45:36.417] > git remote
+[2021-09-23 10:45:36.430] > git reflog --format=... refs/stash --
+[2021-09-23 10:45:36.433] Started watching repo: /home/jeffrey/Work/smartrr
+[2021-09-23 10:45:36.456] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2021-09-23 10:45:36.470] > git show-ref -d --head
+[2021-09-23 10:45:36.500] > git status --untracked-files=all --porcelain
+[2021-09-23 10:45:36.655] > git --no-pager config --list -z --includes
+[2021-09-23 10:45:36.668] > git --no-pager config --list -z --includes --local
+[2021-09-23 10:45:36.681] > git --no-pager config --list -z --includes --global
+[2021-09-23 10:45:46.623] Stopped watching repo: /home/jeffrey/Work/smartrr
+[2021-09-23 10:52:45.991] > git branch -a --no-color
+[2021-09-23 10:52:46.010] > git remote
+[2021-09-23 10:52:46.025] > git reflog --format=... refs/stash --
+[2021-09-23 10:52:46.027] Started watching repo: /home/jeffrey/Work/smartrr
+[2021-09-23 10:52:46.047] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2021-09-23 10:52:46.061] > git show-ref -d --head
+[2021-09-23 10:52:46.093] > git status --untracked-files=all --porcelain
+[2021-09-23 10:52:48.756] Stopped watching repo: /home/jeffrey/Work/smartrr

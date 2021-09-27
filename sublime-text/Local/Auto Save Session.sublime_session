@@ -1,0 +1,513 @@
+{
+	"folder_history":
+	[
+		"/home/jeffrey/.screenlayout"
+	],
+	"last_version": 4113,
+	"last_window_id": 2,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 1033.0,
+		"new_window_maximized": false,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/usr/share/sddm/scripts/Xsetup",
+				"/home/jeffrey/.xinitrc",
+				"/home/jeffrey/.config/i3/config",
+				"/home/jeffrey/.config/i3/picom.conf",
+				"/home/jeffrey/.config/alacritty/alacritty.yml",
+				"/home/jeffrey/.zshrc",
+				"/home/jeffrey/.config/i3/i3blocks-original.conf",
+				"/home/jeffrey/.config/i3/i3blocks-rainbow.conf",
+				"/home/jeffrey/Downloads/NVIDIA-Linux-x86_64-470.63.01.run",
+				"/home/jeffrey/Work/smartrr/.git/rebase-merge/git-rebase-todo",
+				"/home/jeffrey/Work/smartrr/.git/COMMIT_EDITMSG",
+				"/home/jeffrey/.config/i3/i3blocks.conf",
+				"/home/jeffrey/Work/smartrr/.git/MERGE_MSG",
+				"/etc/X11/xinit/xinitrc",
+				"/etc/X11/xorg.conf.d/10-optimus-manager.conf",
+				"/etc/X11/nvidia-xorg.conf",
+				"/home/jeffrey/.config/i3/scripts/batterybar.sh"
+			],
+			"find":
+			{
+				"height": 24.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"alacritty"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 24.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 44.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 945.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/jeffrey/.screenlayout/default.sh",
+					"settings":
+					{
+						"buffer_size": 182,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/jeffrey/.config/i3/config",
+					"settings":
+					{
+						"buffer_size": 42071,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							21,
+							1,
+							"left_delete",
+							null,
+							"AQAAAJ06AAAAAAAAnToAAAAAAAABAAAAQQ",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAJ46AAAAAAAAnjoAAAAAAAAAAAAAAADwvw"
+						],
+						[
+							22,
+							1,
+							"insert",
+							{
+								"characters": "a"
+							},
+							"AQAAAJ06AAAAAAAAnjoAAAAAAAAAAAAA",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAJ06AAAAAAAAnToAAAAAAAAAAAAAAADwvw"
+						],
+						[
+							3,
+							1,
+							"left_delete",
+							null,
+							"AQAAAJ06AAAAAAAAnToAAAAAAAABAAAAYQ",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACeOgAAAAAAAJ46AAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							4,
+							1,
+							"insert",
+							{
+								"characters": "A"
+							},
+							"AQAAAJ06AAAAAAAAnjoAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACdOgAAAAAAAJ06AAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							5,
+							1,
+							"left_delete",
+							null,
+							"AQAAAJ06AAAAAAAAnToAAAAAAAABAAAAQQ",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACeOgAAAAAAAJ46AAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							6,
+							1,
+							"insert",
+							{
+								"characters": "a"
+							},
+							"AQAAAJ06AAAAAAAAnjoAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACdOgAAAAAAAJ06AAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							10,
+							1,
+							"insert",
+							{
+								"characters": "#"
+							},
+							"AQAAAL1HAAAAAAAAvkcAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAvUcAAAAAAAC9RwAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/jeffrey/.screenlayout"
+			],
+			"file_history":
+			[
+				"/usr/share/sddm/scripts/Xsetup",
+				"/home/jeffrey/.xinitrc",
+				"/home/jeffrey/.config/i3/config",
+				"/home/jeffrey/.config/i3/picom.conf",
+				"/home/jeffrey/.config/alacritty/alacritty.yml",
+				"/home/jeffrey/.zshrc",
+				"/home/jeffrey/.config/i3/i3blocks-original.conf",
+				"/home/jeffrey/.config/i3/i3blocks-rainbow.conf",
+				"/home/jeffrey/Downloads/NVIDIA-Linux-x86_64-470.63.01.run",
+				"/home/jeffrey/Work/smartrr/.git/rebase-merge/git-rebase-todo",
+				"/home/jeffrey/Work/smartrr/.git/COMMIT_EDITMSG",
+				"/home/jeffrey/.config/i3/i3blocks.conf",
+				"/home/jeffrey/Work/smartrr/.git/MERGE_MSG",
+				"/etc/X11/xinit/xinitrc",
+				"/etc/X11/xorg.conf.d/10-optimus-manager.conf",
+				"/etc/X11/nvidia-xorg.conf",
+				"/home/jeffrey/.config/i3/scripts/batterybar.sh"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"alacritty"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/jeffrey/.screenlayout"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/jeffrey/.screenlayout/default.sh",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 182,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										116,
+										116
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ShellScript/Bash.sublime-syntax"
+								},
+								"translation.x": 430.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/jeffrey/.config/i3/config",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 42071,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										18366,
+										18366
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 7,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 8357.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 24.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,962,34,1907,1067,1920,1080,0",
+			"project": "",
+			"replace":
+			{
+				"height": 44.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 2,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

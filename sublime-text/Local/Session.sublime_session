@@ -1,15 +1,15 @@
 {
 	"folder_history":
 	[
-		"/home/jeff/.config/i3/scripts"
+		"/home/jeffrey/.screenlayout"
 	],
 	"last_version": 4113,
-	"last_window_id": 4,
+	"last_window_id": 2,
 	"log_indexing": false,
 	"settings":
 	{
 		"new_window_full_screen": false,
-		"new_window_height": 1019.0,
+		"new_window_height": 1033.0,
 		"new_window_maximized": false,
 		"new_window_settings":
 		{
@@ -50,22 +50,27 @@
 			},
 			"file_history":
 			[
-				"/home/jeff/.cache/.fr-RqbHAw/dotfiles-main/config/scripts/volume.py",
-				"/home/jeff/.config/dunst/dunstrc",
-				"/home/jeff/.config/picom/picom.conf",
-				"/home/jeff/.config/i3/config",
-				"/home/jeff/.mozilla/firefox/o0ifynpj.default-release/chrome/config.css",
-				"/home/jeff/.cache/.fr-6vIefY/treestyletab/README.md",
-				"/home/jeff/.cache/.fr-lTLWQM/dotfiles-master/.i3/config",
-				"/home/jeff/.config/polybar/config",
-				"/home/jeff/.config/i3/i3blocks.conf",
-				"/home/jeff/.cache/.fr-t49JC0/dotfiles-master/.config/dunst/dunstrc",
-				"/home/jeff/.config/polybar/launch.sh",
-				"/home/jeff/.config/alacritty/alacritty.yml"
+				"/usr/share/sddm/scripts/Xsetup",
+				"/home/jeffrey/.xinitrc",
+				"/home/jeffrey/.config/i3/config",
+				"/home/jeffrey/.config/i3/picom.conf",
+				"/home/jeffrey/.config/alacritty/alacritty.yml",
+				"/home/jeffrey/.zshrc",
+				"/home/jeffrey/.config/i3/i3blocks-original.conf",
+				"/home/jeffrey/.config/i3/i3blocks-rainbow.conf",
+				"/home/jeffrey/Downloads/NVIDIA-Linux-x86_64-470.63.01.run",
+				"/home/jeffrey/Work/smartrr/.git/rebase-merge/git-rebase-todo",
+				"/home/jeffrey/Work/smartrr/.git/COMMIT_EDITMSG",
+				"/home/jeffrey/.config/i3/i3blocks.conf",
+				"/home/jeffrey/Work/smartrr/.git/MERGE_MSG",
+				"/etc/X11/xinit/xinitrc",
+				"/etc/X11/xorg.conf.d/10-optimus-manager.conf",
+				"/etc/X11/nvidia-xorg.conf",
+				"/home/jeffrey/.config/i3/scripts/batterybar.sh"
 			],
 			"find":
 			{
-				"height": 38.0
+				"height": 24.0
 			},
 			"find_in_files":
 			{
@@ -79,41 +84,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"rofi",
-					"background",
-					"mod+d",
-					"rofi",
-					"exec",
-					"dunst",
-					"polybar",
-					"hover",
-					"firefox",
-					"mod+w",
-					"firefox",
-					"web",
-					"webbr",
-					"firefox",
-					"font",
-					"ws1",
-					"workspace",
-					"feh",
-					"gaps",
-					"polybar",
-					"mod+n",
-					"code",
-					"firefox",
-					"code",
-					"atom",
-					"bar",
-					"code",
-					"atom",
-					"xed",
-					"code",
-					"mod1+n",
-					"mod+n",
-					"mod1+w",
-					"polybar",
-					"urxvt"
+					"alacritty"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -121,7 +92,6 @@
 				"regex": false,
 				"replace_history":
 				[
-					"alacritty"
 				],
 				"reverse": false,
 				"scrollbar_highlights": true,
@@ -187,7 +157,7 @@
 			{
 			}
 		},
-		"new_window_width": 936.0
+		"new_window_width": 945.0
 	},
 	"windows":
 	[
@@ -201,724 +171,77 @@
 			"buffers":
 			[
 				{
-					"file": "/home/jeff/.config/i3/config",
+					"file": "/home/jeffrey/.screenlayout/default.sh",
 					"settings":
 					{
-						"buffer_size": 41824,
+						"buffer_size": 182,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/jeffrey/.config/i3/config",
+					"settings":
+					{
+						"buffer_size": 42070,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					},
 					"undo_stack":
 					[
 						[
-							43,
-							1,
-							"paste",
-							null,
-							"AgAAADlHAAAAAAAAcUcAAAAAAAAAAAAAcUcAAAAAAABxRwAAAAAAADgAAAAjZXhlY19hbHdheXMgLS1uby1zdGFydHVwLWlkIH4vLmNvbmZpZy9wb2x5YmFyL2xhdW5jaC5zaA",
-							"AQAAAAAAAAABAAAAcUcAAAAAAAA5RwAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							56,
-							1,
-							"insert",
-							{
-								"characters": "#"
-							},
-							"AQAAADlHAAAAAAAAOkcAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAOUcAAAAAAAA5RwAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							96,
-							1,
-							"insert",
-							{
-								"characters": "\n"
-							},
-							"AQAAAFVCAAAAAAAAVkIAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAVUIAAAAAAABVQgAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							98,
-							1,
-							"insert",
-							{
-								"characters": "#"
-							},
-							"AQAAAFVCAAAAAAAAVkIAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAVUIAAAAAAABVQgAAAAAAAAAAAAAAAAAA"
-						],
-						[
-							99,
+							21,
 							1,
 							"left_delete",
 							null,
-							"AQAAAFVCAAAAAAAAVUIAAAAAAAABAAAAIw",
-							"AQAAAAAAAAABAAAAVkIAAAAAAABWQgAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							100,
-							1,
-							"insert",
-							{
-								"characters": "\n#"
-							},
-							"AgAAAFVCAAAAAAAAVkIAAAAAAAAAAAAAVkIAAAAAAABXQgAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAVUIAAAAAAABVQgAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							101,
-							1,
-							"insert",
-							{
-								"characters": " Dunst"
-							},
-							"BgAAAFdCAAAAAAAAWEIAAAAAAAAAAAAAWEIAAAAAAABZQgAAAAAAAAAAAABZQgAAAAAAAFpCAAAAAAAAAAAAAFpCAAAAAAAAW0IAAAAAAAAAAAAAW0IAAAAAAABcQgAAAAAAAAAAAABcQgAAAAAAAF1CAAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAV0IAAAAAAABXQgAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							102,
-							1,
-							"insert",
-							{
-								"characters": "\n"
-							},
-							"AQAAAF1CAAAAAAAAXkIAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAXUIAAAAAAABdQgAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							103,
-							1,
-							"paste",
-							null,
-							"AQAAAF5CAAAAAAAAeEIAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAXkIAAAAAAABeQgAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							175,
-							1,
-							"paste",
-							null,
-							"AgAAABgaAAAAAAAAYBoAAAAAAAAAAAAAYBoAAAAAAABgGgAAAAAAAEgAAABiaW5kc3ltICRtb2QrZCBleGVjIC0tbm8tc3RhcnR1cC1pZCByb2ZpIC1zaG93IGRydW4gLWZvbnQgIk5vdG8gU2FucyAxMyI",
-							"AQAAAAAAAAABAAAAYBoAAAAAAAAYGgAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							182,
-							31,
-							"left_delete",
-							null,
-							"HwAAAF8aAAAAAAAAXxoAAAAAAAABAAAAIl4aAAAAAAAAXhoAAAAAAAABAAAAaF0aAAAAAAAAXRoAAAAAAAABAAAAc1waAAAAAAAAXBoAAAAAAAABAAAALlsaAAAAAAAAWxoAAAAAAAABAAAAaFoaAAAAAAAAWhoAAAAAAAABAAAAY1kaAAAAAAAAWRoAAAAAAAABAAAAblgaAAAAAAAAWBoAAAAAAAABAAAAdVcaAAAAAAAAVxoAAAAAAAABAAAAYVYaAAAAAAAAVhoAAAAAAAABAAAAbFUaAAAAAAAAVRoAAAAAAAABAAAAL1QaAAAAAAAAVBoAAAAAAAABAAAAc1MaAAAAAAAAUxoAAAAAAAABAAAAclIaAAAAAAAAUhoAAAAAAAABAAAAZVEaAAAAAAAAURoAAAAAAAABAAAAaFAaAAAAAAAAUBoAAAAAAAABAAAAY08aAAAAAAAATxoAAAAAAAABAAAAbk4aAAAAAAAAThoAAAAAAAABAAAAdU0aAAAAAAAATRoAAAAAAAABAAAAYUwaAAAAAAAATBoAAAAAAAABAAAAbEsaAAAAAAAASxoAAAAAAAABAAAAL0oaAAAAAAAAShoAAAAAAAABAAAAaUkaAAAAAAAASRoAAAAAAAABAAAAZkgaAAAAAAAASBoAAAAAAAABAAAAb0caAAAAAAAARxoAAAAAAAABAAAAckYaAAAAAAAARhoAAAAAAAABAAAAL0UaAAAAAAAARRoAAAAAAAABAAAAZ0QaAAAAAAAARBoAAAAAAAABAAAAaUMaAAAAAAAAQxoAAAAAAAABAAAAZkIaAAAAAAAAQhoAAAAAAAABAAAAbkEaAAAAAAAAQRoAAAAAAAABAAAAbw",
-							"AQAAAAAAAAABAAAAYBoAAAAAAABgGgAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							183,
-							5,
-							"left_delete",
-							null,
-							"BQAAAEAaAAAAAAAAQBoAAAAAAAABAAAAYz8aAAAAAAAAPxoAAAAAAAABAAAALj4aAAAAAAAAPhoAAAAAAAABAAAALz0aAAAAAAAAPRoAAAAAAAABAAAAfjwaAAAAAAAAPBoAAAAAAAABAAAAIg",
-							"AQAAAAAAAAABAAAAQRoAAAAAAABBGgAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							184,
-							1,
-							"insert",
-							{
-								"characters": "launce"
-							},
-							"BgAAADwaAAAAAAAAPRoAAAAAAAAAAAAAPRoAAAAAAAA+GgAAAAAAAAAAAAA+GgAAAAAAAD8aAAAAAAAAAAAAAD8aAAAAAAAAQBoAAAAAAAAAAAAAQBoAAAAAAABBGgAAAAAAAAAAAABBGgAAAAAAAEIaAAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAPBoAAAAAAAA8GgAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							185,
-							1,
-							"left_delete",
-							null,
-							"AQAAAEEaAAAAAAAAQRoAAAAAAAABAAAAZQ",
-							"AQAAAAAAAAABAAAAQhoAAAAAAABCGgAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							186,
-							1,
-							"insert",
-							{
-								"characters": "her_color"
-							},
-							"CQAAAEEaAAAAAAAAQhoAAAAAAAAAAAAAQhoAAAAAAABDGgAAAAAAAAAAAABDGgAAAAAAAEQaAAAAAAAAAAAAAEQaAAAAAAAARRoAAAAAAAAAAAAARRoAAAAAAABGGgAAAAAAAAAAAABGGgAAAAAAAEcaAAAAAAAAAAAAAEcaAAAAAAAASBoAAAAAAAAAAAAASBoAAAAAAABJGgAAAAAAAAAAAABJGgAAAAAAAEoaAAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAQRoAAAAAAABBGgAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							187,
-							1,
-							"insert",
-							{
-								"characters": "ful"
-							},
-							"AwAAAEoaAAAAAAAASxoAAAAAAAAAAAAASxoAAAAAAABMGgAAAAAAAAAAAABMGgAAAAAAAE0aAAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAShoAAAAAAABKGgAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							190,
-							1,
-							"insert",
-							{
-								"characters": "m"
-							},
-							"AgAAANMZAAAAAAAA1BkAAAAAAAAAAAAA1BkAAAAAAADUGQAAAAAAADAAAAByb2ZpIC1zaG93IGRydW4gLWZ1bGxzY3JlZW4gLWZvbnQgIk5vdG8gU2FucyAxMyI",
-							"AQAAAAAAAAABAAAAAxoAAAAAAADTGQAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							191,
-							1,
-							"left_delete",
-							null,
-							"AQAAANMZAAAAAAAA0xkAAAAAAAABAAAAbQ",
-							"AQAAAAAAAAABAAAA1BkAAAAAAADUGQAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							192,
-							1,
-							"insert",
-							{
-								"characters": "launcher_misc"
-							},
-							"DQAAANMZAAAAAAAA1BkAAAAAAAAAAAAA1BkAAAAAAADVGQAAAAAAAAAAAADVGQAAAAAAANYZAAAAAAAAAAAAANYZAAAAAAAA1xkAAAAAAAAAAAAA1xkAAAAAAADYGQAAAAAAAAAAAADYGQAAAAAAANkZAAAAAAAAAAAAANkZAAAAAAAA2hkAAAAAAAAAAAAA2hkAAAAAAADbGQAAAAAAAAAAAADbGQAAAAAAANwZAAAAAAAAAAAAANwZAAAAAAAA3RkAAAAAAAAAAAAA3RkAAAAAAADeGQAAAAAAAAAAAADeGQAAAAAAAN8ZAAAAAAAAAAAAAN8ZAAAAAAAA4BkAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAA0xkAAAAAAADTGQAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							201,
-							1,
-							"paste",
-							null,
-							"AgAAABkaAAAAAAAARBoAAAAAAAAAAAAARBoAAAAAAABEGgAAAAAAABEAAABsYXVuY2hlcl9jb2xvcmZ1bA",
-							"AQAAAAAAAAABAAAAGRoAAAAAAAAqGgAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							205,
-							10,
-							"left_delete",
-							null,
-							"CgAAACIaAAAAAAAAIhoAAAAAAAABAAAAZiEaAAAAAAAAIRoAAAAAAAABAAAAZiAaAAAAAAAAIBoAAAAAAAABAAAAZR8aAAAAAAAAHxoAAAAAAAABAAAAah4aAAAAAAAAHhoAAAAAAAABAAAALx0aAAAAAAAAHRoAAAAAAAABAAAAZRwaAAAAAAAAHBoAAAAAAAABAAAAbRsaAAAAAAAAGxoAAAAAAAABAAAAbxoaAAAAAAAAGhoAAAAAAAABAAAAaBkaAAAAAAAAGRoAAAAAAAABAAAALw",
-							"AQAAAAAAAAABAAAAIxoAAAAAAAAjGgAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							206,
-							1,
-							"insert",
-							{
-								"characters": "~"
-							},
-							"AQAAABkaAAAAAAAAGhoAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAGRoAAAAAAAAZGgAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							208,
-							1,
-							"insert",
-							{
-								"characters": "\""
-							},
-							"AQAAABkaAAAAAAAAGhoAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAGRoAAAAAAAAZGgAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							211,
-							1,
-							"insert",
-							{
-								"characters": "launce"
-							},
-							"BgAAADwaAAAAAAAAPRoAAAAAAAAAAAAAPRoAAAAAAAA+GgAAAAAAAAAAAAA+GgAAAAAAAD8aAAAAAAAAAAAAAD8aAAAAAAAAQBoAAAAAAAAAAAAAQBoAAAAAAABBGgAAAAAAAAAAAABBGgAAAAAAAEIaAAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAPBoAAAAAAAA8GgAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							212,
-							1,
-							"left_delete",
-							null,
-							"AQAAAEEaAAAAAAAAQRoAAAAAAAABAAAAZQ",
-							"AQAAAAAAAAABAAAAQhoAAAAAAABCGgAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							213,
-							1,
-							"insert",
-							{
-								"characters": "her.sh\""
-							},
-							"BwAAAEEaAAAAAAAAQhoAAAAAAAAAAAAAQhoAAAAAAABDGgAAAAAAAAAAAABDGgAAAAAAAEQaAAAAAAAAAAAAAEQaAAAAAAAARRoAAAAAAAAAAAAARRoAAAAAAABGGgAAAAAAAAAAAABGGgAAAAAAAEcaAAAAAAAAAAAAAEcaAAAAAAAASBoAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAQRoAAAAAAABBGgAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							219,
-							1,
-							"paste",
-							null,
-							"AgAAANMZAAAAAAAAAhoAAAAAAAAAAAAAAhoAAAAAAAACGgAAAAAAAA0AAABsYXVuY2hlcl9taXNj",
-							"AQAAAAAAAAABAAAA4BkAAAAAAADTGQAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							223,
-							1,
-							"insert",
-							{
-								"characters": "misc"
-							},
-							"BQAAAO0ZAAAAAAAA7hkAAAAAAAAAAAAA7hkAAAAAAADuGQAAAAAAAAgAAABjb2xvcmZ1bO4ZAAAAAAAA7xkAAAAAAAAAAAAA7xkAAAAAAADwGQAAAAAAAAAAAADwGQAAAAAAAPEZAAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAA7RkAAAAAAAD1GQAAAAAAAAAAAAAAAPC/"
-						]
-					]
-				},
-				{
-					"file": "/home/jeff/.config/rofi/launchers/colorful/launcher.sh",
-					"settings":
-					{
-						"buffer_size": 1134,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					},
-					"undo_stack":
-					[
-						[
-							6,
-							1,
-							"left_delete",
-							null,
-							"AQAAAFkBAAAAAAAAWQEAAAAAAAABAAAAMQ",
-							"AQAAAAAAAAABAAAAWgEAAAAAAABaAQAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							7,
-							1,
-							"insert",
-							{
-								"characters": "8"
-							},
-							"AQAAAFkBAAAAAAAAWgEAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAWQEAAAAAAABZAQAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							12,
-							1,
-							"insert",
-							{
-								"characters": "#"
-							},
-							"AQAAAMUDAAAAAAAAxgMAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAxQMAAAAAAADFAwAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							15,
-							1,
-							"insert",
-							{
-								"characters": "#"
-							},
-							"AQAAAAcEAAAAAAAACAQAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAABwQAAAAAAAAHBAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							18,
-							1,
-							"left_delete",
-							null,
-							"AQAAAFkBAAAAAAAAWQEAAAAAAAABAAAAOA",
-							"AQAAAAAAAAABAAAAWgEAAAAAAABaAQAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							19,
-							1,
-							"insert",
-							{
-								"characters": "7"
-							},
-							"AQAAAFkBAAAAAAAAWgEAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAWQEAAAAAAABZAQAAAAAAAAAAAAAAAPC/"
-						]
-					]
-				},
-				{
-					"file": "/home/jeff/.config/rofi/launchers/misc/launcher.sh",
-					"settings":
-					{
-						"buffer_size": 624,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					},
-					"undo_stack":
-					[
-						[
-							3,
-							6,
-							"left_delete",
-							null,
-							"BgAAAH8BAAAAAAAAfwEAAAAAAAABAAAAbn4BAAAAAAAAfgEAAAAAAAABAAAAZX0BAAAAAAAAfQEAAAAAAAABAAAAZXwBAAAAAAAAfAEAAAAAAAABAAAAcnsBAAAAAAAAewEAAAAAAAABAAAAY3oBAAAAAAAAegEAAAAAAAABAAAAcw",
-							"AQAAAAAAAAABAAAAgAEAAAAAAACAAQAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							4,
-							1,
-							"insert",
-							{
-								"characters": "launchpad"
-							},
-							"CQAAAHoBAAAAAAAAewEAAAAAAAAAAAAAewEAAAAAAAB8AQAAAAAAAAAAAAB8AQAAAAAAAH0BAAAAAAAAAAAAAH0BAAAAAAAAfgEAAAAAAAAAAAAAfgEAAAAAAAB/AQAAAAAAAAAAAAB/AQAAAAAAAIABAAAAAAAAAAAAAIABAAAAAAAAgQEAAAAAAAAAAAAAgQEAAAAAAACCAQAAAAAAAAAAAACCAQAAAAAAAIMBAAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAegEAAAAAAAB6AQAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							9,
-							1,
-							"insert",
-							{
-								"characters": "#"
-							},
-							"AQAAANwBAAAAAAAA3QEAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAA3AEAAAAAAADcAQAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							12,
-							1,
-							"insert",
-							{
-								"characters": "#"
-							},
-							"AQAAAAkCAAAAAAAACgIAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAACQIAAAAAAAAJAgAAAAAAAAAAAAAAAPC/"
-						]
-					]
-				},
-				{
-					"file": "/home/jeff/.config/rofi/launchers/misc/launchpad.rasi",
-					"settings":
-					{
-						"buffer_size": 3524,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					},
-					"undo_stack":
-					[
-					]
-				},
-				{
-					"file": "/home/jeff/.zshrc",
-					"settings":
-					{
-						"buffer_size": 13200,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					},
-					"undo_stack":
-					[
-						[
-							3,
-							1,
-							"insert",
-							{
-								"characters": "\n"
-							},
-							"AQAAALsCAAAAAAAAvAIAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAuwIAAAAAAAC7AgAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							4,
-							1,
-							"paste",
-							null,
-							"AQAAALwCAAAAAAAA5AIAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAvAIAAAAAAAC8AgAAAAAAAAAAAAAAAPC/"
-						]
-					]
-				},
-				{
-					"contents": "# ----------Some tools you might use------\n# xprop - use to find WM_CLASS\n# xev - capture keypresses\n# ----------------------------------------\n\n## Set mod key (Mod1=<Alt>, Mod4=<Super>)\nset $mod Mod4\nset $mod_next Mod1\n\n## FONTS\n# font <X core font description>\n# font pango:<family list> [<style options>] <size>\nfont xft:Iosevka Nerd Font 14\n\n## FLOATING MODIFIER\nfloating_modifier $mod\n\n## ORIENTATION FOR NEW WORKSPACES\n# default_orientation horizontal|vertical|auto\ndefault_orientation auto\n\n## LAYOUT FOR NEW WORKSPACES\n# workspace_layout default|stacking|tabbed\nworkspace_layout default\n\n## WINDOW TITLE ALIGNMENT\n# title_align left|center|right\ntitle_align center\n\n## DEFAULT BORDER STYLE FOR NEW WINDOWS\n# default_border normal|none|pixel\n# default_border normal|pixel <px>\n# default_floating_border normal|none|pixel\n# default_floating_border normal|pixel <px>\ndefault_border pixel 3\ndefault_floating_border none\n\n# HIDING BORDERS ADJACENT TO THE SCREEN EDGES\n# hide_edge_borders none|vertical|horizontal|both|smart\nhide_edge_borders smart\n\n# ARBITRARY COMMANDS FOR SPECIFIC WINDOWS (for_window)\n# for_window <criteria> <command>\nfor_window [title=\"File Transfer*\"] floating enable move position center\nfor_window [class=\"conky\"] border pixel 0 \nfor_window [class=\"Gnome-calculator\"] floating enable\nfor_window [class=\"Gnome-calendar\"] floating enable move position center\nfor_window [class=\"Gnome-todo\"] floating enable move position center\nfor_window [class=\"Lxappearance\"] floating enable\nfor_window [class=\"Pavucontrol\"] floating enable\nfor_window [class=\"Conky\"] floating enable\nfor_window [class=\"qt5ct\"] floating enable sticky enable\nfor_window [class=\"Qtconfig-qt4\"] floating enable sticky enable\nfor_window [class=\"Audacious\"] no_focus\nfor_window [class=\"copyq\"] floating enable move position center\nfor_window [class=\"Ulauncher\"] floating enable move position center\nfor_window [class=\"xpad\"] floating enable\nfor_window [class=\"conky\"] floating enable\nfor_window [class=\"Audacious\"][title=\"Album Art\"] floating enable \nfor_window [class=\"Audacious\"] floating enable move position center\nfor_window [class=\"wallpaper\"] floating enable\nfor_window [class=\"XAVA\"] floating enable\nfor_window [class=\"SimpleScreenRecorder\"] floating enable\nfor_window [class=\"feh\"][title=\"timetable\"] floating enable\nfor_window [class=\"mpv\"] floating enable move position center\nfor_window [class=\"vlc\"] floating enable move position center\nfor_window [class=\"Vlc\"] floating enable move position center\nfor_window [class=\"(?i)tint2\"] floating enable move position center\nfor_window [class=\"(?i)lemonbar\"] floating enable \n# switch to workspace with urgent window automatically\nfor_window [urgent=latest] focus\n\nfor_window[window_role=\"Dialog*\"] focus\n# for_window[window_type=\"normal\"][class=\"(?i)firefox\"] move container to workspace 1\n# print all window titles bold\nfor_window [class=\".*\"] title_format \"<b>%title</b>\"\n#for_window [class=\".*\"][floating] move position center\n\npopup_during_fullscreen leave_fullscreen\n# for_window [class=^.*] floating enable\n\n# DON’T FOCUS WINDOW UPON OPENING\n# no_focus <criteria>\n\n# AUTOMATICALLY STARTING APPLICATIONS ON I3 STARTUP\n# exec [--no-startup-id] <command>\n# exec_always [--no-startup-id] <command>\n# exec --no-startup-id /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1\nexec --no-startup-id lxqt-policykit-agent\nexec --no-startup-id nm-applet\nexec --no-startup-id copyq\nexec --no-startup-id xfce4-power-manager\nexec --no-startup-id flameshot\nexec --no-startup-id libinput-gestures-setup start\nexec --no-startup-id xpad\n# exec --no-startup-id mpd\nexec --no-startup-id $HOME/Scripts/wallpaper.sh\n# exec --no-startup-id $HOME/Scripts/idleshutdown.sh\nexec_always --no-startup-id $HOME/.config/polybar/launch.sh\nexec_always --no-startup-id picom -b\nexec_always --no-startup-id pkill dunst; dunst\n# exec_always i3-layouts\n# KEYBOARD BINDINGS\n# bindsym [--release] [<Group>+][<Modifiers>+]<keysym> command\n# bindcode [--release] [<Group>+][<Modifiers>+]<keycode> command\n\n# apps\nbindsym $mod+F1 exec firefox\nbindsym $mod+F2 exec dolphin\nbindsym $mod+F3 exec --no-startup-id \"~/.config/rofi/rofi-screenshot/rofi-screenshot\"\nbindsym $mod+slash exec --no-startup-id \"~/.config/rofi/rofi-alacritty/rofi-alacritty\"\nbindsym $mod_next+d exec --no-startup-id ulauncher\n# bindsym $mod --release exec --no-startup-id ulauncher\n\n# start a terminal\nbindsym $mod+Return exec alacritty\nbindsym $mod+Shift+Return exec alacritty --working-directory `xcwd`\n# bindsym $mod+slash exec dolphin; exec notify-send \"i3-launch\" \"File Manager\" -i system-file-manager \n# bindsym $mod+c exec copyq toggle\n\n# kill focused window\nbindsym $mod+Shift+q kill\n\n#eww\nbindsym $mod+period exec --no-startup-id \"~/.config/eww/launch_eww\"\n\nbindsym $mod+t exec --no-startup-id \"~/Scripts/ocr/launch.sh\"\n\n# dmenu scripts\nbindsym $mod+colon exec --no-startup-id \"~/Scripts/dmenu/dmplay.sh\"\nbindsym $mod+b exec --no-startup-id \"~/Scripts/dmenu/dmbookmarks.sh\"\n# bindsym $mod_next+d exec --no-startup-id \"~/Scripts/dmenu/dmenu.sh\"\nbindsym $mod+Shift+b exec --no-startup-id \"~/Scripts/dmenu/dmconf.sh\"\nbindsym $mod+n exec --no-startup-id \"~/Scripts/dmenu/dmsearch.sh\"\n\n# rofi launchers\nbindsym $mod+i exec --no-startup-id \"~/.config/rofi/wmtools/launch.sh\"\nbindsym $mod+Shift+i exec --no-startup-id \"~/.config/rofi/wmtools/launch2.sh\"\nbindsym $mod+d exec --no-startup-id \"~/.config/rofi/launchers/launch.sh\"\nbindsym $mod+Shift+d exec --no-startup-id \"~/.config/rofi/launchers/launch2.sh\"\nbindsym $mod+Shift+colon exec --no-startup-id rofimoji --skin-tone neutral --selector-args \"-theme '$HOME/.config/rofi/slate.rasi'\"\n# bindsym $mod+Shift+colon exec --no-startup-id \"~/.config/rofi/emoji/launcher.sh\"\nbindsym $mod+apostrophe exec \"~/.config/rofi/powermenu/powermenu.sh\"\n# bindsym $mod+u exec \"~/.config/rofi/applets/applets/util.sh\"\nbindsym $mod+u exec \"~/.config/rofi/shortcuts/launch.sh\"\nbindsym $mod+o exec \"~/.config/rofi/rofi-notification/rofi_notif_center.sh\"\nbindsym $mod+Tab exec \"~/.config/rofi/app-switcher/app-switcher.sh\"\n\n# start the screenshot utility\n# bindsym Print exec --no-startup-id \"~/Scripts/basic/screenshot.sh -screen\"\n# bindsym $mod+Print --release exec --no-startup-id \"~/Scripts/basic/screenshot.sh -select\"\nbindsym $mod+Print --release exec --no-startup-id \"~/Scripts/basic/screenshot.sh -select_copy\"\nbindsym Print exec --no-startup-id flameshot full -p ~/Pictures/Screenshots\nbindsym $mod+Shift+Print --release exec --no-startup-id flameshot gui -p ~/Pictures/Screenshots\n\n# xkill utility to send kill siginal\nbindsym $mod+Ctrl+x --release exec --no-startup-id notify-send \"xkill\" \"Select an app to kill\" -i dialog-error && xkill\n\n# toggle polybar state\nbindsym $mod+m exec --no-startup-id polybar-msg cmd toggle\nbindsym $mod+y exec --no-startup-id xpad --toggle\n\nbindsym $mod+Left focus left\nbindsym $mod+Down focus down\nbindsym $mod+Up focus up\nbindsym $mod+Right focus right\n\nbindsym $mod+h focus left\nbindsym $mod+j focus down\nbindsym $mod+k focus up\nbindsym $mod+l focus right\n\nbindsym $mod+Shift+Left move left\nbindsym $mod+Shift+Down move down\nbindsym $mod+Shift+Up move up\nbindsym $mod+Shift+Right move right\n\nbindsym $mod+Shift+h move left\nbindsym $mod+Shift+j move down\nbindsym $mod+Shift+k move up\nbindsym $mod+Shift+l move right\n\nbindsym $mod+Shift+p move workspace to output HDMI-0\nbindsym $mod+p move workspace to output eDP-1-1\nbindsym $mod+bracketleft exec --no-startup-id \"~/Scripts/i3/swap-ws.py\"\n# bindsym $mod+y exec --no-startup-id i3-msg \"move position center\"\n\n# workspace back and forth (with/without active container)\n# workspace_auto_back_and_forth yes\nbindsym $mod+grave workspace back_and_forth\nbindsym $mod+Shift+grave move container to workspace back_and_forth; workspace back_and_forth\n\n# change focus between tiling / floating windows\nbindsym $mod+space focus mode_toggle\n\n# toggle sticky\nbindsym $mod+Shift+s sticky toggle; exec notify-send \"i3\" \"Sticky toggle\" -i preferences-system-windows\n\n# focus the parent container\n# bindsym $mod+a focus parent\n\n# move the currently focused window to the scratchpad\nbindsym $mod+Shift+minus move scratchpad; exec notify-send \"i3\" \"Send to scratchpad\" -i preferences-system-windows\nbindsym $mod+minus scratchpad show\n\nbindsym $mod+g exec --no-startup-id \"~/.config/conky/full/launch.sh\"\n\n#navigate workspaces next / previous\n# bindsym $mod+Tab workspace next\nbindsym $mod+Shift+Tab workspace prev\n\n# Workspace names\n# set $ws1 \"1\"\n# set $ws2 \"2\"\n# set $ws3 \"3\"\n# set $ws4 \"4\"\n# set $ws5 \"5\"\n# set $ws6 \"6\"\n# set $ws7 \"7\"\n# set $ws8 \"8\"\n# set $ws9 \"9\"\n# set $ws10 \"10\"\n\nset $ws1 \"1\"\nset $ws2 \"2\"\nset $ws3 \"3\"\nset $ws4 \"4\"\nset $ws5 \"5\"\nset $ws6 \"6\"\nset $ws7 \"7\"\nset $ws8 \"8\"\nset $ws9 \"9\"\nset $ws10 \"10\"\n\n# switch to workspace\nbindsym $mod+1 workspace $ws1\nbindsym $mod+2 workspace $ws2\nbindsym $mod+3 workspace $ws3\nbindsym $mod+4 workspace $ws4\nbindsym $mod+5 workspace $ws5\nbindsym $mod+6 workspace $ws6\nbindsym $mod+7 workspace $ws7 \nbindsym $mod+8 workspace $ws8\nbindsym $mod+9 workspace $ws9\nbindsym $mod+0 workspace $ws10\n\n# Move focused container to workspace\nbindsym $mod+Ctrl+1 move container to workspace $ws1\nbindsym $mod+Ctrl+2 move container to workspace $ws2\nbindsym $mod+Ctrl+3 move container to workspace $ws3\nbindsym $mod+Ctrl+4 move container to workspace $ws4\nbindsym $mod+Ctrl+5 move container to workspace $ws5\nbindsym $mod+Ctrl+6 move container to workspace $ws6\nbindsym $mod+Ctrl+7 move container to workspace $ws7\nbindsym $mod+Ctrl+8 move container to workspace $ws8\nbindsym $mod+Ctrl+9 move container to workspace $ws9\nbindsym $mod+Ctrl+0 move container to workspace $ws10\n\n# Move to workspace with focused container\nbindsym $mod+Shift+1 move container to workspace $ws1; workspace $ws1\nbindsym $mod+Shift+2 move container to workspace $ws2; workspace $ws2\nbindsym $mod+Shift+3 move container to workspace $ws3; workspace $ws3\nbindsym $mod+Shift+4 move container to workspace $ws4; workspace $ws4\nbindsym $mod+Shift+5 move container to workspace $ws5; workspace $ws5\nbindsym $mod+Shift+6 move container to workspace $ws6; workspace $ws6\nbindsym $mod+Shift+7 move container to workspace $ws7; workspace $ws7\nbindsym $mod+Shift+8 move container to workspace $ws8; workspace $ws8\nbindsym $mod+Shift+9 move container to workspace $ws9; workspace $ws9\nbindsym $mod+Shift+0 move container to workspace $ws10; workspace $ws10\n\n# Open applications on specific workspaces\nassign [class=\"(?i)firefox\" window_type=\"normal\"] $ws1\nassign [class=\"Code\" window_type=\"normal\"] $ws3\nassign [class=\"dolphin\" window_type=\"normal\"] $ws9\nassign [class=\"discord\" window_type=\"normal\"] $ws8\nassign [class=\"TelegramDesktop\" window_type=\"normal\"] $ws8\nassign [class=\"Audacious\" window_type=\"normal\"] $ws10\nassign [class=\"XAVA\" window_type=\"normal\"] $ws10\nassign [class=\"(?i)music\"] $ws10\nassign [class=\"vlc\"] $ws10\nassign [class=\"Vlc\"] $ws10\n\n# reload the configuration file\nbindsym $mod+Shift+r reload; exec notify-send \"i3\" \"Reloaded config\" -i reload\n\n# restart i3 inplace (preserves your layout/session, can be used to upgrade i3)\nbindsym $mod+Shift+c exec notify-send \"i3\" \"Restart\" -i system-restart-panel; restart\n\n# exit i3 (logs you out of your X session)\n# bindsym $mod+Shift+e exec \"i3-nagbar -t warning -m 'Do you want to exit' -b 'Yes' 'i3-msg exit' -f 'VictorMono Nerd Font'\"\n\n# BINDING MODES\n#\n# config directive\n# mode [--pango_markup] <name>\n#\n# command\n# mode <name>\n#\n\nset $apps (1)firefox, (2)dolphin\nmode \"$apps\" {\n        bindsym 1 exec firefox\n        bindsym 2 exec dolphin\n\n        # exit system mode: \"Enter\" or \"Escape\"\n        bindsym Return mode \"default\"\n        bindsym Escape mode \"default\"\n}\n# bindsym $mod+slash mode \"$apps\"\n\n# Set shut down, restart and locking features\n# bindsym $mod+Shift+l mode \"$mode_system\"\nset $mode_system (l)ock, (e)xit, switch_(u)ser, (s)uspend, (h)ibernate, (r)eboot, (Shift+s)hutdown\nmode \"$mode_system\" {\n        bindsym l exec --no-startup-id i3exit lock, mode \"default\"\n        bindsym s exec --no-startup-id i3exit suspend, mode \"default\"\n        bindsym u exec --no-startup-id i3exit switch_user, mode \"default\"\n        bindsym e exec --no-startup-id i3exit logout, mode \"default\"\n        bindsym h exec --no-startup-id i3exit hibernate, mode \"default\"\n        bindsym r exec --no-startup-id i3exit reboot, mode \"default\"\n        bindsym Shift+s exec --no-startup-id i3exit shutdown, mode \"default\"\n\n        # exit system mode: \"Enter\" or \"Escape\"\n        bindsym Return mode \"default\"\n        bindsym Escape mode \"default\"\n}\n\n# Resize window (you can also use the mouse for that)\nbindsym $mod+r mode \"resize\"\nmode \"resize\" {\n        bindsym Left resize shrink width 8 px or 8 ppt\n        bindsym Down resize grow height 8 px or 8 ppt\n        bindsym Up resize shrink height 8 px or 8 ppt\n        bindsym Right resize grow width 8 px or 8 ppt\n\n        # exit resize mode: Enter or Escape\n        bindsym Return mode \"default\"\n        bindsym Escape mode \"default\"\n        bindsym 1 exec --no-startup-id i3-msg resize set 25 ppt 25 ppt\n        bindsym 2 exec --no-startup-id i3-msg resize set 40 ppt 40 ppt\n        bindsym 3 exec --no-startup-id i3-msg resize set 50 ppt 50 ppt\n        bindsym 4 exec --no-startup-id i3-msg resize set 60 ppt 60 ppt\n        bindsym 5 exec --no-startup-id i3-msg resize set 70 ppt 70 ppt\n}\n\n# Lock screen\n# bindsym $mod+Shift+L exec --no-startup-id i3lock\n\n# SETTINGS FOR i3-gaps\n\n# Set inner/outer gaps\ngaps inner 8\ngaps outer 8\n\n# Additionally, you can issue commands with the following syntax. This is useful to bind keys to changing the gap size.\n# gaps inner|outer current|all set|plus|minus <px>\n# gaps inner all set 10\n# gaps outer all plus 5\n\n# Smart gaps (gaps used if only more than one container on the workspace)\n# smart_gaps on\n\n# Smart borders (draw borders around container only if it is not the only container on this workspace)\n# on|no_gaps (on=always activate and no_gaps=only activate if the gap size to the edge of the screen is 0)\n#smart_borders on\n\n# Press $mod+Shift+g to enter the gap mode. Choose o or i for modifying outer/inner gaps. Press one of + / - (in-/decrement for current workspace) or 0 (remove gaps for current workspace). If you also press Shift with these keys, the change will be global for all workspaces.\nset $mode_gaps Gaps: (o) outer, (i) inner\nset $mode_gaps_outer Outer Gaps: +|-|0 (local), Shift + +|-|0 (global)\nset $mode_gaps_inner Inner Gaps: +|-|0 (local), Shift + +|-|0 (global)\nbindsym $mod+Shift+g mode \"$mode_gaps\"\n\nmode \"$mode_gaps\" {\n        bindsym o      mode \"$mode_gaps_outer\"\n        bindsym i      mode \"$mode_gaps_inner\"\n        bindsym Return mode \"default\"\n        bindsym Escape mode \"default\"\n}\nmode \"$mode_gaps_inner\" {\n        bindsym plus  gaps inner current plus 5\n        bindsym minus gaps inner current minus 5\n        bindsym 0     gaps inner current set 0\n\n        bindsym Shift+plus  gaps inner all plus 5\n        bindsym Shift+minus gaps inner all minus 5\n        bindsym Shift+0     gaps inner all set 0\n\n        bindsym Return mode \"default\"\n        bindsym Escape mode \"default\"\n}\nmode \"$mode_gaps_outer\" {\n        bindsym plus  gaps outer current plus 5\n        bindsym minus gaps outer current minus 5\n        bindsym 0     gaps outer current set 0\n\n        bindsym Shift+plus  gaps outer all plus 5\n        bindsym Shift+minus gaps outer all minus 5\n        bindsym Shift+0     gaps outer all set 0\n\n        bindsym Return mode \"default\"\n        bindsym Escape mode \"default\"\n}\n\n\n# i3bar\n# bar {\n#         # i3bar COMMAND\n#         # i3bar_command <command>\n\n#         # Statusline COMMAND\n#         # status_command <command>\n#         # status_command i3status\n#         status_command i3status\n\n#         # DISPLAY MODE\n#         # mode dock|hide|invisible\n#         # hidden_state hide|show\n#         # modifier <Modifier>|none\n\n#         # Bar ID\n#         # id <bar_id>\n\n#         # Position\n#         # position top|bottom\n#         position top\n\n#         # Output(s)\n#         # output primary|nonprimary|<output>\n\n#         # Tray output\n#         # tray_output none|primary|<output>\n\n#         # Tray padding\n#         # tray_padding <px> [px]\n\n#         # Font\n#         # font <font>\n\n#         # Custom separator symbol\n#         # separator_symbol <symbol>\n#         separator_symbol \"\"\n# \tcolors {\n#         background #282a36\n#         statusline #282a36\n#         separator  #f8f8f2\n#         # <colorclass>   <border> <background> <text>\n#         focused_workspace   #282a36 #6272a4  #282a36\n#         active_workspace   $foreground $background $foreground\n#         # inactive_workspace #f8f8f2\n#         urgent_workspace    #282a36 #FF5555  #282a36\n#         binding_mode       #f8f8f2  #282a36 #f8f8f2\n#         }\n# }\n\n# hide/unhide i3-bar\n# bindsym $mod+m bar mode toggle\n\n# SCREEN BRIGHTNESS CONTROLS\n# using xbacklight\nbindsym XF86MonBrightnessUp exec \"~/Scripts/basic/brightness-cat.sh -inc\"\nbindsym XF86MonBrightnessDown exec \"~/Scripts/basic/brightness-cat.sh -dec\"\n\n# SOUND CONTROLS\n# using pactl in PulseAudio\n\n# i3status\n# set $refresh_i3status killall -SIGUSR1 i3status\n# bindsym XF86AudioRaiseVolume exec --no-startup-id pactl set-sink-volume @DEFAULT_SINK@ +1% && $refresh_i3status; exec notify-send 'volume up'\n# bindsym XF86AudioLowerVolume exec --no-startup-id pactl set-sink-volume @DEFAULT_SINK@ -1% && $refresh_i3status; exec notify-send 'volume down'\n# bindsym XF86AudioMute exec --no-startup-id pactl set-sink-mute @DEFAULT_SINK@ toggle && $refresh_i3status; exec notify-send 'audio mute'\n# bindsym XF86AudioMicMute exec --no-startup-id pactl set-source-mute @DEFAULT_SOURCE@ toggle && $refresh_i3status; exec notify-send 'mic mute'\n\n# normal\nbindsym XF86AudioLowerVolume exec --no-startup-id \"~/Scripts/basic/volume-cat.sh -dec\"\nbindsym XF86AudioRaiseVolume exec --no-startup-id \"~/Scripts/basic/volume-cat.sh -inc\"\nbindsym XF86AudioMute exec --no-startup-id \"~/Scripts/basic/volume-cat.sh -mute\"\nbindsym XF86AudioMicMute exec --no-startup-id \"~/Scripts/basic/mic.sh\"\n\n# i3 blocks\n# set $refresh_i3blocks pkill -RTMIN+10 i3blocks\n# bindsym XF86AudioLowerVolume exec --no-startup-id pactl set-sink-volume @DEFAULT_SINK@ -10% && $refresh_i3blocks\n# bindsym XF86AudioRaiseVolume exec --no-startup-id pactl set-sink-volume @DEFAULT_SINK@ +10% && $refresh_i3blocks\n# bindsym XF86AudioMute exec --no-startup-id pactl set-sink-mute @DEFAULT_SINK@ toggle && $refresh_i3blocks\n\n## MUSIC CONTROLS - only for cmus\nbindsym XF86AudioPlay exec --no-startup-id \"~/Scripts/music/play_pause.sh\"\nbindsym XF86AudioStop exec --no-startup-id \"~/Scripts/music/stop.sh\"\nbindsym XF86AudioNext exec --no-startup-id \"~/Scripts/music/next.sh\"\nbindsym XF86AudioPrev exec --no-startup-id \"~/Scripts/music/prev.sh\"\n\n# CHANGING COLORS\n# <colorclass> <border> <background> <text> <indicator> <child_border>\nclient.focused          #44475a #282a36 #F8F8F2 #282a36 #44475a\nclient.focused_inactive #44475a #21222c #F8F8F2 #21222c #44475a\nclient.unfocused        #44475a #21222c #6272a4 #21222c #282a36\nclient.urgent           #44475a #FF5555 #F8F8F2 #FF5555 #FF5555\nclient.placeholder      #44475a #282A36 #F8F8F2 #282A36 #44475a\n\nclient.background       #F8F8F2\n\n\n# split orientation\n# bindsym $mod+h split h;exec notify-send 'tile horizontally'\n# bindsym $mod+v split v;exec notify-send 'tile vertically'\n# bindsym $mod+q split toggle\nbindsym $mod+q split toggle\n\n# toggle fullscreen mode for the focused container\nbindsym $mod+f fullscreen toggle; exec notify-send \"i3\" \"Fullscreen Mode\" -i preferences-system-windows\n\n# change container layout (stacked, tabbed, toggle split)\nbindsym $mod+s layout stacking; exec notify-send \"i3\" \"Stacking Mode\" -i preferences-system-windows\nbindsym $mod+w layout tabbed; exec notify-send \"i3\" \"Tab Mode\" -i preferences-system-windows\nbindsym $mod+e layout toggle split;  exec notify-send \"i3\" \"Toggle Split\" -i preferences-system-windows\n# bindsym $mod+s layout toggle\n\n# toggle tiling / floating\nbindsym $mod+Shift+space floating toggle; exec notify-send \"i3\" \"Floating on\" -i preferences-system-windows\n\n# set $i3l spiral 0.6 to workspace $ws3\n# bindsym $mod+a exec i3l vstack",
-					"file": "/home/jeff/.cache/.fr-i7Gigb/dotfiles-master/.config/i3/config",
-					"file_size": 20145,
-					"file_write_time": 132734888540000000,
-					"settings":
-					{
-						"buffer_size": 20127,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					},
-					"undo_stack":
-					[
-					]
-				},
-				{
-					"contents": "/*\n *\n * Author  : Aditya Shakya\n * Mail    : adi1090x@gmail.com\n * Github  : @adi1090x\n * Twitter : @adi1090x\n *\n */\n\nconfiguration {\n\tfont:\t\t\t\t\t\t\t\"Noto Sans Bold 10\";\n    show-icons:                     true;\n\ticon-theme: \t\t\t\t\t\"Papirus\";\n    display-drun: \t\t\t\t\t\"\";\n    drun-display-format:            \"{name}\";\n    drun-match-fields:              \"name,generic\";\n    disable-history:                false;\n    fullscreen:                     false;\n\thide-scrollbar: \t\t\t\ttrue;\n\tsidebar-mode: \t\t\t\t\tfalse;\n}\n\n* {\n    background:                     #00000080;\n    background-alt:              \t#00000080;\n    background-bar:                 #f2f2f215;\n    foreground:                     #f2f2f2EE;\n    accent:\t\t\t            \t#3DAEE966;\n}\n\nwindow {\n    transparency:                   \"real\";\n    background-color:               @background;\n    text-color:                     @foreground;\n\tborder:\t\t\t\t\t\t\t0px;\n\tborder-color:\t\t\t\t\t@border;\n    border-radius:                  0px;\n\twidth:\t\t\t\t\t\t\t40%;\n    location:                       center;\n    x-offset:                       0;\n    y-offset:                       0;\n}\n\nprompt {\n    enabled: \t\t\t\t\t\ttrue;\n\tpadding: \t\t\t\t\t\t0.30% 1% 0% -0.5%;\n\tbackground-color: \t\t\t\t@background-alt;\n\ttext-color: \t\t\t\t\t@foreground;\n\tfont:\t\t\t\t\t\t\t\"FantasqueSansMono Nerd Font 12\";\n}\n\nentry {\n    background-color:               @background-alt;\n    text-color:                     @foreground;\n    placeholder-color:              @foreground;\n    expand:                         true;\n    horizontal-align:               0;\n    placeholder:                    \"Search\";\n    padding:                        0.10% 0% 0% 0%;\n    blink:                          true;\n}\n\ninputbar {\n\tchildren: \t\t\t\t\t\t[ prompt, entry ];\n    background-color:               @background-bar;\n    text-color:                     @foreground;\n    expand:                         false;\n\tborder:\t\t\t\t\t\t\t0% 0% 0% 0%;\n    border-radius:                  12px;\n\tborder-color:\t\t\t\t\t@accent;\n    margin:                         0% 0% 0% 0%;\n    padding:                        1.5%;\n}\n\nlistview {\n    background-color:               @background-alt;\n    columns:                        5;\n    lines:                          3;\n    spacing:                        0%;\n    cycle:                          false;\n    dynamic:                        true;\n    layout:                         vertical;\n}\n\nmainbox {\n    background-color:               @background-alt;\n\tborder:\t\t\t\t\t\t\t0% 0% 0% 0%;\n    border-radius:                  0% 0% 0% 0%;\n\tborder-color:\t\t\t\t\t@accent;\n    children:                       [ inputbar, listview ];\n    spacing:                       \t2%;\n    padding:                        2% 1% 2% 1%;\n}\n\nelement {\n    background-color:               @background-alt;\n    text-color:                     @foreground;\n    orientation:                    vertical;\n    border-radius:                  0%;\n    padding:                        2% 0% 2% 0%;\n}\n\nelement-icon {\n    size:                           48px;\n    border:                         0px;\n}\n\nelement-text {\n    expand:                         true;\n    horizontal-align:               0.5;\n    vertical-align:                 0.5;\n    margin:                         0.5% 0.5% -0.5% 0.5%;\n}\n\nelement selected {\n    background-color:               @background-bar;\n    text-color:                     @foreground;\n\tborder:\t\t\t\t\t\t\t0% 0% 0% 0%;\n    border-radius:                  12px;\n    border-color:                  \t@accent;\n}\n",
-					"file": "/home/jeff/.config/rofi/launcher.rasi",
-					"file_size": 3508,
-					"file_write_time": 132749560924013749,
-					"settings":
-					{
-						"buffer_size": 3506,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					},
-					"undo_stack":
-					[
-						[
-							63,
-							1,
-							"paste",
-							null,
-							"AgAAAFMCAAAAAAAAWwIAAAAAAAAAAAAAWwIAAAAAAABbAgAAAAAAAAgAAAAwMDAwMDAwMA",
-							"AQAAAAAAAAABAAAAWwIAAAAAAABTAgAAAAAAAAAAAAAAAPC/"
-						]
-					]
-				},
-				{
-					"contents": "#\n#██╗██████╗      ██████╗ ██████╗ ███╗   ██╗███████╗██╗ ██████╗ \n#██║╚════██╗    ██╔════╝██╔═══██╗████╗  ██║██╔════╝██║██╔════╝ \n#██║ █████╔╝    ██║     ██║   ██║██╔██╗ ██║█████╗  ██║██║  ███╗\n#██║ ╚═══██╗    ██║     ██║   ██║██║╚██╗██║██╔══╝  ██║██║   ██║\n#██║██████╔╝    ╚██████╗╚██████╔╝██║ ╚████║██║     ██║╚██████╔╝\n#╚═╝╚═════╝      ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝     ╚═╝ ╚═════╝ \n#\n# i3 Config 2021-01-13\n#                         \n\nset $mod Mod4\n\n# Font for window titles. Will also be used by the bar unless a different font\n# is used in the bar {} block below.\nfont pango:Droid Sans 10\n\n\n# This font is widely installed, provides lots of unicode glyphs, right-to-left\n# text rendering and scalability on retina/hidpi displays (thanks to pango).\nfont pango:Droid Sans 10\n\n# Before i3 v4.8, we used to recommend this one as the default:\n# font -misc-fixed-medium-r-normal--13-120-75-75-C-70-iso10646-1\n# The font above is very space-efficient, that is, it looks good, sharp and\n# clear in small sizes. However, its unicode glyph coverage is limited, the old\n# X core fonts rendering does not support right-to-left and this being a bitmap\n# font, it doesn’t scale on retina/hidpi displays.\n\n# Use Mouse+$mod to drag floating windows to their wanted position\nfloating_modifier $mod\n\n# start a terminal\nbindsym $mod+Return exec kitty\n\n# kill focused window\nbindsym $mod+Shift+q kill\n\n# start dmenu (a program launcher)\nbindsym $mod+d exec dmen.sh\n\n# start rofi (dmenu mode)\nbindsym $mod+z exec $HOME/.config/rofi/scripts/appsmenu.sh\n\n# start rofi (window mode)\nbindsym $mod+Tab exec exec rofi -theme themes/appsmenu -show window\n\n# open empty container\nbindsym $mod+Shift+Return exec i3-msg open\n\n# quickstart applications\nbindsym $mod+w exec exec qutebrowser\nbindsym $mod+e exec exec thunderbird\n#bindsym $mod+f exec exec thunar\n\n\n# change focus\nbindsym $mod+j focus left\nbindsym $mod+k focus down\nbindsym $mod+l focus up\nbindsym $mod+odiaeresis focus right\n\n# alternatively, you can use the cursor keys:\nbindsym $mod+Left focus left\nbindsym $mod+Down focus down\nbindsym $mod+Up focus up\nbindsym $mod+Right focus right\n\n# move focused window\nbindsym $mod+Shift+j move left\nbindsym $mod+Shift+k move down\nbindsym $mod+Shift+l move up\nbindsym $mod+Shift+odiaeresis move right\n\n# alternatively, you can use the cursor keys:\nbindsym $mod+Shift+Left move left\nbindsym $mod+Shift+Down move down\nbindsym $mod+Shift+Up move up\nbindsym $mod+Shift+Right move right\n\n# split in horizontal orientation\nbindsym $mod+h split h\n\n# split in vertical orientation\nbindsym $mod+v split v\n\n# enter fullscreen mode for the focused container\nbindsym $mod+f fullscreen toggle\n# global fullscreen: across all monitors\nbindsym $mod+shift+f        fullscreen toggle global\n\n# change container layout (stacked, tabbed, toggle split)\n#bindsym $mod+s layout stacking\n#bindsym $mod+w layout tabbed\n#bindsym $mod+e layout toggle split\n\n# toggle tiling / floating\nbindsym $mod+Shift+space floating toggle\n\n# change focus between tiling / floating windows\nbindsym $mod+space focus mode_toggle\n\n# focus the parent container\nbindsym $mod+a focus parent\n\n# focus the child container\n#bindsym $mod+d focus child\n\nset $workspace1 \"1:\"\nset $workspace2 \"2:\"\nset $workspace3 \"3:\"\nset $workspace4 \"4:\"\nset $workspace5 \"5:\"\nset $workspace6 \"6:\"\nset $workspace7 \"7:\"\nset $workspace8 \"8:\"\nset $workspace9 \"9:\"\nset $workspace10 \"10:\"\n\n# switch to workspace\nbindsym $mod+1 workspace $workspace1\nbindsym $mod+2 workspace $workspace2\nbindsym $mod+3 workspace $workspace3\nbindsym $mod+4 workspace $workspace4\nbindsym $mod+5 workspace $workspace5\nbindsym $mod+6 workspace $workspace6\nbindsym $mod+7 workspace $workspace7\nbindsym $mod+8 workspace $workspace8\nbindsym $mod+9 workspace $workspace9\nbindsym $mod+0 workspace $workspace10\n\n# move focused container to workspace\nbindsym $mod+Shift+1 move container to workspace $workspace1\nbindsym $mod+Shift+2 move container to workspace $workspace2\nbindsym $mod+Shift+3 move container to workspace $workspace3\nbindsym $mod+Shift+4 move container to workspace $workspace4\nbindsym $mod+Shift+5 move container to workspace $workspace5\nbindsym $mod+Shift+6 move container to workspace $workspace6\nbindsym $mod+Shift+7 move container to workspace $workspace7\nbindsym $mod+Shift+8 move container to workspace $workspace8\nbindsym $mod+Shift+9 move container to workspace $workspace9\nbindsym $mod+Shift+0 move container to workspace $workspace10\n\n# open applications on specific workspaces\nassign [class=\"Chromium\"] $workspace1\nassign [class=\"firefox\"] $workspace1\nassign [class=\"Google-chrome\"] $workspace1\nassign [class=\"Firefox\"] $workspace1\n#assign [class=\"qutebrowser\"] $workspace1\nassign [class=\"Nautilus\"] $workspace3\nassign [class=\"Pcmanfm\"] $workspace3\nassign [class=\"Thunar\"] $workspace3\nassign [class=\"Thunderbird\"] $workspace7\nassign [class=\"Spotify\"] $workspace10\nfor_window [class=\"Spotify\"] move to workspace $workspace10 \nassign [class=\"Rhythmbox\"] $workspace4\nassign [class=\"Audacious\"] $workspace4\nassign [class=\"Gnome-mplayer\"] $workspace5\nassign [class=\"Vlc\"] $workspace5\nassign [class=\"Totem\"] $workspace5\n#assign [class=\"MPlayer\"] $workspace5\n#assign [class=\"mpv\"] $workspace5\nassign [class=\"Steam\"] $workspace6\nassign [class=\"Gimp\"] $workspace8\nassign [class=\"Photoshop.exe\"] $workspace8\nassign [class=\"Gthumb\"] $workspace8\n\n# reload the configuration file\nbindsym $mod+Shift+c reload\n# restart i3 inplace (preserves your layout/session, can be used to upgrade i3)\nbindsym $mod+Shift+r restart\n# exit i3 (logs you out of your X session)\n#bindsym $mod+Shift+e exec ./config/i3/scripts/i3-exit\nbindsym $mod+Shift+e exec \"i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -b 'Yes, exit i3' 'i3-msg exit'\"\n\n# resize window (you can also use the mouse for that)\nmode \"resize\" {\n        # These bindings trigger as soon as you enter the resize mode\n\n        # Pressing left will shrink the window’s width.\n        # Pressing right will grow the window’s width.\n        # Pressing up will shrink the window’s height.\n        # Pressing down will grow the window’s height.\n        bindsym j resize shrink width 10 px or 10 ppt\n        bindsym k resize grow height 10 px or 10 ppt\n        bindsym l resize shrink height 10 px or 10 ppt\n        bindsym odiaeresis resize grow width 10 px or 10 ppt\n\n        # same bindings, but for the arrow keys\n        bindsym Left resize shrink width 10 px or 10 ppt\n        bindsym Down resize grow height 10 px or 10 ppt\n        bindsym Up resize shrink height 10 px or 10 ppt\n        bindsym Right resize grow width 10 px or 10 ppt\n\n        # back to normal: Enter or Escape\n        bindsym Return mode \"default\"\n        bindsym Escape mode \"default\"\n}\n\nbindsym $mod+r mode \"resize\"\n\n# Manually set colors\n# define colors used\n#set $bg-color \t         #2f343f\n#set $inactive-bg-color   #2f343f\n#set $text-color          #f3f4f5\n#set $inactive-text-color #676E7D\n#set $urgent-bg-color     #5294e2\n\n#client.focused          #676E7D #676E7D #FFFFFF #676E7D\n#client.focused_inactive #2f343f #2f343f #FFFFFF #2f343f\n#client.unfocused        #2f343f #2f343f #FFFFFF #2f343f\n#client.urgent           #2f343f #2f343f #ffffff #2f343f\n#client.placeholder      #2f343f #2f343f #ffffff #2f343f\n\n# Set colors from Xresources\n# Change 'color7' and 'color2' to whatever colors you want i3 to use \n# from the generated scheme.\n# NOTE: The '#f0f0f0' in the lines below is the color i3 will use if\n# it fails to get colors from Xresources.\nset_from_resource $fg i3wm.color7 #f0f0f0\nset_from_resource $bg i3wm.color2 #f0f0f0\n\n# class                 border  backgr. text indicator child_border\nclient.focused          $fg     $fg     $fg  $fg       $fg\nclient.focused_inactive $bg     $bg     $fg  $bg       $bg\nclient.unfocused        $bg     $bg     $fg  $bg       $bg\nclient.urgent           $bg     $bg     $fg  $bg       $bg\nclient.placeholder      $bg     $bg     $fg  $bg       $bg\n\nclient.background       $bg\n\n# PROTIP: You can also dynamically set dmenu's colors this way:\n#bindsym $mod+d exec dmenu_run -nb \"$fg\" -nf \"$bg\" -sb \"$bg\" -sf \"$fg\"\n\n# windows starting in floating mode\nfor_window [instance=\"origin.exe\"] floating enable\nfor_window [title=\"File Transfer*\"] floating enable\nfor_window [class=\"Lightdm-gtk-greeter-settings\"] floating enable\n#for_window [class=\"Spotify\"] floating enable\nfor_window [class=\"Transmission\"] floating enable \nfor_window [class=\"Lxappearance\"] floating enable \nfor_window [class=\"Xfce4-taskmanager\"] floating enable \nfor_window [class=\"Gnome-system-monitor\"] floating enable \nfor_window [class=\"Simplescreenrecorder\"] floating enable \nfor_window [class=\"Xsensors\"] floating enable\nfor_window [class=\"Nitrogen\"] floating enable\n#for_window [class=\"Mainwindow.py\"] floating enable \nfor_window [class=\"etcher\"] floating enable \nfor_window [class=\"Galculator\"] floating enable \nfor_window [class=\"Audacious\"] floating enable \nfor_window [class=\"Nautilus\"] floating enable\n#for_window [class=\"Thunar\"] floating enable\nfor_window [class=\"Org.gnome.Weather.Application\"] floating enable\n#for_window [class=\"Photoshop.exe\"] floating enable \nfor_window [class=\"(?i)virtualbox\"] floating enable \nfor_window [class=\"milkytracker\"] floating enable\nfor_window [class=\"Arandr\"] floating enable\nfor_window [class=\"Pamac-manager\"] floating enable\nfor_window [class=\"minergate\"] floating enable \nfor_window [class=\"Xarchiver\"] floating enable\nfor_window [class=\"Gzdoom\"] floating enable \nfor_window [title=\"alsamixer\"] floating enable border pixel 1\nfor_window [class=\"Pavucontrol\"] floating enable\nfor_window [class=\"FS-UAE Launcher 2.8.3 (Not logged in)\"] floating enable\nfor_window [class=\"Nm-connection-editor\"] floating enable \nfor_window [class=\"MPlayer\"] floating enable\nfor_window [class=\"mpv\"] floating enable\nfor_window [class=\"Blueman-manager\"] floating enable \nfor_window [title=\"dosbox\"] floating enable\nfor_window [title=\"Type Knight\"] floating enable\nfor_window [class=\"Nvidia-settings\"] floating enable\nfor_window [class=\"Solaar\"] floating enable\nfor_window [class=\"Gnome-multi-writer\"] floating enable\nfor_window [class=\"multibootusb\"] floating enable\nfor_window [class=\"Org.gnome.Weather\"] floating enable\nfor_window [class=\"Gnome-calendar\"] floating enable \nfor_window [class=\"Gnome-calculator\"] floating enable\nfor_window [class=\"feh\"] floating enable\n#for_window [class=\"Connman-gtk\"] floating enable\n#for_window [class=\"qutebrowser\"] floating enable\n#for_window [class=\"cool-retro-term\"] resize set 600 740\n\n# volume control alsa\n#bindsym XF86AudioRaiseVolume exec amixer -q set Master 2%+ unmute\n#bindsym XF86AudioLowerVolume exec amixer -q set Master 2%- unmute\n#bindsym XF86AudioMute exec amixer -q set Master toggle\n\n# Pulse Audio controls\n#bindsym XF86AudioRaiseVolume exec --no-startup-id pactl set-sink-volume 0 +5% #increase sound volume\n#bindsym XF86AudioLowerVolume exec --no-startup-id pactl set-sink-volume 0 -5% #decrease sound volume\n#bindsym XF86AudioMute exec --no-startup-id pactl set-sink-mute 0 toggle # mute sound\n\n# volume amixer\nbindsym XF86AudioRaiseVolume exec amixer -D pulse sset Master 5%+ aaa\nbindsym XF86AudioLowerVolume exec amixer -D pulse sset Master 5%- \n\n# granular volume control\nbindsym $mod+XF86AudioRaiseVolume exec amixer -D pulse sset Master 1%+ \nbindsym $mod+XF86AudioLowerVolume exec amixer -D pulse sset Master 1%- \n\n# mute\nbindsym XF86AudioMute exec amixer sset Master toggle\n\n# media player controls\nbindsym XF86AudioPlay exec mpc toggle\nbindsym XF86AudioPause exec mpc pause\nbindsym XF86AudioNext exec mpc next\nbindsym XF86AudioPrev exec mpc prev\n\n# screenshot\nbindsym Print exec scrot $HOME/Bilder/Screenshots/`date +%Y-%m-%d_%H:%M:%S`.png\nbindsym Mod1+Print exec scrot -u $HOME/Bilder/Screenshots/`date +%Y-%m-%d_%H:%M:%S`.png\nbindsym Mod1+Shift+Print exec scrot -s $HOME/Bilder/Screenshots/`date +%Y-%m-%d_%H:%M:%S`.png\n\n# window style\nnew_window pixel 1\nnew_float normal 1\nhide_edge_borders none\n\n# i3 gaps\nfor_window [class=\"^.*\"] border pixel 1\ngaps inner 20\ngaps outer 20\n#smart_gaps on\n#smart_borders on\n\n# shut down, restart and locking features\nbindsym $mod+Delete exec rofi -modi system:$HOME/.config/rofi/scripts/powermenu.sh -show system -theme themes/system-menu\nbindsym $mod+shift+Delete exec betterlockscreen -l\n\n# screensetup\n#exec_always --no-startup-id xrandr --output DisplayPort-0 --off --output HDMI-0 --mode 1920x1080 --pos 0x0 --rotate normal --output DVI-0 --off --output DVI-1 --off\n\n# autostarted applications\nexec_always --no-startup-id wal -R -n\nexec_always --no-startup-id ~/.config/polybar/launch.sh\n#exec --no-startup-id setbg\t\nexec --no-startup-id ~/.fehbg\nexec_always --no-startup-id picom --experimental-backends\n#exec --no-startup id picom -b\n#exec --no-startup-id .config/conky/start_conky\nexec --no-startup-id xset dpms 500\n#exec --no-startup-id xautolock -time 10 -locker \"betterlockscreen -l dim\"\nexec --no-startup-id dunstwal\nexec --no-startup-id /usr/libexec/polkit-gnome-authentication-agent-1\nexec --no-startup-id mpd\nexec_always --no-startup-id setxkbmap se\n\n\n",
-					"file": "/home/jeff/.cache/.fr-amRumW/Dotfiles_i3-master/i3/config",
-					"file_size": 13714,
-					"file_write_time": 132697825500000000,
-					"settings":
-					{
-						"buffer_size": 13106,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					},
-					"undo_stack":
-					[
-					]
-				},
-				{
-					"file": "/home/jeff/.cache/.fr-cIkS9E/dotfiles-main/config/scripts/launcher.sh",
-					"settings":
-					{
-						"buffer_size": 64,
-						"line_ending": "Unix"
-					},
-					"undo_stack":
-					[
-					]
-				},
-				{
-					"file": "/home/jeff/.config/i3/picom.conf",
-					"settings":
-					{
-						"buffer_size": 14168,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					},
-					"undo_stack":
-					[
-						[
-							4,
-							1,
-							"paste",
-							null,
-							"AgAAAAAAAAAAAAAAeTcAAAAAAAAAAAAAeTcAAAAAAAB5NwAAAAAAAK84AAAjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMKIyAgICAgICAgICAgICBTaGFkb3dzICAgICAgICAgICAjCiMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIwoKCiMgRW5hYmxlZCBjbGllbnQtc2lkZSBzaGFkb3dzIG9uIHdpbmRvd3MuIE5vdGUgZGVza3RvcCB3aW5kb3dzIAojICh3aW5kb3dzIHdpdGggJ19ORVRfV01fV0lORE9XX1RZUEVfREVTS1RPUCcpIG5ldmVyIGdldCBzaGFkb3csIAojIHVubGVzcyBleHBsaWNpdGx5IHJlcXVlc3RlZCB1c2luZyB0aGUgd2ludHlwZXMgb3B0aW9uLgojCiMgc2hhZG93ID0gZmFsc2UKc2hhZG93ID0gdHJ1ZTsKCiMgVGhlIGJsdXIgcmFkaXVzIGZvciBzaGFkb3dzLCBpbiBwaXhlbHMuIChkZWZhdWx0cyB0byAxMikKIyBzaGFkb3ctcmFkaXVzID0gMTIKc2hhZG93LXJhZGl1cyA9IDc7CgojIFRoZSBvcGFjaXR5IG9mIHNoYWRvd3MuICgwLjAgLSAxLjAsIGRlZmF1bHRzIHRvIDAuNzUpCiMgc2hhZG93LW9wYWNpdHkgPSAuNzUKCiMgVGhlIGxlZnQgb2Zmc2V0IGZvciBzaGFkb3dzLCBpbiBwaXhlbHMuIChkZWZhdWx0cyB0byAtMTUpCiMgc2hhZG93LW9mZnNldC14ID0gLTE1CnNoYWRvdy1vZmZzZXQteCA9IC03OwoKIyBUaGUgdG9wIG9mZnNldCBmb3Igc2hhZG93cywgaW4gcGl4ZWxzLiAoZGVmYXVsdHMgdG8gLTE1KQojIHNoYWRvdy1vZmZzZXQteSA9IC0xNQpzaGFkb3ctb2Zmc2V0LXkgPSAtNzsKCiMgQXZvaWQgZHJhd2luZyBzaGFkb3dzIG9uIGRvY2svcGFuZWwgd2luZG93cy4gVGhpcyBvcHRpb24gaXMgZGVwcmVjYXRlZCwKIyB5b3Ugc2hvdWxkIHVzZSB0aGUgKndpbnR5cGVzKiBvcHRpb24gaW4geW91ciBjb25maWcgZmlsZSBpbnN0ZWFkLgojCiMgbm8tZG9jay1zaGFkb3cgPSBmYWxzZQoKIyBEb24ndCBkcmF3IHNoYWRvd3Mgb24gZHJhZy1hbmQtZHJvcCB3aW5kb3dzLiBUaGlzIG9wdGlvbiBpcyBkZXByZWNhdGVkLCAKIyB5b3Ugc2hvdWxkIHVzZSB0aGUgKndpbnR5cGVzKiBvcHRpb24gaW4geW91ciBjb25maWcgZmlsZSBpbnN0ZWFkLgojCiMgbm8tZG5kLXNoYWRvdyA9IGZhbHNlCgojIFJlZCBjb2xvciB2YWx1ZSBvZiBzaGFkb3cgKDAuMCAtIDEuMCwgZGVmYXVsdHMgdG8gMCkuCiMgc2hhZG93LXJlZCA9IDAKCiMgR3JlZW4gY29sb3IgdmFsdWUgb2Ygc2hhZG93ICgwLjAgLSAxLjAsIGRlZmF1bHRzIHRvIDApLgojIHNoYWRvdy1ncmVlbiA9IDAKCiMgQmx1ZSBjb2xvciB2YWx1ZSBvZiBzaGFkb3cgKDAuMCAtIDEuMCwgZGVmYXVsdHMgdG8gMCkuCiMgc2hhZG93LWJsdWUgPSAwCgojIERvIG5vdCBwYWludCBzaGFkb3dzIG9uIHNoYXBlZCB3aW5kb3dzLiBOb3RlIHNoYXBlZCB3aW5kb3dzIAojIGhlcmUgbWVhbnMgd2luZG93cyBzZXR0aW5nIGl0cyBzaGFwZSB0aHJvdWdoIFggU2hhcGUgZXh0ZW5zaW9uLiAKIyBUaG9zZSB1c2luZyBBUkdCIGJhY2tncm91bmQgaXMgYmV5b25kIG91ciBjb250cm9sLiAKIyBEZXByZWNhdGVkLCB1c2UgCiMgICBzaGFkb3ctZXhjbHVkZSA9ICdib3VuZGluZ19zaGFwZWQnCiMgb3IgCiMgICBzaGFkb3ctZXhjbHVkZSA9ICdib3VuZGluZ19zaGFwZWQgJiYgIXJvdW5kZWRfY29ybmVycycKIyBpbnN0ZWFkLgojCiMgc2hhZG93LWlnbm9yZS1zaGFwZWQgPSAnJwoKIyBTcGVjaWZ5IGEgbGlzdCBvZiBjb25kaXRpb25zIG9mIHdpbmRvd3MgdGhhdCBzaG91bGQgaGF2ZSBubyBzaGFkb3cuCiMKIyBleGFtcGxlczoKIyAgIHNoYWRvdy1leGNsdWRlID0gIm46ZTpOb3RpZmljYXRpb24iOwojCiMgc2hhZG93LWV4Y2x1ZGUgPSBbXQpzaGFkb3ctZXhjbHVkZSA9IFsKICAgICJuYW1lID0gJ05vdGlmaWNhdGlvbiciLAogICAgImNsYXNzX2cgPz0gJ05vdGlmeS1vc2QnIiwKICAgICJuYW1lID0gJ1BsYW5rJyIsCiAgICAibmFtZSA9ICdEb2NreSciLAogICAgIm5hbWUgPSAnS3VwZmVyJyIsCiAgICAibmFtZSA9ICd4ZmNlNC1ub3RpZnlkJyIsCiAgICAibmFtZSAqPSAnVkxDJyIsCiAgICAibmFtZSAqPSAnY29tcHRvbiciLAogICAgIm5hbWUgKj0gJ0Nocm9taXVtJyIsCiAgICAibmFtZSAqPSAnQ2hyb21lJyIsCiAgICAiY2xhc3NfZyA9ICdGaXJlZm94JyAmJiBhcmdiIiwKICAgICJjbGFzc19nID0gJ0Nvbmt5JyIsCiAgICAiY2xhc3NfZyA9ICdLdXBmZXInIiwKICAgICJjbGFzc19nID0gJ1N5bmFwc2UnIiwKICAgICJjbGFzc19nID89ICdOb3RpZnktb3NkJyIsCiAgICAiY2xhc3NfZyA/PSAnQ2Fpcm8tZG9jayciLAogICAgImNsYXNzX2cgPSAnQ2Fpcm8tY2xvY2snIiwKICAgICJjbGFzc19nID89ICdYZmNlNC1ub3RpZnlkJyIsCiAgICAiY2xhc3NfZyA/PSAnWGZjZTQtcG93ZXItbWFuYWdlciciLAogICAgIl9HVEtfRlJBTUVfRVhURU5UU0A6YyIsCl07CgojIEFkZCB0aGlzIG9uZSB0b28gZm9yIC4uLgogICAgIyAiX05FVF9XTV9TVEFURUA6MzJhICo9ICdfTkVUX1dNX1NUQVRFX0hJRERFTiciCiMgQWRkIHRoaXMgb25lIGFib3ZlIHRvIHRoZSBsaXN0IHRvIGhhdmUgbm8gc2hhZG93IGluIE9wZW5ib3ggbWVudQoJIyAiISBuYW1lfj0nJyIsCgojIFNwZWNpZnkgYSBYIGdlb21ldHJ5IHRoYXQgZGVzY3JpYmVzIHRoZSByZWdpb24gaW4gd2hpY2ggc2hhZG93IHNob3VsZCBub3QKIyBiZSBwYWludGVkIGluLCBzdWNoIGFzIGEgZG9jayB3aW5kb3cgcmVnaW9uLiBVc2UgCiMgICAgc2hhZG93LWV4Y2x1ZGUtcmVnID0gIngxMCswKzAiCiMgZm9yIGV4YW1wbGUsIGlmIHRoZSAxMCBwaXhlbHMgb24gdGhlIGJvdHRvbSBvZiB0aGUgc2NyZWVuIHNob3VsZCBub3QgaGF2ZSBzaGFkb3dzIHBhaW50ZWQgb24uCiMKIyBzaGFkb3ctZXhjbHVkZS1yZWcgPSAiIiAKCiMgQ3JvcCBzaGFkb3cgb2YgYSB3aW5kb3cgZnVsbHkgb24gYSBwYXJ0aWN1bGFyIFhpbmVyYW1hIHNjcmVlbiB0byB0aGUgc2NyZWVuLgojIHhpbmVyYW1hLXNoYWRvdy1jcm9wID0gZmFsc2UKCgojIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMKIyAgICAgICAgICAgRmFkaW5nICAgICAgICAgICAgICAjCiMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIwoKCiMgRmFkZSB3aW5kb3dzIGluL291dCB3aGVuIG9wZW5pbmcvY2xvc2luZyBhbmQgd2hlbiBvcGFjaXR5IGNoYW5nZXMsCiMgIHVubGVzcyBuby1mYWRpbmctb3BlbmNsb3NlIGlzIHVzZWQuCiMgZmFkaW5nID0gZmFsc2UKZmFkaW5nID0gZmFsc2UKCiMgT3BhY2l0eSBjaGFuZ2UgYmV0d2VlbiBzdGVwcyB3aGlsZSBmYWRpbmcgaW4uICgwLjAxIC0gMS4wLCBkZWZhdWx0cyB0byAwLjAyOCkKIyBmYWRlLWluLXN0ZXAgPSAwLjAyOApmYWRlLWluLXN0ZXAgPSAwLjAzOwoKIyBPcGFjaXR5IGNoYW5nZSBiZXR3ZWVuIHN0ZXBzIHdoaWxlIGZhZGluZyBvdXQuICgwLjAxIC0gMS4wLCBkZWZhdWx0cyB0byAwLjAzKQojIGZhZGUtb3V0LXN0ZXAgPSAwLjAzCmZhZGUtb3V0LXN0ZXAgPSAwLjAzOwoKIyBUaGUgdGltZSBiZXR3ZWVuIHN0ZXBzIGluIGZhZGUgc3RlcCwgaW4gbWlsbGlzZWNvbmRzLiAoPiAwLCBkZWZhdWx0cyB0byAxMCkKIyBmYWRlLWRlbHRhID0gMTAKCiMgU3BlY2lmeSBhIGxpc3Qgb2YgY29uZGl0aW9ucyBvZiB3aW5kb3dzIHRoYXQgc2hvdWxkIG5vdCBiZSBmYWRlZC4KIyBmYWRlLWV4Y2x1ZGUgPSBbXQoKIyBEbyBub3QgZmFkZSBvbiB3aW5kb3cgb3Blbi9jbG9zZS4KIyBuby1mYWRpbmctb3BlbmNsb3NlID0gZmFsc2UKCiMgRG8gbm90IGZhZGUgZGVzdHJveWVkIEFSR0Igd2luZG93cyB3aXRoIFdNIGZyYW1lLiBXb3JrYXJvdW5kIG9mIGJ1Z3MgaW4gT3BlbmJveCwgRmx1eGJveCwgZXRjLgojIG5vLWZhZGluZy1kZXN0cm95ZWQtYXJnYiA9IGZhbHNlCgoKIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjCiMgICBUcmFuc3BhcmVuY3kgLyBPcGFjaXR5ICAgICAgIwojIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMKCgojIE9wYWNpdHkgb2YgaW5hY3RpdmUgd2luZG93cy4gKDAuMSAtIDEuMCwgZGVmYXVsdHMgdG8gMS4wKQojIGluYWN0aXZlLW9wYWNpdHkgPSAxCmluYWN0aXZlLW9wYWNpdHkgPSAxOwoKIyBPcGFjaXR5IG9mIHdpbmRvdyB0aXRsZWJhcnMgYW5kIGJvcmRlcnMuICgwLjEgLSAxLjAsIGRpc2FibGVkIGJ5IGRlZmF1bHQpCiMgZnJhbWUtb3BhY2l0eSA9IDEuMApmcmFtZS1vcGFjaXR5ID0gMTsKCiMgRGVmYXVsdCBvcGFjaXR5IGZvciBkcm9wZG93biBtZW51cyBhbmQgcG9wdXAgbWVudXMuICgwLjAgLSAxLjAsIGRlZmF1bHRzIHRvIDEuMCkKIyBtZW51LW9wYWNpdHkgPSAxLjAKCiMgTGV0IGluYWN0aXZlIG9wYWNpdHkgc2V0IGJ5IC1pIG92ZXJyaWRlIHRoZSAnX05FVF9XTV9PUEFDSVRZJyB2YWx1ZXMgb2Ygd2luZG93cy4KIyBpbmFjdGl2ZS1vcGFjaXR5LW92ZXJyaWRlID0gdHJ1ZQppbmFjdGl2ZS1vcGFjaXR5LW92ZXJyaWRlID0gZmFsc2U7CgojIERlZmF1bHQgb3BhY2l0eSBmb3IgYWN0aXZlIHdpbmRvd3MuICgwLjAgLSAxLjAsIGRlZmF1bHRzIHRvIDEuMCkKIyBhY3RpdmUtb3BhY2l0eSA9IDEuMAoKIyBEaW0gaW5hY3RpdmUgd2luZG93cy4gKDAuMCAtIDEuMCwgZGVmYXVsdHMgdG8gMC4wKQojIGluYWN0aXZlLWRpbSA9IDAuMAoKIyBTcGVjaWZ5IGEgbGlzdCBvZiBjb25kaXRpb25zIG9mIHdpbmRvd3MgdGhhdCBzaG91bGQgYWx3YXlzIGJlIGNvbnNpZGVyZWQgZm9jdXNlZC4KIyBmb2N1cy1leGNsdWRlID0gW10KZm9jdXMtZXhjbHVkZSA9IFsgImNsYXNzX2cgPSAnQ2Fpcm8tY2xvY2snIiBdOwoKIyBVc2UgZml4ZWQgaW5hY3RpdmUgZGltIHZhbHVlLCBpbnN0ZWFkIG9mIGFkanVzdGluZyBhY2NvcmRpbmcgdG8gd2luZG93IG9wYWNpdHkuCiMgaW5hY3RpdmUtZGltLWZpeGVkID0gMS4wCgojIFNwZWNpZnkgYSBsaXN0IG9mIG9wYWNpdHkgcnVsZXMsIGluIHRoZSBmb3JtYXQgYFBFUkNFTlQ6UEFUVEVSTmAsIAojIGxpa2UgYDUwOm5hbWUgKj0gIkZpcmVmb3giYC4gcGljb20tdHJhbnMgaXMgcmVjb21tZW5kZWQgb3ZlciB0aGlzLiAKIyBOb3RlIHdlIGRvbid0IG1ha2UgYW55IGd1YXJhbnRlZSBhYm91dCBwb3NzaWJsZSBjb25mbGljdHMgd2l0aCBvdGhlciAKIyBwcm9ncmFtcyB0aGF0IHNldCAnX05FVF9XTV9XSU5ET1dfT1BBQ0lUWScgb24gZnJhbWUgb3IgY2xpZW50IHdpbmRvd3MuCiMgZXhhbXBsZToKIyAgICBvcGFjaXR5LXJ1bGUgPSBbICI4MDpjbGFzc19nID0gJ1VSeHZ0JyIgXTsKIwojIG9wYWNpdHktcnVsZSA9IFtdCgoKIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjCiMgICAgIEJhY2tncm91bmQtQmx1cnJpbmcgICAgICAgIwojIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMKCgojIFBhcmFtZXRlcnMgZm9yIGJhY2tncm91bmQgYmx1cnJpbmcsIHNlZSB0aGUgKkJMVVIqIHNlY3Rpb24gZm9yIG1vcmUgaW5mb3JtYXRpb24uCiMgYmx1ci1tZXRob2QgPSAKIyBibHVyLXNpemUgPSAxMgojCiMgYmx1ci1kZXZpYXRpb24gPSBmYWxzZQoKIyBCbHVyIGJhY2tncm91bmQgb2Ygc2VtaS10cmFuc3BhcmVudCAvIEFSR0Igd2luZG93cy4gCiMgQmFkIGluIHBlcmZvcm1hbmNlLCB3aXRoIGRyaXZlci1kZXBlbmRlbnQgYmVoYXZpb3IuIAojIFRoZSBuYW1lIG9mIHRoZSBzd2l0Y2ggbWF5IGNoYW5nZSB3aXRob3V0IHByaW9yIG5vdGlmaWNhdGlvbnMuCiMKIyBibHVyLWJhY2tncm91bmQgPSBmYWxzZQoKIyBCbHVyIGJhY2tncm91bmQgb2Ygd2luZG93cyB3aGVuIHRoZSB3aW5kb3cgZnJhbWUgaXMgbm90IG9wYXF1ZS4gCiMgSW1wbGllczoKIyAgICBibHVyLWJhY2tncm91bmQgCiMgQmFkIGluIHBlcmZvcm1hbmNlLCB3aXRoIGRyaXZlci1kZXBlbmRlbnQgYmVoYXZpb3IuIFRoZSBuYW1lIG1heSBjaGFuZ2UuCiMKIyBibHVyLWJhY2tncm91bmQtZnJhbWUgPSBmYWxzZQoKCiMgVXNlIGZpeGVkIGJsdXIgc3RyZW5ndGggcmF0aGVyIHRoYW4gYWRqdXN0aW5nIGFjY29yZGluZyB0byB3aW5kb3cgb3BhY2l0eS4KIyBibHVyLWJhY2tncm91bmQtZml4ZWQgPSBmYWxzZQoKCiMgU3BlY2lmeSB0aGUgYmx1ciBjb252b2x1dGlvbiBrZXJuZWwsIHdpdGggdGhlIGZvbGxvd2luZyBmb3JtYXQ6CiMgZXhhbXBsZToKIyAgIGJsdXIta2VybiA9ICI1LDUsMSwxLDEsMSwxLDEsMSwxLDEsMSwxLDEsMSwxLDEsMSwxLDEsMSwxLDEsMSwxLDEiOwojCiMgYmx1ci1rZXJuID0gJycKYmx1ci1rZXJuID0gIjN4M2JveCI7CgoKIyBFeGNsdWRlIGNvbmRpdGlvbnMgZm9yIGJhY2tncm91bmQgYmx1ci4KIyBibHVyLWJhY2tncm91bmQtZXhjbHVkZSA9IFtdCmJsdXItYmFja2dyb3VuZC1leGNsdWRlID0gWwogICJ3aW5kb3dfdHlwZSA9ICdkb2NrJyIsCiAgIndpbmRvd190eXBlID0gJ2Rlc2t0b3AnIiwKICAiX0dUS19GUkFNRV9FWFRFTlRTQDpjIgpdOwoKIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjCiMgICAgICAgR2VuZXJhbCBTZXR0aW5ncyAgICAgICAgIwojIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMKCiMgRGFlbW9uaXplIHByb2Nlc3MuIEZvcmsgdG8gYmFja2dyb3VuZCBhZnRlciBpbml0aWFsaXphdGlvbi4gQ2F1c2VzIGlzc3VlcyB3aXRoIGNlcnRhaW4gKGJhZGx5LXdyaXR0ZW4pIGRyaXZlcnMuCiMgZGFlbW9uID0gZmFsc2UKCiMgU3BlY2lmeSB0aGUgYmFja2VuZCB0byB1c2U6IGB4cmVuZGVyYCwgYGdseGAsIG9yIGB4cl9nbHhfaHlicmlkYC4KIyBgeHJlbmRlcmAgaXMgdGhlIGRlZmF1bHQgb25lLgojCiMgYmFja2VuZCA9ICdnbHgnCmJhY2tlbmQgPSAieHJlbmRlciI7CgojIEVuYWJsZS9kaXNhYmxlIFZTeW5jLiBTZXQgdG8gZmFsc2UgZm9yIHRyYW5zcGFyZW5jeSBpbiBWaXJ0dWFsQm94LgojIHZzeW5jID0gZmFsc2UKdnN5bmMgPSB0cnVlCgojIEVuYWJsZSByZW1vdGUgY29udHJvbCB2aWEgRC1CdXMuIFNlZSB0aGUgKkQtQlVTIEFQSSogc2VjdGlvbiBiZWxvdyBmb3IgbW9yZSBkZXRhaWxzLgojIGRidXMgPSBmYWxzZQoKIyBUcnkgdG8gZGV0ZWN0IFdNIHdpbmRvd3MgKGEgbm9uLW92ZXJyaWRlLXJlZGlyZWN0IHdpbmRvdyB3aXRoIG5vIAojIGNoaWxkIHRoYXQgaGFzICdXTV9TVEFURScpIGFuZCBtYXJrIHRoZW0gYXMgYWN0aXZlLgojCiMgbWFyay13bXdpbi1mb2N1c2VkID0gZmFsc2UKbWFyay13bXdpbi1mb2N1c2VkID0gdHJ1ZTsKCiMgTWFyayBvdmVycmlkZS1yZWRpcmVjdCB3aW5kb3dzIHRoYXQgZG9lc24ndCBoYXZlIGEgY2hpbGQgd2luZG93IHdpdGggJ1dNX1NUQVRFJyBmb2N1c2VkLgojIG1hcmstb3ZyZWRpci1mb2N1c2VkID0gZmFsc2UKbWFyay1vdnJlZGlyLWZvY3VzZWQgPSB0cnVlOwoKIyBUcnkgdG8gZGV0ZWN0IHdpbmRvd3Mgd2l0aCByb3VuZGVkIGNvcm5lcnMgYW5kIGRvbid0IGNvbnNpZGVyIHRoZW0gCiMgc2hhcGVkIHdpbmRvd3MuIFRoZSBhY2N1cmFjeSBpcyBub3QgdmVyeSBoaWdoLCB1bmZvcnR1bmF0ZWx5LgojCiMgZGV0ZWN0LXJvdW5kZWQtY29ybmVycyA9IGZhbHNlCmRldGVjdC1yb3VuZGVkLWNvcm5lcnMgPSB0cnVlOwoKIyBEZXRlY3QgJ19ORVRfV01fT1BBQ0lUWScgb24gY2xpZW50IHdpbmRvd3MsIHVzZWZ1bCBmb3Igd2luZG93IG1hbmFnZXJzCiMgbm90IHBhc3NpbmcgJ19ORVRfV01fT1BBQ0lUWScgb2YgY2xpZW50IHdpbmRvd3MgdG8gZnJhbWUgd2luZG93cy4KIwojIGRldGVjdC1jbGllbnQtb3BhY2l0eSA9IGZhbHNlCmRldGVjdC1jbGllbnQtb3BhY2l0eSA9IHRydWU7CgojIFNwZWNpZnkgcmVmcmVzaCByYXRlIG9mIHRoZSBzY3JlZW4uIElmIG5vdCBzcGVjaWZpZWQgb3IgMCwgcGljb20gd2lsbCAKIyB0cnkgZGV0ZWN0aW5nIHRoaXMgd2l0aCBYIFJhbmRSIGV4dGVuc2lvbi4KIwojIHJlZnJlc2gtcmF0ZSA9IDYwCnJlZnJlc2gtcmF0ZSA9IDAKCiMgTGltaXQgcGljb20gdG8gcmVwYWludCBhdCBtb3N0IG9uY2UgZXZlcnkgMSAvICdyZWZyZXNoX3JhdGUnIHNlY29uZCB0byAKIyBib29zdCBwZXJmb3JtYW5jZS4gVGhpcyBzaG91bGQgbm90IGJlIHVzZWQgd2l0aCAKIyAgIHZzeW5jIGRybS9vcGVuZ2wvb3BlbmdsLW9tbAojIGFzIHRoZXkgZXNzZW50aWFsbHkgZG9lcyBzdy1vcHRpJ3Mgam9iIGFscmVhZHksIAojIHVubGVzcyB5b3Ugd2lzaCB0byBzcGVjaWZ5IGEgbG93ZXIgcmVmcmVzaCByYXRlIHRoYW4gdGhlIGFjdHVhbCB2YWx1ZS4KIwojIHN3LW9wdGkgPSAKCiMgVXNlIEVXTUggJ19ORVRfQUNUSVZFX1dJTkRPVycgdG8gZGV0ZXJtaW5lIGN1cnJlbnRseSBmb2N1c2VkIHdpbmRvdywgCiMgcmF0aGVyIHRoYW4gbGlzdGVuaW5nIHRvICdGb2N1c0luJy8nRm9jdXNPdXQnIGV2ZW50LiBNaWdodCBoYXZlIG1vcmUgYWNjdXJhY3ksIAojIHByb3ZpZGVkIHRoYXQgdGhlIFdNIHN1cHBvcnRzIGl0LgojCiMgdXNlLWV3bWgtYWN0aXZlLXdpbiA9IGZhbHNlCgojIFVucmVkaXJlY3QgYWxsIHdpbmRvd3MgaWYgYSBmdWxsLXNjcmVlbiBvcGFxdWUgd2luZG93IGlzIGRldGVjdGVkLCAKIyB0byBtYXhpbWl6ZSBwZXJmb3JtYW5jZSBmb3IgZnVsbC1zY3JlZW4gd2luZG93cy4gS25vd24gdG8gY2F1c2UgZmxpY2tlcmluZyAKIyB3aGVuIHJlZGlyZWN0aW5nL3VucmVkaXJlY3Rpbmcgd2luZG93cy4KIwojIHVucmVkaXItaWYtcG9zc2libGUgPSBmYWxzZQoKIyBEZWxheSBiZWZvcmUgdW5yZWRpcmVjdGluZyB0aGUgd2luZG93LCBpbiBtaWxsaXNlY29uZHMuIERlZmF1bHRzIHRvIDAuCiMgdW5yZWRpci1pZi1wb3NzaWJsZS1kZWxheSA9IDAKCiMgQ29uZGl0aW9ucyBvZiB3aW5kb3dzIHRoYXQgc2hvdWxkbid0IGJlIGNvbnNpZGVyZWQgZnVsbC1zY3JlZW4gZm9yIHVucmVkaXJlY3Rpbmcgc2NyZWVuLgojIHVucmVkaXItaWYtcG9zc2libGUtZXhjbHVkZSA9IFtdCgojIFVzZSAnV01fVFJBTlNJRU5UX0ZPUicgdG8gZ3JvdXAgd2luZG93cywgYW5kIGNvbnNpZGVyIHdpbmRvd3MgCiMgaW4gdGhlIHNhbWUgZ3JvdXAgZm9jdXNlZCBhdCB0aGUgc2FtZSB0aW1lLgojCiMgZGV0ZWN0LXRyYW5zaWVudCA9IGZhbHNlCmRldGVjdC10cmFuc2llbnQgPSB0cnVlCgojIFVzZSAnV01fQ0xJRU5UX0xFQURFUicgdG8gZ3JvdXAgd2luZG93cywgYW5kIGNvbnNpZGVyIHdpbmRvd3MgaW4gdGhlIHNhbWUgCiMgZ3JvdXAgZm9jdXNlZCBhdCB0aGUgc2FtZSB0aW1lLiAnV01fVFJBTlNJRU5UX0ZPUicgaGFzIGhpZ2hlciBwcmlvcml0eSBpZiAKIyBkZXRlY3QtdHJhbnNpZW50IGlzIGVuYWJsZWQsIHRvby4KIwojIGRldGVjdC1jbGllbnQtbGVhZGVyID0gZmFsc2UKZGV0ZWN0LWNsaWVudC1sZWFkZXIgPSB0cnVlCgojIFJlc2l6ZSBkYW1hZ2VkIHJlZ2lvbiBieSBhIHNwZWNpZmljIG51bWJlciBvZiBwaXhlbHMuIAojIEEgcG9zaXRpdmUgdmFsdWUgZW5sYXJnZXMgaXQgd2hpbGUgYSBuZWdhdGl2ZSBvbmUgc2hyaW5rcyBpdC4gCiMgSWYgdGhlIHZhbHVlIGlzIHBvc2l0aXZlLCB0aG9zZSBhZGRpdGlvbmFsIHBpeGVscyB3aWxsIG5vdCBiZSBhY3R1YWxseSBwYWludGVkIAojIHRvIHNjcmVlbiwgb25seSB1c2VkIGluIGJsdXIgY2FsY3VsYXRpb24sIGFuZCBzdWNoLiAoRHVlIHRvIHRlY2huaWNhbCBsaW1pdGF0aW9ucywgCiMgd2l0aCB1c2UtZGFtYWdlLCB0aG9zZSBwaXhlbHMgd2lsbCBzdGlsbCBiZSBpbmNvcnJlY3RseSBwYWludGVkIHRvIHNjcmVlbi4pIAojIFByaW1hcmlseSB1c2VkIHRvIGZpeCB0aGUgbGluZSBjb3JydXB0aW9uIGlzc3VlcyBvZiBibHVyLCAKIyBpbiB3aGljaCBjYXNlIHlvdSBzaG91bGQgdXNlIHRoZSBibHVyIHJhZGl1cyB2YWx1ZSBoZXJlIAojIChlLmcuIHdpdGggYSAzeDMga2VybmVsLCB5b3Ugc2hvdWxkIHVzZSBgLS1yZXNpemUtZGFtYWdlIDFgLCAKIyB3aXRoIGEgNXg1IG9uZSB5b3UgdXNlIGAtLXJlc2l6ZS1kYW1hZ2UgMmAsIGFuZCBzbyBvbikuIAojIE1heSBvciBtYXkgbm90IHdvcmsgd2l0aCAqLS1nbHgtbm8tc3RlbmNpbCouIFNocmlua2luZyBkb2Vzbid0IGZ1bmN0aW9uIGNvcnJlY3RseS4KIwojIHJlc2l6ZS1kYW1hZ2UgPSAxCgojIFNwZWNpZnkgYSBsaXN0IG9mIGNvbmRpdGlvbnMgb2Ygd2luZG93cyB0aGF0IHNob3VsZCBiZSBwYWludGVkIHdpdGggaW52ZXJ0ZWQgY29sb3IuIAojIFJlc291cmNlLWhvZ2dpbmcsIGFuZCBpcyBub3Qgd2VsbCB0ZXN0ZWQuCiMKIyBpbnZlcnQtY29sb3ItaW5jbHVkZSA9IFtdCgojIEdMWCBiYWNrZW5kOiBBdm9pZCB1c2luZyBzdGVuY2lsIGJ1ZmZlciwgdXNlZnVsIGlmIHlvdSBkb24ndCBoYXZlIGEgc3RlbmNpbCBidWZmZXIuIAojIE1pZ2h0IGNhdXNlIGluY29ycmVjdCBvcGFjaXR5IHdoZW4gcmVuZGVyaW5nIHRyYW5zcGFyZW50IGNvbnRlbnQgKGJ1dCBuZXZlciAKIyBwcmFjdGljYWxseSBoYXBwZW5lZCkgYW5kIG1heSBub3Qgd29yayB3aXRoIGJsdXItYmFja2dyb3VuZC4gCiMgTXkgdGVzdHMgc2hvdyBhIDE1JSBwZXJmb3JtYW5jZSBib29zdC4gUmVjb21tZW5kZWQuCiMKIyBnbHgtbm8tc3RlbmNpbCA9IGZhbHNlCgojIEdMWCBiYWNrZW5kOiBBdm9pZCByZWJpbmRpbmcgcGl4bWFwIG9uIHdpbmRvdyBkYW1hZ2UuIAojIFByb2JhYmx5IGNvdWxkIGltcHJvdmUgcGVyZm9ybWFuY2Ugb24gcmFwaWQgd2luZG93IGNvbnRlbnQgY2hhbmdlcywgCiMgYnV0IGlzIGtub3duIHRvIGJyZWFrIHRoaW5ncyBvbiBzb21lIGRyaXZlcnMgKExMVk1waXBlLCB4Zjg2LXZpZGVvLWludGVsLCBldGMuKS4KIyBSZWNvbW1lbmRlZCBpZiBpdCB3b3Jrcy4KIwojIGdseC1uby1yZWJpbmQtcGl4bWFwID0gZmFsc2UKCiMgRGlzYWJsZSB0aGUgdXNlIG9mIGRhbWFnZSBpbmZvcm1hdGlvbi4gCiMgVGhpcyBjYXVzZSB0aGUgd2hvbGUgc2NyZWVuIHRvIGJlIHJlZHJhd24gZXZlcnl0aW1lLCBpbnN0ZWFkIG9mIHRoZSBwYXJ0IG9mIHRoZSBzY3JlZW4KIyBoYXMgYWN0dWFsbHkgY2hhbmdlZC4gUG90ZW50aWFsbHkgZGVncmFkZXMgdGhlIHBlcmZvcm1hbmNlLCBidXQgbWlnaHQgZml4IHNvbWUgYXJ0aWZhY3RzLgojIFRoZSBvcHBvc2luZyBvcHRpb24gaXMgdXNlLWRhbWFnZQojCiMgbm8tdXNlLWRhbWFnZSA9IGZhbHNlCnVzZS1kYW1hZ2UgPSB0cnVlCgojIFVzZSBYIFN5bmMgZmVuY2UgdG8gc3luYyBjbGllbnRzJyBkcmF3IGNhbGxzLCB0byBtYWtlIHN1cmUgYWxsIGRyYXcgCiMgY2FsbHMgYXJlIGZpbmlzaGVkIGJlZm9yZSBwaWNvbSBzdGFydHMgZHJhd2luZy4gTmVlZGVkIG9uIG52aWRpYS1kcml2ZXJzIAojIHdpdGggR0xYIGJhY2tlbmQgZm9yIHNvbWUgdXNlcnMuCiMKIyB4cmVuZGVyLXN5bmMtZmVuY2UgPSBmYWxzZQoKIyBHTFggYmFja2VuZDogVXNlIHNwZWNpZmllZCBHTFNMIGZyYWdtZW50IHNoYWRlciBmb3IgcmVuZGVyaW5nIHdpbmRvdyBjb250ZW50cy4gCiMgU2VlIGBjb21wdG9uLWRlZmF1bHQtZnNoYWRlci13aW4uZ2xzbGAgYW5kIGBjb21wdG9uLWZha2UtdHJhbnNwYXJlbmN5LWZzaGFkZXItd2luLmdsc2xgIAojIGluIHRoZSBzb3VyY2UgdHJlZSBmb3IgZXhhbXBsZXMuCiMKIyBnbHgtZnNoYWRlci13aW4gPSAnJwoKIyBGb3JjZSBhbGwgd2luZG93cyB0byBiZSBwYWludGVkIHdpdGggYmxlbmRpbmcuIFVzZWZ1bCBpZiB5b3UgCiMgaGF2ZSBhIGdseC1mc2hhZGVyLXdpbiB0aGF0IGNvdWxkIHR1cm4gb3BhcXVlIHBpeGVscyB0cmFuc3BhcmVudC4KIwojIGZvcmNlLXdpbi1ibGVuZCA9IGZhbHNlCgojIERvIG5vdCB1c2UgRVdNSCB0byBkZXRlY3QgZnVsbHNjcmVlbiB3aW5kb3dzLiAKIyBSZXZlcnRzIHRvIGNoZWNraW5nIGlmIGEgd2luZG93IGlzIGZ1bGxzY3JlZW4gYmFzZWQgb25seSBvbiBpdHMgc2l6ZSBhbmQgY29vcmRpbmF0ZXMuCiMKIyBuby1ld21oLWZ1bGxzY3JlZW4gPSBmYWxzZQoKIyBEaW1taW5nIGJyaWdodCB3aW5kb3dzIHNvIHRoZWlyIGJyaWdodG5lc3MgZG9lc24ndCBleGNlZWQgdGhpcyBzZXQgdmFsdWUuIAojIEJyaWdodG5lc3Mgb2YgYSB3aW5kb3cgaXMgZXN0aW1hdGVkIGJ5IGF2ZXJhZ2luZyBhbGwgcGl4ZWxzIGluIHRoZSB3aW5kb3csIAojIHNvIHRoaXMgY291bGQgY29tZXMgd2l0aCBhIHBlcmZvcm1hbmNlIGhpdC4gCiMgU2V0dGluZyB0aGlzIHRvIDEuMCBkaXNhYmxlcyB0aGlzIGJlaGF2aW91ci4gUmVxdWlyZXMgLS11c2UtZGFtYWdlIHRvIGJlIGRpc2FibGVkLiAoZGVmYXVsdDogMS4wKQojCiMgbWF4LWJyaWdodG5lc3MgPSAxLjAKCiMgTWFrZSB0cmFuc3BhcmVudCB3aW5kb3dzIGNsaXAgb3RoZXIgd2luZG93cyBsaWtlIG5vbi10cmFuc3BhcmVudCB3aW5kb3dzIGRvLAojIGluc3RlYWQgb2YgYmxlbmRpbmcgb24gdG9wIG9mIHRoZW0uCiMKIyB0cmFuc3BhcmVudC1jbGlwcGluZyA9IGZhbHNlCgojIFNldCB0aGUgbG9nIGxldmVsLiBQb3NzaWJsZSB2YWx1ZXMgYXJlOgojICAidHJhY2UiLCAiZGVidWciLCAiaW5mbyIsICJ3YXJuIiwgImVycm9yIgojIGluIGluY3JlYXNpbmcgbGV2ZWwgb2YgaW1wb3J0YW5jZS4gQ2FzZSBkb2Vzbid0IG1hdHRlci4gCiMgSWYgdXNpbmcgdGhlICJUUkFDRSIgbG9nIGxldmVsLCBpdCdzIGJldHRlciB0byBsb2cgaW50byBhIGZpbGUgCiMgdXNpbmcgKi0tbG9nLWZpbGUqLCBzaW5jZSBpdCBjYW4gZ2VuZXJhdGUgYSBodWdlIHN0cmVhbSBvZiBsb2dzLgojCiMgbG9nLWxldmVsID0gImRlYnVnIgpsb2ctbGV2ZWwgPSAid2FybiI7CgojIFNldCB0aGUgbG9nIGZpbGUuCiMgSWYgKi0tbG9nLWZpbGUqIGlzIG5ldmVyIHNwZWNpZmllZCwgbG9ncyB3aWxsIGJlIHdyaXR0ZW4gdG8gc3RkZXJyLiAKIyBPdGhlcndpc2UsIGxvZ3Mgd2lsbCB0byB3cml0dGVuIHRvIHRoZSBnaXZlbiBmaWxlLCB0aG91Z2ggc29tZSBvZiB0aGUgZWFybHkgCiMgbG9ncyBtaWdodCBzdGlsbCBiZSB3cml0dGVuIHRvIHRoZSBzdGRlcnIuIAojIFdoZW4gc2V0dGluZyB0aGlzIG9wdGlvbiBmcm9tIHRoZSBjb25maWcgZmlsZSwgaXQgaXMgcmVjb21tZW5kZWQgdG8gdXNlIGFuIGFic29sdXRlIHBhdGguCiMKIyBsb2ctZmlsZSA9ICd+Ly5jb25maWcvY29tcHRvbi5sb2cnCgojIFNob3cgYWxsIFggZXJyb3JzIChmb3IgZGVidWdnaW5nKQojIHNob3ctYWxsLXhlcnJvcnMgPSBmYWxzZQoKIyBXcml0ZSBwcm9jZXNzIElEIHRvIGEgZmlsZS4KIyB3cml0ZS1waWQtcGF0aCA9ICcvcGF0aC90by95b3VyL2xvZy9maWxlJwoKIyBXaW5kb3cgdHlwZSBzZXR0aW5ncwojIAojICdXSU5ET1dfVFlQRScgaXMgb25lIG9mIHRoZSAxNSB3aW5kb3cgdHlwZXMgZGVmaW5lZCBpbiBFV01IIHN0YW5kYXJkOiAKIyAgICAgInVua25vd24iLCAiZGVza3RvcCIsICJkb2NrIiwgInRvb2xiYXIiLCAibWVudSIsICJ1dGlsaXR5IiwgCiMgICAgICJzcGxhc2giLCAiZGlhbG9nIiwgIm5vcm1hbCIsICJkcm9wZG93bl9tZW51IiwgInBvcHVwX21lbnUiLCAKIyAgICAgInRvb2x0aXAiLCAibm90aWZpY2F0aW9uIiwgImNvbWJvIiwgYW5kICJkbmQiLgojIAojIEZvbGxvd2luZyBwZXIgd2luZG93LXR5cGUgb3B0aW9ucyBhcmUgYXZhaWxhYmxlOiA6OgojIAojICAgZmFkZSwgc2hhZG93Ojo6CiMgICAgIENvbnRyb2xzIHdpbmRvdy10eXBlLXNwZWNpZmljIHNoYWRvdyBhbmQgZmFkZSBzZXR0aW5ncy4KIyAKIyAgIG9wYWNpdHk6OjoKIyAgICAgQ29udHJvbHMgZGVmYXVsdCBvcGFjaXR5IG9mIHRoZSB3aW5kb3cgdHlwZS4KIyAKIyAgIGZvY3VzOjo6CiMgICAgIENvbnRyb2xzIHdoZXRoZXIgdGhlIHdpbmRvdyBvZiB0aGlzIHR5cGUgaXMgdG8gYmUgYWx3YXlzIGNvbnNpZGVyZWQgZm9jdXNlZC4gCiMgICAgIChCeSBkZWZhdWx0LCBhbGwgd2luZG93IHR5cGVzIGV4Y2VwdCAibm9ybWFsIiBhbmQgImRpYWxvZyIgaGFzIHRoaXMgb24uKQojIAojICAgZnVsbC1zaGFkb3c6OjoKIyAgICAgQ29udHJvbHMgd2hldGhlciBzaGFkb3cgaXMgZHJhd24gdW5kZXIgdGhlIHBhcnRzIG9mIHRoZSB3aW5kb3cgdGhhdCB5b3UgCiMgICAgIG5vcm1hbGx5IHdvbid0IGJlIGFibGUgdG8gc2VlLiBVc2VmdWwgd2hlbiB0aGUgd2luZG93IGhhcyBwYXJ0cyBvZiBpdCAKIyAgICAgdHJhbnNwYXJlbnQsIGFuZCB5b3Ugd2FudCBzaGFkb3dzIGluIHRob3NlIGFyZWFzLgojIAojICAgcmVkaXItaWdub3JlOjo6CiMgICAgIENvbnRyb2xzIHdoZXRoZXIgdGhpcyB0eXBlIG9mIHdpbmRvd3Mgc2hvdWxkIGNhdXNlIHNjcmVlbiB0byBiZWNvbWUgCiMgICAgIHJlZGlyZWN0ZWQgYWdhaW4gYWZ0ZXIgYmVlbiB1bnJlZGlyZWN0ZWQuIElmIHlvdSBoYXZlIHVucmVkaXItaWYtcG9zc2libGUKIyAgICAgc2V0LCBhbmQgZG9lc24ndCB3YW50IGNlcnRhaW4gd2luZG93IHRvIGNhdXNlIHVubmVjZXNzYXJ5IHNjcmVlbiByZWRpcmVjdGlvbiwgCiMgICAgIHlvdSBjYW4gc2V0IHRoaXMgdG8gYHRydWVgLgojCndpbnR5cGVzOgp7CiAgdG9vbHRpcCA9IHsgZmFkZSA9IHRydWU7IHNoYWRvdyA9IHRydWU7IG9wYWNpdHkgPSAwLjk7IGZvY3VzID0gdHJ1ZTsgZnVsbC1zaGFkb3cgPSBmYWxzZTsgfTsKICBkb2NrID0geyBzaGFkb3cgPSBmYWxzZTsgfQogIGRuZCA9IHsgc2hhZG93ID0gZmFsc2U7IH0KICBwb3B1cF9tZW51ID0geyBvcGFjaXR5ID0gMC45OyB9CiAgZHJvcGRvd25fbWVudSA9IHsgb3BhY2l0eSA9IDAuOTsgfQp9Owo",
-							"AQAAAAAAAAABAAAAAAAAAAAAAACvOAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							8,
-							1,
-							"insert",
-							{
-								"characters": "s"
-							},
-							"AgAAAHIAAAAAAAAAcwAAAAAAAAAAAAAAcwAAAAAAAABzAAAAAAAAACEAAABodHRwczovL2dpdGh1Yi5jb20vc2RoYW5kL2NvbXB0b24",
-							"AQAAAAAAAAABAAAAcgAAAAAAAACTAAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							9,
-							1,
-							"left_delete",
-							null,
-							"AQAAAHIAAAAAAAAAcgAAAAAAAAABAAAAcw",
-							"AQAAAAAAAAABAAAAcwAAAAAAAABzAAAAAAAAAAAAAAAAAPC/"
-						]
-					]
-				},
-				{
-					"file": "/home/jeff/.cache/.fr-06lRXT/dotfiles-main/config/i3/config",
-					"settings":
-					{
-						"buffer_size": 6558,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					},
-					"undo_stack":
-					[
-					]
-				},
-				{
-					"file": "/home/jeff/.config/i3/i3blocks.conf",
-					"redo_stack":
-					[
-						[
-							33,
-							1,
-							"insert",
-							{
-								"characters": "e"
-							},
-							"AQAAACEAAAAAAAAAIQAAAAAAAAABAAAAZQ",
-							"AQAAAAAAAAABAAAAIgAAAAAAAAAiAAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							32,
-							1,
-							"left_delete",
-							null,
-							"AQAAACEAAAAAAAAAIgAAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAIQAAAAAAAAAhAAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							30,
-							1,
-							"insert",
-							{
-								"characters": "e"
-							},
-							"AQAAABEAAAAAAAAAEQAAAAAAAAABAAAAZQ",
-							"AQAAAAAAAAABAAAAEgAAAAAAAAASAAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							29,
-							1,
-							"left_delete",
-							null,
-							"AQAAABEAAAAAAAAAEgAAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAEQAAAAAAAAARAAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							26,
-							1,
-							"insert",
-							{
-								"characters": "8"
-							},
-							"AQAAADQAAAAAAAAANAAAAAAAAAABAAAAOA",
-							"AQAAAAAAAAABAAAANQAAAAAAAAA1AAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							25,
-							1,
-							"left_delete",
-							null,
-							"AgAAADQAAAAAAAAANQAAAAAAAAAAAAAANQAAAAAAAAA2AAAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAANAAAAAAAAAA0AAAAAAAAAAAAAAAAAPC/"
+							"AQAAAJ06AAAAAAAAnToAAAAAAAABAAAAQQ",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACeOgAAAAAAAJ46AAAAAAAAAAAAAAAA8L8"
 						],
 						[
 							22,
 							1,
 							"insert",
 							{
-								"characters": "=false"
+								"characters": "a"
 							},
-							"BgAAABwAAAAAAAAAHAAAAAAAAAABAAAAZRsAAAAAAAAAGwAAAAAAAAABAAAAcxoAAAAAAAAAGgAAAAAAAAABAAAAbBkAAAAAAAAAGQAAAAAAAAABAAAAYRgAAAAAAAAAGAAAAAAAAAABAAAAZhcAAAAAAAAAFwAAAAAAAAABAAAAPQ",
-							"AQAAAAAAAAABAAAAHQAAAAAAAAAdAAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							21,
-							1,
-							"left_delete",
-							null,
-							"AQAAABcAAAAAAAAAGAAAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAFwAAAAAAAAAXAAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							20,
-							1,
-							"insert",
-							{
-								"characters": "+"
-							},
-							"AQAAABcAAAAAAAAAFwAAAAAAAAABAAAAKw",
-							"AQAAAAAAAAABAAAAGAAAAAAAAAAYAAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							19,
-							1,
-							"insert",
-							{
-								"characters": "\nseparator"
-							},
-							"CgAAABYAAAAAAAAAFgAAAAAAAAABAAAAchUAAAAAAAAAFQAAAAAAAAABAAAAbxQAAAAAAAAAFAAAAAAAAAABAAAAdBMAAAAAAAAAEwAAAAAAAAABAAAAYRIAAAAAAAAAEgAAAAAAAAABAAAAchEAAAAAAAAAEQAAAAAAAAABAAAAYRAAAAAAAAAAEAAAAAAAAAABAAAAcA8AAAAAAAAADwAAAAAAAAABAAAAZQ4AAAAAAAAADgAAAAAAAAABAAAAcw0AAAAAAAAADQAAAAAAAAABAAAACg",
-							"AQAAAAAAAAABAAAAFwAAAAAAAAAXAAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							16,
-							1,
-							"paste",
-							null,
-							"AQAAAGADAAAAAAAAYAMAAAAAAABoAAAAY29sb3I9I2FhYQpiYWNrZ3JvdW5kPSMxRDIzMkNhYQpib3JkZXI9IzAwZmE5YQpib3JkZXJfbGVmdD0wCmJvcmRlcl9yaWdodD0wCmJvcmRlcl9ib3R0b209MApib3JkZXJfdG9wPTE",
-							"AQAAAAAAAAABAAAAyAMAAAAAAADIAwAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							15,
-							1,
-							"insert",
-							{
-								"characters": "\n"
-							},
-							"AQAAAF8DAAAAAAAAXwMAAAAAAAABAAAACg",
-							"AQAAAAAAAAABAAAAYAMAAAAAAABgAwAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							13,
-							1,
-							"paste",
-							null,
-							"AQAAALgCAAAAAAAAuAIAAAAAAABoAAAAY29sb3I9I2FhYQpiYWNrZ3JvdW5kPSMxRDIzMkNhYQpib3JkZXI9IzAwZmE5YQpib3JkZXJfbGVmdD0wCmJvcmRlcl9yaWdodD0wCmJvcmRlcl9ib3R0b209MApib3JkZXJfdG9wPTE",
-							"AQAAAAAAAAABAAAAIAMAAAAAAAAgAwAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							11,
-							1,
-							"insert",
-							{
-								"characters": "\n"
-							},
-							"AQAAALgCAAAAAAAAuAIAAAAAAAABAAAACg",
-							"AQAAAAAAAAABAAAAuQIAAAAAAAC5AgAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							8,
-							1,
-							"paste",
-							null,
-							"AQAAAOcBAAAAAAAA5wEAAAAAAABoAAAAY29sb3I9I2FhYQpiYWNrZ3JvdW5kPSMxRDIzMkNhYQpib3JkZXI9IzAwZmE5YQpib3JkZXJfbGVmdD0wCmJvcmRlcl9yaWdodD0wCmJvcmRlcl9ib3R0b209MApib3JkZXJfdG9wPTE",
-							"AQAAAAAAAAABAAAATwIAAAAAAABPAgAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							7,
-							1,
-							"insert",
-							{
-								"characters": "\n"
-							},
-							"AQAAAOYBAAAAAAAA5gEAAAAAAAABAAAACg",
-							"AQAAAAAAAAABAAAA5wEAAAAAAADnAQAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							4,
-							1,
-							"paste",
-							null,
-							"AQAAAAoBAAAAAAAACgEAAAAAAABoAAAAY29sb3I9I2FhYQpiYWNrZ3JvdW5kPSMxRDIzMkNhYQpib3JkZXI9IzAwZmE5YQpib3JkZXJfbGVmdD0wCmJvcmRlcl9yaWdodD0wCmJvcmRlcl9ib3R0b209MApib3JkZXJfdG9wPTE",
-							"AQAAAAAAAAABAAAAcgEAAAAAAAByAQAAAAAAAAAAAAAAAPC/"
+							"AQAAAJ06AAAAAAAAnjoAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACdOgAAAAAAAJ06AAAAAAAAAAAAAAAA8L8"
 						],
 						[
 							3,
 							1,
+							"left_delete",
+							null,
+							"AQAAAJ06AAAAAAAAnToAAAAAAAABAAAAYQ",
+							"AQAAAAAAAAABAAAAnjoAAAAAAACeOgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							4,
+							1,
 							"insert",
 							{
-								"characters": "\n"
+								"characters": "A"
 							},
-							"AQAAAAkBAAAAAAAACQEAAAAAAAABAAAACg",
-							"AQAAAAAAAAABAAAACgEAAAAAAAAKAQAAAAAAAAAAAAAAAPC/"
+							"AQAAAJ06AAAAAAAAnjoAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAnToAAAAAAACdOgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							5,
+							1,
+							"left_delete",
+							null,
+							"AQAAAJ06AAAAAAAAnToAAAAAAAABAAAAQQ",
+							"AQAAAAAAAAABAAAAnjoAAAAAAACeOgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							6,
+							1,
+							"insert",
+							{
+								"characters": "a"
+							},
+							"AQAAAJ06AAAAAAAAnjoAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAnToAAAAAAACdOgAAAAAAAAAAAAAAAPC/"
 						]
-					],
-					"settings":
-					{
-						"buffer_size": 548,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					},
-					"undo_stack":
-					[
 					]
 				}
 			],
@@ -952,24 +275,33 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
+			"expanded_folders":
+			[
+				"/home/jeffrey/.screenlayout"
+			],
 			"file_history":
 			[
-				"/home/jeff/.cache/.fr-RqbHAw/dotfiles-main/config/scripts/volume.py",
-				"/home/jeff/.config/dunst/dunstrc",
-				"/home/jeff/.config/picom/picom.conf",
-				"/home/jeff/.config/i3/config",
-				"/home/jeff/.mozilla/firefox/o0ifynpj.default-release/chrome/config.css",
-				"/home/jeff/.cache/.fr-6vIefY/treestyletab/README.md",
-				"/home/jeff/.cache/.fr-lTLWQM/dotfiles-master/.i3/config",
-				"/home/jeff/.config/polybar/config",
-				"/home/jeff/.config/i3/i3blocks.conf",
-				"/home/jeff/.cache/.fr-t49JC0/dotfiles-master/.config/dunst/dunstrc",
-				"/home/jeff/.config/polybar/launch.sh",
-				"/home/jeff/.config/alacritty/alacritty.yml"
+				"/usr/share/sddm/scripts/Xsetup",
+				"/home/jeffrey/.xinitrc",
+				"/home/jeffrey/.config/i3/config",
+				"/home/jeffrey/.config/i3/picom.conf",
+				"/home/jeffrey/.config/alacritty/alacritty.yml",
+				"/home/jeffrey/.zshrc",
+				"/home/jeffrey/.config/i3/i3blocks-original.conf",
+				"/home/jeffrey/.config/i3/i3blocks-rainbow.conf",
+				"/home/jeffrey/Downloads/NVIDIA-Linux-x86_64-470.63.01.run",
+				"/home/jeffrey/Work/smartrr/.git/rebase-merge/git-rebase-todo",
+				"/home/jeffrey/Work/smartrr/.git/COMMIT_EDITMSG",
+				"/home/jeffrey/.config/i3/i3blocks.conf",
+				"/home/jeffrey/Work/smartrr/.git/MERGE_MSG",
+				"/etc/X11/xinit/xinitrc",
+				"/etc/X11/xorg.conf.d/10-optimus-manager.conf",
+				"/etc/X11/nvidia-xorg.conf",
+				"/home/jeffrey/.config/i3/scripts/batterybar.sh"
 			],
 			"find":
 			{
-				"height": 38.0
+				"height": 24.0
 			},
 			"find_in_files":
 			{
@@ -983,41 +315,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"rofi",
-					"background",
-					"mod+d",
-					"rofi",
-					"exec",
-					"dunst",
-					"polybar",
-					"hover",
-					"firefox",
-					"mod+w",
-					"firefox",
-					"web",
-					"webbr",
-					"firefox",
-					"font",
-					"ws1",
-					"workspace",
-					"feh",
-					"gaps",
-					"polybar",
-					"mod+n",
-					"code",
-					"firefox",
-					"code",
-					"atom",
-					"bar",
-					"code",
-					"atom",
-					"xed",
-					"code",
-					"mod1+n",
-					"mod+n",
-					"mod1+w",
-					"polybar",
-					"urxvt"
+					"alacritty"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1025,7 +323,6 @@
 				"regex": false,
 				"replace_history":
 				[
-					"alacritty"
 				],
 				"reverse": false,
 				"scrollbar_highlights": true,
@@ -1035,6 +332,12 @@
 				"whole_word": false,
 				"wrap": true
 			},
+			"folders":
+			[
+				{
+					"path": "/home/jeffrey/.screenlayout"
+				}
+			],
 			"groups":
 			[
 				{
@@ -1042,19 +345,49 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/home/jeff/.config/i3/config",
-							"semi_transient": false,
+							"file": "/home/jeffrey/.screenlayout/default.sh",
+							"semi_transient": true,
 							"settings":
 							{
-								"buffer_size": 41824,
+								"buffer_size": 182,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										6641,
-										6641
+										116,
+										116
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ShellScript/Bash.sublime-syntax"
+								},
+								"translation.x": 430.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/jeffrey/.config/i3/config",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 42070,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										15006,
+										15006
 									]
 								],
 								"settings":
@@ -1064,350 +397,10 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 2648.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"stack_multiselect": false,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/home/jeff/.config/rofi/launchers/colorful/launcher.sh",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1134,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										346,
-										346
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/ShellScript/Bash.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"stack_multiselect": false,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/home/jeff/.config/rofi/launchers/misc/launcher.sh",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 624,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										522,
-										522
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/ShellScript/Bash.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"stack_multiselect": false,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/home/jeff/.config/rofi/launchers/misc/launchpad.rasi",
-							"selected": true,
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 3524,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										117,
-										117
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Text/Plain text.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 6257.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
-							"stack_multiselect": false,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/home/jeff/.zshrc",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 13200,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										699,
-										699
-									],
-									[
-										740,
-										740
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/ShellScript/Bash.sublime-syntax",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 4,
-							"stack_multiselect": false,
-							"type": "text"
-						},
-						{
-							"buffer": 5,
-							"file": "/home/jeff/.cache/.fr-i7Gigb/dotfiles-master/.config/i3/config",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 20127,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										5412,
-										5340
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Text/Plain text.tmLanguage",
-									"tab_size": 8,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 1422.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 5,
-							"stack_multiselect": false,
-							"type": "text"
-						},
-						{
-							"buffer": 6,
-							"file": "/home/jeff/.config/rofi/launcher.rasi",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 3506,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										603,
-										603
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Text/Plain text.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 95.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 6,
-							"stack_multiselect": false,
-							"type": "text"
-						},
-						{
-							"buffer": 7,
-							"file": "/home/jeff/.cache/.fr-amRumW/Dotfiles_i3-master/i3/config",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 13106,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1536,
-										1478
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Text/Plain text.tmLanguage",
-									"tab_size": 8,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 7,
-							"stack_multiselect": false,
-							"type": "text"
-						},
-						{
-							"buffer": 8,
-							"file": "/home/jeff/.cache/.fr-cIkS9E/dotfiles-main/config/scripts/launcher.sh",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 64,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										24,
-										24
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/ShellScript/Bash.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 8,
-							"stack_multiselect": false,
-							"type": "text"
-						},
-						{
-							"buffer": 9,
-							"file": "/home/jeff/.config/i3/picom.conf",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 14168,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										153,
-										155
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Text/Plain text.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 9,
-							"stack_multiselect": false,
-							"type": "text"
-						},
-						{
-							"buffer": 10,
-							"file": "/home/jeff/.cache/.fr-06lRXT/dotfiles-main/config/i3/config",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 6558,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										4126,
-										4057
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Text/Plain text.tmLanguage",
-									"tab_size": 8,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 1851.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 10,
-							"stack_multiselect": false,
-							"type": "text"
-						},
-						{
-							"buffer": 11,
-							"file": "/home/jeff/.config/i3/i3blocks.conf",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 548,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										502,
-										502
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 11,
 							"stack_multiselect": false,
 							"type": "text"
 						}
@@ -1450,7 +443,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,0,0,0,964,41,1900,1060,1920,1080,0",
+			"position": "0,0,0,0,0,962,34,1907,1067,1920,1080,0",
 			"project": "",
 			"replace":
 			{
@@ -1497,7 +490,7 @@
 			"template_settings":
 			{
 			},
-			"window_id": 4,
+			"window_id": 2,
 			"workspace_name": ""
 		}
 	],

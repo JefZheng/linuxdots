@@ -19,9 +19,11 @@
       <value type="string" value="Insync"/>
       <value type="string" value="notify-send"/>
       <value type="string" value="org.gnome.Software"/>
+      <value type="string" value="org.manjaro.pamac.manager"/>
       <value type="string" value="Package Manager"/>
       <value type="string" value="pasystray"/>
       <value type="string" value="pragha"/>
+      <value type="string" value="Slack"/>
       <value type="string" value="Spotify"/>
       <value type="string" value="Terminal"/>
       <value type="string" value="Thunar"/>
@@ -46,7 +48,7 @@
   <property name="log-level" type="uint" value="0"/>
   <property name="log-level-apps" type="uint" value="0"/>
   <property name="expire-timeout" type="int" value="5"/>
-  <property name="initial-opacity" type="double" value="0.800000"/>
+  <property name="initial-opacity" type="double" value="1.000000"/>
   <property name="primary-monitor" type="uint" value="0"/>
   <property name="theme" type="string" value="Default"/>
 </channel>

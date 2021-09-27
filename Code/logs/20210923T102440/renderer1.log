@@ -1,0 +1,148 @@
+[2021-09-23 10:47:23.214] [renderer1] [error] <semantic> TypeScript Server Error (4.5.0-dev.20210920)
+Debug Failure. Token and statement should start at the same point. {"statementKind":"ReturnStatement","tokenKind":"StringLiteral","errorCode":7027,"start":4539,"length":37}
+Error: Debug Failure. Token and statement should start at the same point. {"statementKind":"ReturnStatement","tokenKind":"StringLiteral","errorCode":7027,"start":4539,"length":37}
+    at doChange (/home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:148640:26)
+    at /home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:148623:96
+    at Function.ChangeTracker.with (/home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:142002:17)
+    at Object.getCodeActions (/home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:148623:64)
+    at /home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:143193:77
+    at Object.flatMap (/home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:519:25)
+    at Object.getFixes (/home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:143193:23)
+    at /home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:157883:35
+    at Object.flatMap (/home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:519:25)
+    at Proxy.getCodeFixesAtPosition (/home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:157881:23)
+    at Proxy.<anonymous> (/home/jeffrey/.vscode/extensions/jpoissonnier.vscode-styled-components-1.6.6/node_modules/typescript-template-language-service-decorator/lib/template-language-service-decorator.js:144:20)
+    at IOSession.Session.getCodeFixes (/home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:169364:64)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:168002:61)
+    at /home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:169677:88
+    at IOSession.Session.executeWithRequestId (/home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:169668:28)
+    at IOSession.Session.executeCommand (/home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:169677:33)
+    at IOSession.Session.onMessage (/home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:169703:35)
+    at Interface.<anonymous> (/home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:172308:31)
+    at Interface.emit (events.js:315:20)
+    at Interface._onLine (readline.js:337:10)
+    at Interface._normalWrite (readline.js:482:12)
+    at Socket.ondata (readline.js:194:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23): Error: <semantic> TypeScript Server Error (4.5.0-dev.20210920)
+Debug Failure. Token and statement should start at the same point. {"statementKind":"ReturnStatement","tokenKind":"StringLiteral","errorCode":7027,"start":4539,"length":37}
+Error: Debug Failure. Token and statement should start at the same point. {"statementKind":"ReturnStatement","tokenKind":"StringLiteral","errorCode":7027,"start":4539,"length":37}
+    at doChange (/home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:148640:26)
+    at /home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:148623:96
+    at Function.ChangeTracker.with (/home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:142002:17)
+    at Object.getCodeActions (/home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:148623:64)
+    at /home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:143193:77
+    at Object.flatMap (/home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:519:25)
+    at Object.getFixes (/home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:143193:23)
+    at /home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:157883:35
+    at Object.flatMap (/home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:519:25)
+    at Proxy.getCodeFixesAtPosition (/home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:157881:23)
+    at Proxy.<anonymous> (/home/jeffrey/.vscode/extensions/jpoissonnier.vscode-styled-components-1.6.6/node_modules/typescript-template-language-service-decorator/lib/template-language-service-decorator.js:144:20)
+    at IOSession.Session.getCodeFixes (/home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:169364:64)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:168002:61)
+    at /home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:169677:88
+    at IOSession.Session.executeWithRequestId (/home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:169668:28)
+    at IOSession.Session.executeCommand (/home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:169677:33)
+    at IOSession.Session.onMessage (/home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:169703:35)
+    at Interface.<anonymous> (/home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:172308:31)
+    at Interface.emit (events.js:315:20)
+    at Interface._onLine (readline.js:337:10)
+    at Interface._normalWrite (readline.js:482:12)
+    at Socket.ondata (readline.js:194:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+    at Function.create (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:461199)
+    at dispatchResponse (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:455035)
+    at dispatchMessage (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:453892)
+    at /opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:453377
+    at c.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+    at m.onLengthData (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:464128)
+    at Socket.<anonymous> (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:463775)
+    at Socket.emit (events.js:315:20)
+    at Socket.EventEmitter.emit (domain.js:467:12)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2021-09-23 10:54:39.664] [renderer1] [error] <semantic> TypeScript Server Error (4.5.0-dev.20210920)
+BADCLIENT: Bad error code, 7027 not found in range 4545..4582 (found: ); could have caused this error:
+Debug Failure. Token and statement should start at the same point. {"statementKind":"ReturnStatement","tokenKind":"PlusToken","errorCode":7027,"start":4545,"length":37}
+Error: BADCLIENT: Bad error code, 7027 not found in range 4545..4582 (found: ); could have caused this error:
+Debug Failure. Token and statement should start at the same point. {"statementKind":"ReturnStatement","tokenKind":"PlusToken","errorCode":7027,"start":4545,"length":37}
+    at doChange (/home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:148640:26)
+    at /home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:148623:96
+    at Function.ChangeTracker.with (/home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:142002:17)
+    at Object.getCodeActions (/home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:148623:64)
+    at /home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:143193:77
+    at Object.flatMap (/home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:519:25)
+    at Object.getFixes (/home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:143193:23)
+    at /home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:157883:35
+    at Object.flatMap (/home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:519:25)
+    at Proxy.getCodeFixesAtPosition (/home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:157881:23)
+    at Proxy.<anonymous> (/home/jeffrey/.vscode/extensions/jpoissonnier.vscode-styled-components-1.6.6/node_modules/typescript-template-language-service-decorator/lib/template-language-service-decorator.js:144:20)
+    at IOSession.Session.getCodeFixes (/home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:169364:64)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:168002:61)
+    at /home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:169677:88
+    at IOSession.Session.executeWithRequestId (/home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:169668:28)
+    at IOSession.Session.executeCommand (/home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:169677:33)
+    at IOSession.Session.onMessage (/home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:169703:35)
+    at Interface.<anonymous> (/home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:172308:31)
+    at Interface.emit (events.js:315:20)
+    at Interface._onLine (readline.js:337:10)
+    at Interface._normalWrite (readline.js:482:12)
+    at Socket.ondata (readline.js:194:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23): Error: <semantic> TypeScript Server Error (4.5.0-dev.20210920)
+BADCLIENT: Bad error code, 7027 not found in range 4545..4582 (found: ); could have caused this error:
+Debug Failure. Token and statement should start at the same point. {"statementKind":"ReturnStatement","tokenKind":"PlusToken","errorCode":7027,"start":4545,"length":37}
+Error: BADCLIENT: Bad error code, 7027 not found in range 4545..4582 (found: ); could have caused this error:
+Debug Failure. Token and statement should start at the same point. {"statementKind":"ReturnStatement","tokenKind":"PlusToken","errorCode":7027,"start":4545,"length":37}
+    at doChange (/home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:148640:26)
+    at /home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:148623:96
+    at Function.ChangeTracker.with (/home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:142002:17)
+    at Object.getCodeActions (/home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:148623:64)
+    at /home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:143193:77
+    at Object.flatMap (/home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:519:25)
+    at Object.getFixes (/home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:143193:23)
+    at /home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:157883:35
+    at Object.flatMap (/home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:519:25)
+    at Proxy.getCodeFixesAtPosition (/home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:157881:23)
+    at Proxy.<anonymous> (/home/jeffrey/.vscode/extensions/jpoissonnier.vscode-styled-components-1.6.6/node_modules/typescript-template-language-service-decorator/lib/template-language-service-decorator.js:144:20)
+    at IOSession.Session.getCodeFixes (/home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:169364:64)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:168002:61)
+    at /home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:169677:88
+    at IOSession.Session.executeWithRequestId (/home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:169668:28)
+    at IOSession.Session.executeCommand (/home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:169677:33)
+    at IOSession.Session.onMessage (/home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:169703:35)
+    at Interface.<anonymous> (/home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920/node_modules/typescript/lib/tsserver.js:172308:31)
+    at Interface.emit (events.js:315:20)
+    at Interface._onLine (readline.js:337:10)
+    at Interface._normalWrite (readline.js:482:12)
+    at Socket.ondata (readline.js:194:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+    at Function.create (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:461199)
+    at dispatchResponse (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:455035)
+    at dispatchMessage (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:453892)
+    at /opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:453377
+    at c.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+    at m.onLengthData (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:464128)
+    at Socket.<anonymous> (/opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension.js:1:463775)
+    at Socket.emit (events.js:315:20)
+    at Socket.EventEmitter.emit (domain.js:467:12)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)

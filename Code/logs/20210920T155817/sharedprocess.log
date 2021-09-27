@@ -1,0 +1,15 @@
+[2021-09-20 15:58:19.690] [sharedprocess] [info] Deleted from disk vspacecode.whichkey /home/jeffrey/.vscode/extensions/vspacecode.whichkey-0.9.2
+[2021-09-20 15:58:19.813] [sharedprocess] [info] Deleted from disk esbenp.prettier-vscode /home/jeffrey/.vscode/extensions/esbenp.prettier-vscode-8.1.0
+[2021-09-20 15:58:19.895] [sharedprocess] [info] Deleted from disk streetsidesoftware.code-spell-checker /home/jeffrey/.vscode/extensions/streetsidesoftware.code-spell-checker-2.0.5
+[2021-09-20 15:58:19.905] [sharedprocess] [info] Deleted from disk ms-vscode.vscode-typescript-next /home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210915
+[2021-09-20 15:58:21.671] [sharedprocess] [info] Installing extension: ms-azuretools.vscode-docker
+[2021-09-20 15:58:22.536] [sharedprocess] [info] Downloaded extension: ms-azuretools.vscode-docker /home/jeffrey/.config/Code/CachedExtensionVSIXs/ms-azuretools.vscode-docker-1.17.0
+[2021-09-20 15:58:22.649] [sharedprocess] [info] Extracted extension to /home/jeffrey/.vscode/extensions/.b5d73ae8-28e4-4152-bf17-7f0ce45d55e1: ms-azuretools.vscode-docker
+[2021-09-20 15:58:22.655] [sharedprocess] [info] Renamed to /home/jeffrey/.vscode/extensions/ms-azuretools.vscode-docker-1.17.0
+[2021-09-20 15:58:22.658] [sharedprocess] [info] Extracting completed. ms-azuretools.vscode-docker
+[2021-09-20 15:58:22.667] [sharedprocess] [info] Extension installed successfully: ms-azuretools.vscode-docker
+[2021-09-20 15:58:29.194] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-09-20 15:58:29.194] [sharedprocess] [info] [logs cleanup]: Removing log folders '20210914T102022'
+[2021-09-20 15:58:49.195] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-09-20 15:58:49.196] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-09-20 15:58:59.198] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.

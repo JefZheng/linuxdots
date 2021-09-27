@@ -1,0 +1,99 @@
+Validating found git in: git
+Using git 2.33.0 from git
+> git rev-parse --git-dir
+Open repository: /home/jeffrey/Work/smartrr
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/calculateStartDateForRRULE refs/remotes/calculateStartDateForRRULE
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :shared/entities/Schedule/RRuleManager.ts
+> git ls-files --stage -- /home/jeffrey/Work/smartrr/shared/entities/Schedule/RRuleManager.ts
+> git cat-file -s cf9012f1e25c8889a33f4717b5f6a04333f11ea1
+> git check-ignore -v -z --stdin
+> git config --global user.email
+> git config --global user.name
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/calculateStartDateForRRULE refs/remotes/calculateStartDateForRRULE
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show -s --format=%an <%ae> [%ai] 938c84a1177b23f04813d4e7eecc87a1d417de47
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 938c84a1177b23f04813d4e7eecc87a1d417de47
+> git show -s --format=%an <%ae> [%ai] 88fb30aa13e6d6f1d21ac9619c5770524c812a28
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 88fb30aa13e6d6f1d21ac9619c5770524c812a28
+> git show -s --format=%an <%ae> [%ai] c5d9a76741576ca2a25e3915892d424095888293
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z c5d9a76741576ca2a25e3915892d424095888293
+> git show -s --format=%an <%ae> [%ai] 875b80c2374c8062ba55abe1b2c70f5c6341fdb8
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 875b80c2374c8062ba55abe1b2c70f5c6341fdb8
+> git show -s --format=%an <%ae> [%ai] d7163a3b0ea5306c878bed259ba65e30bc38546d
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z d7163a3b0ea5306c878bed259ba65e30bc38546d
+> git show -s --format=%an <%ae> [%ai] c919a34a45cf2d7308c5f24a32122bc7c91fd9ff
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z c919a34a45cf2d7308c5f24a32122bc7c91fd9ff
+> git show -s --format=%an <%ae> [%ai] f0d0e7475051b480981d287cbf1ae7b3f7a7cb25
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z f0d0e7475051b480981d287cbf1ae7b3f7a7cb25
+> git show -s --format=%an <%ae> [%ai] 43bde46f691bc78b3f5605fc2b33a450f77f4c32
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 43bde46f691bc78b3f5605fc2b33a450f77f4c32
+> git show -s --format=%an <%ae> [%ai] 383f27af6829094874fa419b8efcec16244c327c
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 383f27af6829094874fa419b8efcec16244c327c
+> git show -s --format=%an <%ae> [%ai] be9300ed44d320cb26a072321a3e61a8f2b7800a
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z be9300ed44d320cb26a072321a3e61a8f2b7800a
+> git show -s --format=%an <%ae> [%ai] 646e441d5b2a3cd91484ab405645ca19d8046c90
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 646e441d5b2a3cd91484ab405645ca19d8046c90
+> git show -s --format=%an <%ae> [%ai] 380c9b71801669d46fdce67ee1390d8e69524fb0
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 380c9b71801669d46fdce67ee1390d8e69524fb0
+> git show -s --format=%an <%ae> [%ai] 47a3087edbae126d458074bb6284fd20ea9500aa
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 47a3087edbae126d458074bb6284fd20ea9500aa
+> git show -s --format=%an <%ae> [%ai] 8625062c8a4109a3c77be27a5ad720539ee11ec5
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 8625062c8a4109a3c77be27a5ad720539ee11ec5
+> git show -s --format=%an <%ae> [%ai] ca6960c69ae94c76a65c8003715ecc6cb5f831be
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z ca6960c69ae94c76a65c8003715ecc6cb5f831be
+> git show -s --format=%an <%ae> [%ai] 209fcc7fa9ab807e91b03689b88f226406923c10
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 209fcc7fa9ab807e91b03689b88f226406923c10
+> git show -s --format=%an <%ae> [%ai] fc5a9ba8d7c911d08fdce7d00147cef97919eda6
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z fc5a9ba8d7c911d08fdce7d00147cef97919eda6
+> git show -s --format=%an <%ae> [%ai] cd52d37b2cbb0e6e5c8521fbc884d72f60a3352c
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z cd52d37b2cbb0e6e5c8521fbc884d72f60a3352c
+> git show -s --format=%an <%ae> [%ai] a29523841f0e233264f910d4b25e40a3008aac1f
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z a29523841f0e233264f910d4b25e40a3008aac1f
+> git show -s --format=%an <%ae> [%ai] 3fe4e8e25d807fc79aac07a4bc3a70f14a11e552
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 3fe4e8e25d807fc79aac07a4bc3a70f14a11e552
+> git show -s --format=%an <%ae> [%ai] be3c9f6e41705d55d94d0c5d388de37e458476cc
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z be3c9f6e41705d55d94d0c5d388de37e458476cc
+> git show -s --format=%an <%ae> [%ai] 3fc7c244fe720ef44e565f16a124be9ca87ab0b1
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 3fc7c244fe720ef44e565f16a124be9ca87ab0b1
+> git show -s --format=%an <%ae> [%ai] 9f563ba124cf54a9eccbb4ddf678a9ef895c32e2
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 9f563ba124cf54a9eccbb4ddf678a9ef895c32e2
+> git show -s --format=%an <%ae> [%ai] f00a1deac9ac95f57fb269be056cfeeda484e8d7
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z f00a1deac9ac95f57fb269be056cfeeda484e8d7
+> git show -s --format=%an <%ae> [%ai] 56cacc442642a05d3ada05024164ec18d87d2da5
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 56cacc442642a05d3ada05024164ec18d87d2da5
+> git show -s --format=%an <%ae> [%ai] f3f4f6dfa1ceeb30353378ac8982c08b1800f1aa
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z f3f4f6dfa1ceeb30353378ac8982c08b1800f1aa
+> git show -s --format=%an <%ae> [%ai] f053689fedfd6d0c049183ae4801ba76ee924231
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z f053689fedfd6d0c049183ae4801ba76ee924231
+> git show -s --format=%an <%ae> [%ai] 89c8d65c411dfe7c6280b7d53279048374aeb6dc
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 89c8d65c411dfe7c6280b7d53279048374aeb6dc
+> git show -s --format=%an <%ae> [%ai] 40c75b5cdcb11f26d071832e88228ab67a1d4ec0
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 40c75b5cdcb11f26d071832e88228ab67a1d4ec0
+> git show -s --format=%an <%ae> [%ai] 51652d44e66d049c85f34b0a3fb4813e353d357f
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 51652d44e66d049c85f34b0a3fb4813e353d357f
+> git show -s --format=%an <%ae> [%ai] 43430d949abd0a63c6db42e382e13c683138ecd9
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 43430d949abd0a63c6db42e382e13c683138ecd9
+> git show -s --format=%an <%ae> [%ai] 0d2ea7a6da855ee9c6ce7fbcee9f123e91eff20f
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 0d2ea7a6da855ee9c6ce7fbcee9f123e91eff20f
+> git show -s --format=%an <%ae> [%ai] 6065153e02136891fe2af5da2abf19243d06fc49
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z 6065153e02136891fe2af5da2abf19243d06fc49
+> git show -s --format=%an <%ae> [%ai] 6088d80b974f360fa2b3a1c074f5fea8331edd1f
+> git fetch
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+git@gitlab.com: Permission denied (publickey,keyboard-interactive).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/jeffrey/Work/smartrr/shared/entities/Schedule/RRuleManager.ts
+> git cat-file -s cf9012f1e25c8889a33f4717b5f6a04333f11ea1
+> git show --textconv :shared/entities/Schedule/RRuleManager.ts

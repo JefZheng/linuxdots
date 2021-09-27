@@ -1,0 +1,25 @@
+[2021-09-27 09:56:07.480] [sharedprocess] [info] Deleted from disk ms-vscode.vscode-typescript-next /home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210920
+[2021-09-27 09:56:07.645] [sharedprocess] [info] Deleted from disk oderwat.indent-rainbow /home/jeffrey/.vscode/extensions/oderwat.indent-rainbow-8.0.0
+[2021-09-27 09:56:09.204] [sharedprocess] [info] Installing extension: ms-vscode.vscode-typescript-next
+[2021-09-27 09:56:09.205] [sharedprocess] [info] Installing extension: zhuangtongfa.material-theme
+[2021-09-27 09:56:09.212] [sharedprocess] [info] Installing extension: streetsidesoftware.code-spell-checker
+[2021-09-27 09:56:10.968] [sharedprocess] [info] Downloaded extension: zhuangtongfa.material-theme /home/jeffrey/.config/Code/CachedExtensionVSIXs/zhuangtongfa.material-theme-3.12.1
+[2021-09-27 09:56:11.205] [sharedprocess] [info] Extracted extension to /home/jeffrey/.vscode/extensions/.209aa9fa-9817-4e40-9c54-462c0bb06abb: zhuangtongfa.material-theme
+[2021-09-27 09:56:11.224] [sharedprocess] [info] Renamed to /home/jeffrey/.vscode/extensions/zhuangtongfa.material-theme-3.12.1
+[2021-09-27 09:56:11.226] [sharedprocess] [info] Extracting completed. zhuangtongfa.material-theme
+[2021-09-27 09:56:11.231] [sharedprocess] [info] Extension installed successfully: zhuangtongfa.material-theme
+[2021-09-27 09:56:11.408] [sharedprocess] [info] Downloaded extension: streetsidesoftware.code-spell-checker /home/jeffrey/.config/Code/CachedExtensionVSIXs/streetsidesoftware.code-spell-checker-2.0.7
+[2021-09-27 09:56:11.414] [sharedprocess] [info] Downloaded extension: ms-vscode.vscode-typescript-next /home/jeffrey/.config/Code/CachedExtensionVSIXs/ms-vscode.vscode-typescript-next-4.5.20210926
+[2021-09-27 09:56:12.555] [sharedprocess] [info] Extracted extension to /home/jeffrey/.vscode/extensions/.184a0fc3-3a19-4ac8-9c4e-6e6d8aa8faac: streetsidesoftware.code-spell-checker
+[2021-09-27 09:56:12.567] [sharedprocess] [info] Renamed to /home/jeffrey/.vscode/extensions/streetsidesoftware.code-spell-checker-2.0.7
+[2021-09-27 09:56:12.579] [sharedprocess] [info] Extracting completed. streetsidesoftware.code-spell-checker
+[2021-09-27 09:56:12.596] [sharedprocess] [info] Extension installed successfully: streetsidesoftware.code-spell-checker
+[2021-09-27 09:56:13.758] [sharedprocess] [info] Extracted extension to /home/jeffrey/.vscode/extensions/.d67b3b11-95b1-41a6-a2aa-762664e6b45a: ms-vscode.vscode-typescript-next
+[2021-09-27 09:56:13.762] [sharedprocess] [info] Renamed to /home/jeffrey/.vscode/extensions/ms-vscode.vscode-typescript-next-4.5.20210926
+[2021-09-27 09:56:13.763] [sharedprocess] [info] Extracting completed. ms-vscode.vscode-typescript-next
+[2021-09-27 09:56:13.769] [sharedprocess] [info] Extension installed successfully: ms-vscode.vscode-typescript-next
+[2021-09-27 09:56:13.945] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-09-27 09:56:13.946] [sharedprocess] [info] [logs cleanup]: Removing log folders '20210915T102932'
+[2021-09-27 09:56:33.953] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-09-27 09:56:33.954] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-09-27 09:56:43.954] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.

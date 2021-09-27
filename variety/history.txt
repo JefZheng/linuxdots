@@ -1,2 +1,13 @@
 0
-
+/usr/share/backgrounds/arcolinux/blue-earth-2880x1800.jpg
+/usr/share/backgrounds/arcolinux/arco-login.jpg
+/usr/share/backgrounds/arcolinux/green-meadows-3360x1050.jpg
+/usr/share/backgrounds/arcolinux/koi-fishes-1920x1080.png
+/usr/share/backgrounds/arcolinux/green-meadows-3360x1050.jpg
+/usr/share/backgrounds/arcolinux/sea-whale.jpg
+/usr/share/backgrounds/arcolinux/arco-wallpaper.jpg
+/usr/share/backgrounds/arcolinux/harddisk-5184-3456.jpg
+/usr/share/backgrounds/arcolinux/night-glow-5839x3893.jpg
+/usr/share/backgrounds/arcolinux/arco-login-plasma.jpg
+/usr/share/backgrounds/arcolinux/sea-of-mystery-3840x2160.jpg
+/usr/share/backgrounds/arcolinux/arco-wallpaper.jpg

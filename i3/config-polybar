@@ -881,18 +881,37 @@ bindsym control+mod1+o exec --no-startup-id ~/.config/i3/scripts/picom-toggle.sh
 #####################################################################################################################
 #####################################################################################################################
 
-##START THEMING WM
-#Theme name : ArcoLinux Default
+    ##START THEMING WM
+    #Theme name : ArcoLinux Var Nord
 
-  # class                 border  backgr. text    indicator
-  client.placeholder      #242424 #242424 #242424
-  client.background       #242424 #242424 #242424
-  client.focused          #6790EB #6790EB #e5e5e5 #6790EB
-  client.unfocused        #222222 #222222 #aaaaaa #222222
-  client.focused_inactive #222222 #222222 #a9a9a9 #222222
-  client.urgent           #d42121 #d42121 #f7f7f7 #d42121
+    set $nord0   #2E3440
+    set $nord1   #3B4252
+    set $nord2   #434C5E
+    set $nord3   #4C566A
+    set $nord4   #D8DEE9
+    set $nord5   #E5E9F0
+    set $nord6   #ECEFF4
+    set $nord7   #8FBCBB
+    set $nord8   #88C0D0
+    set $nord9   #81A1C1
+    set $nord10  #5E81AC
+    set $nord11  #BF616A
+    set $nord12  #D08770
+    set $nord13  #EBCB8B
+    set $nord14  #A3BE8C
+    set $nord15  #B48EAD
 
-##STOP THEMING WM
+    # Window color settings
+    # class                 border  backgr. text    indicator
+    client.focused          $nord15 $nord15 $nord4  $nord15
+    client.unfocused        $nord2  $nord2  $nord6  $nord2
+    client.focused_inactive $nord2  $nord2  $nord6  $nord2
+    client.placeholder      $nord2  $nord2  $nord6  $nord2
+    client.urgent           #d42121 #d42121 #f7f7f7 #d42121
+
+    client.background       $nord04
+
+    ##STOP THEMING WM
 
 #####################################################################################################################
 #####################################################################################################################
