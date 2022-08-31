@@ -49,7 +49,7 @@ workspace_layout default
 # extra options for windows: #
 ##############################
 #focus follows mouse
-focus_follows_mouse no
+focus_follows_mouse yes
 
 #focus follows active window
 focus_on_window_activation focus
@@ -228,7 +228,10 @@ bindsym $mod+Shift+d floating toggle
 bindsym $mod+d focus mode_toggle
 
 # focus the parent container
-bindsym $mod+s focus parent
+bindsym $mod+g focus parent
+
+# focus the child container
+bindsym $mod+Shift+g focus child
 
 # open new empty workspace
 bindsym $mod+Shift+n exec ~/.config/i3/scripts/empty_workspace
@@ -301,11 +304,17 @@ assign [class="(?i)Slack"] $ws4
 assign [class="(?i)Spotify"] $ws5
 assign [class="^(?i)beekeeper"] $ws3
 # automatic set focus new window if it opens on another workspace then the current:
-for_window [class=wezterm] focus
-for_window [class=(?i)firefox] focus
-for_window [class=Thunar] focus
-for_window [class=code] focus
-for_window [class=Slack] focus
+for_window [class="wezterm"] focus
+for_window [class="(?i)firefox"] focus
+for_window [class="Thunar"] focus
+for_window [class="code"] focus
+for_window [class="Slack"] focus
+for_window [class="^(?i)beekeeper"] focus
+
+# Enable float for some windows
+for_window [class="^Pavucontrol$"]  floating enable
+for_window [class="^Lxappearance$"] floating enable
+for_window [class="^Arandr$"]       floating enable
 
 ##############
 # compositor #
@@ -386,9 +395,9 @@ exec --no-startup-id xset s 480 dpms 600 600 600
 #exec --no-startup-id xscreensaver --no-splash
 
 # Desktop notifications
-#exec --no-startup-id dbus-launch dunst --config ~/.config/dunst/dunstrc
+exec --no-startup-id dbus-launch dunst --config ~/.config/dunst/dunstrc
 # alternative if you installed aside with XFCE4:
-exec --no-startup-id /usr/lib/xfce4/notifyd/xfce4-notifyd &
+#exec --no-startup-id /usr/lib/xfce4/notifyd/xfce4-notifyd &
 
 # autotiling script
 # https://github.com/nwg-piotr/autotiling
