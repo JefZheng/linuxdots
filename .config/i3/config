@@ -27,6 +27,9 @@ font pango: Noto Sans Regular 10
 # set the mod key to the winkey:
 set $mod Mod4
 
+# set monitors
+set $firstmon DP-2
+set $secmon DP-4
 #####################
 # workspace layout: #
 #####################
@@ -45,6 +48,8 @@ workspace_layout default
 ##############################
 # extra options for windows: #
 ##############################
+#focus follows mouse
+focus_follows_mouse no
 
 #border indicator on windows:
 new_window pixel 1
@@ -300,15 +305,15 @@ set $ws9 "9"
 # use workspaces on different displays:
 # where you have to replace VGA-0/HDMI-0 with the names for your displays
 # you can get from xrandr command
-workspace $ws1 output VGA-2
-workspace $ws2 output VGA-2
-workspace $ws3 output VGA-2
-workspace $ws4 output VGA-2
-workspace $ws5 output VGA-2
-workspace $ws6 output VGA-4
-workspace $ws7 output VGA-4
-workspace $ws8 output VGA-4
-workspace $ws9 output VGA-4
+workspace 1 output $firstmon
+workspace 2 output $firstmon
+workspace 3 output $firstmon
+workspace 4 output $firstmon
+workspace 5 output $firstmon
+workspace 6 output $secmon
+workspace 7 output $secmon
+workspace 8 output $secmon
+workspace 9 output $secmon
 
 # bind program to workspace and focus to them on startup:
 assign [class="wezterm"] $ws7
@@ -491,33 +496,33 @@ client.urgent		    	$urgentred	$urgentred	$white		$yellowbrown	$yellowbrown
 
 # Start i3bar to display a workspace bar
 # (plus the system information i3status finds out, if available)
-bar {
-		font pango: Noto Sans Regular 10
-		status_command i3blocks -c ~/.config/i3/i3blocks.conf
-	    	position bottom
+#bar {
+#		font pango: Noto Sans Regular 10
+#		status_command i3blocks -c ~/.config/i3/i3blocks.conf
+#	    	position bottom
 #	    	i3bar_command i3bar --transparency
 # it could be that you have no primary display set: set one (xrandr --output <output> --primary)
 # reference: https://i3wm.org/docs/userguide.html#_tray_output
-		    tray_output primary
-		    tray_padding 0
-
+#		    tray_output primary
+#		    tray_padding 0
+#
 # When strip_workspace_numbers is set to yes,
 # any workspace that has a name of the form
 # “[n][:][NAME]” will display only the name.
-strip_workspace_numbers yes
+#strip_workspace_numbers yes
 ##strip_workspace_name no
-
-		    colors {
-		    separator          $purple
-		    background         $darkgrey
-		    statusline         $white
+#
+#		    colors {
+#		    separator          $purple
+#		    background         $darkgrey
+#		    statusline         $white
 #                          		border 		        bg		txt		indicator
-		focused_workspace	$mediumgrey	   	$grey		$darkgrey	$purple
-		active_workspace	$lightblue      	$mediumgrey	$darkgrey	$purple
-		inactive_workspace	$darkgrey   		$darkgrey	$grey		$purple
-		urgent_workspace	$urgentred	    	$urgentred	$white		$purple
-	}
-}
+#		focused_workspace	$mediumgrey	   	$grey		$darkgrey	$purple
+#		active_workspace	$lightblue      	$mediumgrey	$darkgrey	$purple
+#		inactive_workspace	$darkgrey   		$darkgrey	$grey		$purple
+#		urgent_workspace	$urgentred	    	$urgentred	$white		$purple
+#	}
+#}
 
 # you can add different bars for multidisplay setups on each display:
 # set output HDMI-0 to the display you want the bar, --transparency can be set.
@@ -554,9 +559,9 @@ strip_workspace_numbers yes
 # Application menu handled by rofi: #
 #####################################
 
-## rofi bindings fancy application menu ($mod+d /F9 optional disabled)
+## rofi bindings fancy application menu ($mod+space /F9 optional disabled)
 
-bindsym $mod+d exec rofi -modi drun -show drun \
+bindsym $mod+space exec rofi -modi drun -show drun \
 		-config ~/.config/rofi/rofidmenu.rasi
 
 #bindsym F9 exec rofi -modi drun -show drun \
