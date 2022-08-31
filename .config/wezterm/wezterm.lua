@@ -30,7 +30,7 @@ return {
   cursor_blink_ease_out = "Constant",
 	
 	--Bindings--
-	leader = { key = 'a', mods = 'WIN', timeout_milliseconds = 1000 },
+	leader = { key = 'a', mods = 'ALT', timeout_milliseconds = 1000 },
 
 	
 	keys = {
