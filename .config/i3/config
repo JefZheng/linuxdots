@@ -302,14 +302,14 @@ assign [class="Thunar"] $ws4
 assign [class="(?i)code"] $ws1
 assign [class="(?i)Slack"] $ws4
 assign [class="(?i)Spotify"] $ws5
-assign [class="^(?i)beekeeper"] $ws3
+assign [class="^(?i)arctype"] $ws3
 # automatic set focus new window if it opens on another workspace then the current:
 for_window [class="wezterm"] focus
 for_window [class="(?i)firefox"] focus
 for_window [class="Thunar"] focus
 for_window [class="code"] focus
 for_window [class="Slack"] focus
-for_window [class="^(?i)beekeeper"] focus
+for_window [class="^(?i)arctype"] focus
 
 # Enable float for some windows
 for_window [class="^Pavucontrol$"]  floating enable
