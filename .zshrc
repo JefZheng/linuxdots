@@ -114,6 +114,7 @@ fi
 alias prodtunnel="gcloud compute ssh frwd --zone=us-central1-b -- -N -L9999:10.66.0.3:5432"
 alias stagingtunnel="gcloud compute ssh frwd --zone=us-central1-b -- -N -L9996:10.66.0.11:5432"
 alias grebase="gco master && git pull && gco - && git rebase master"
+alias workdir="cd ~/work/smartrr"
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
