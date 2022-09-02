@@ -92,7 +92,7 @@ source $ZSH/oh-my-zsh.sh
 if [[ -n $SSH_CONNECTION ]]; then
   export EDITOR='vim'
 else
-  export EDITOR='lvim'
+  export EDITOR='nvim'
 fi
 
 # Compilation flags
@@ -115,7 +115,6 @@ alias prodtunnel="gcloud compute ssh frwd --zone=us-central1-b -- -N -L9999:10.6
 alias stagingtunnel="gcloud compute ssh frwd --zone=us-central1-b -- -N -L9996:10.66.0.11:5432"
 alias grebase="gco master && git pull && gco - && git rebase master"
 alias workdir="cd ~/work/smartrr"
-alias nvim="lvim"
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
