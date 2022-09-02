@@ -49,7 +49,7 @@ workspace_layout default
 # extra options for windows: #
 ##############################
 #focus follows mouse
-focus_follows_mouse yes
+focus_follows_mouse no
 
 #focus follows active window
 focus_on_window_activation focus
