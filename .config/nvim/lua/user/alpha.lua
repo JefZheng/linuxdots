@@ -14,12 +14,14 @@ end
 local icons = require "user.icons"
 
 dashboard.section.header.val = {
-  [[                               __                ]],
-  [[  ___     ___    ___   __  __ /\_\    ___ ___    ]],
-  [[ / _ `\  / __`\ / __`\/\ \/\ \\/\ \  / __` __`\  ]],
-  [[/\ \/\ \/\  __//\ \_\ \ \ \_/ |\ \ \/\ \/\ \/\ \ ]],
-  [[\ \_\ \_\ \____\ \____/\ \___/  \ \_\ \_\ \_\ \_\]],
-  [[ \/_/\/_/\/____/\/___/  \/__/    \/_/\/_/\/_/\/_/]],
+  [[                                                                   ]],
+  [[      ████ ██████           █████      ██                    ]],
+  [[     ███████████             █████                            ]],
+  [[     █████████ ███████████████████ ███   ███████████  ]],
+  [[    █████████  ███    █████████████ █████ ██████████████  ]],
+  [[   █████████ ██████████ █████████ █████ █████ ████ █████  ]],
+  [[ ███████████ ███    ███ █████████ █████ █████ ████ █████ ]],
+  [[██████  █████████████████████ ████ █████ █████ ████ ██████]],
 }
 dashboard.section.buttons.val = {
   button("f", icons.documents.Files .. " Find file", ":Telescope find_files <CR>"),
@@ -34,12 +36,11 @@ dashboard.section.buttons.val = {
   button("q", icons.ui.SignOut .. " Quit", ":qa<CR>"),
 }
 local function footer()
-  -- NOTE: requires the fortune-mod package to work
-  -- local handle = io.popen("fortune")
-  -- local fortune = handle:read("*a")
-  -- handle:close()
-  -- return fortune
-  return "chrisatmachine.com"
+    local datetime = os.date(" %d-%m-%Y   %I:%M:%S")
+    local version = vim.version()
+    local nvim_version_info = "   v" .. version.major .. "." .. version.minor .. "." .. version.patch
+
+    return datetime .. nvim_version_info
 end
 
 dashboard.section.footer.val = footer()

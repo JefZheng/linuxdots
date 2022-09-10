@@ -100,8 +100,14 @@ return packer.startup(function(use)
 
   -- Debugging
 
-  -- Statusline
+  -- Tabline
+  use {'akinsho/bufferline.nvim', tag = "v2.*", requires = 'kyazdani42/nvim-web-devicons'}
 
+  -- Statusline
+  use {
+    'nvim-lualine/lualine.nvim',
+    requires = { 'kyazdani42/nvim-web-devicons' }
+  }
   -- Startup
   use "goolord/alpha-nvim"
 
