@@ -66,8 +66,22 @@ return packer.startup(function(use)
   use {"rafamadriz/friendly-snippets"}
 
   -- Syntax/Treesitter
+  use "nvim-treesitter/nvim-treesitter"
+  use "JoosepAlviste/nvim-ts-context-commentstring"
+  use "p00f/nvim-ts-rainbow"
+  use "nvim-treesitter/playground"
+  use "windwp/nvim-ts-autotag"
+  use "nvim-treesitter/nvim-treesitter-textobjects"
+  use "kylechui/nvim-surround"
+  use {
+    "abecodes/tabout.nvim",
+    wants = { "nvim-treesitter" }, -- or require if not used so far
+  }
 
   -- Fuzzy Finder/Telescope
+  use "nvim-telescope/telescope.nvim"
+  use "nvim-telescope/telescope-media-files.nvim"
+  use "tom-anders/telescope-vim-bookmarks.nvim"
 
   -- Note Taking
 
@@ -77,26 +91,33 @@ return packer.startup(function(use)
   use { "catppuccin/nvim", as = "catppuccin" }
 
   -- Utility
+  use "lewis6991/impatient.nvim"
 
   -- Registers
 
   -- Icon
+  use "kyazdani42/nvim-web-devicons"
 
   -- Debugging
 
   -- Statusline
 
   -- Startup
+  use "goolord/alpha-nvim"
 
   -- Indent
+  use "lukas-reineke/indent-blankline.nvim"
 
   -- File Explorer
+  use "kyazdani42/nvim-tree.lua"
 
   -- Comment
+  use "numToStr/Comment.nvim"
 
   -- Terminal
 
   -- Project
+  use "ahmedkhalf/project.nvim"
 
   -- Session
 
@@ -105,9 +126,11 @@ return packer.startup(function(use)
   -- Code Runner
 
   -- Git
+  use "lewis6991/gitsigns.nvim"
 
   -- Editing Support
-
+  use "windwp/nvim-autopairs"
+  
   -- Motion
 
   -- Keybinding

@@ -154,18 +154,17 @@ cmp.setup {
 
       -- NOTE: order matters
       vim_item.menu = ({
-        nvim_lsp = "",
-        nvim_lua = "",
-        luasnip = "",
-        buffer = "",
-        path = "",
-        emoji = "",
+        nvim_lsp = "[Lsp]",
+        nvim_lua = "[Lua]",
+        luasnip = "[Snippet]",
+        buffer = "[Buffer]",
+        path = "[Path]",
+        emoji = "[Emoji]",
       })[entry.source.name]
       return vim_item
     end,
   },
   sources = {
-    { name = "crates", group_index = 1 },
     {
       name = "copilot",
       -- keyword_length = 0,
