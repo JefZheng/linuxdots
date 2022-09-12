@@ -110,6 +110,7 @@ local config = {
 
   -- Extend LSP configuration
   lsp = {
+    skip_setup = { "tsserver" },
     -- enable servers that you already have installed without mason
     servers = {
       -- "pyright"
@@ -171,7 +172,7 @@ local config = {
       ["<TAB>"] = { ":bnext<CR>", desc = "Navigate buffers" },
     },
     x = {
-      ["<Aj>"] = { ":move '>+1<CR>gv-gv", desc = "Move selection up" },
+      ["<A-j>"] = { ":move '>+1<CR>gv-gv", desc = "Move selection up" },
       ["<A-k>"] = { ":move '>-2<CR>gv-gv", desc = "Move selection down" },
     },
     v = {},
@@ -196,7 +197,11 @@ local config = {
       --     require("lsp_signature").setup()
       --   end,
       -- },
-      { "catppuccin/nvim", as = "catppuccin" },
+      {
+        "catppuccin/nvim",
+        as = "catppuccin",
+        config = function() require("catppuccin").setup {} end,
+      },
       {
         "jose-elias-alvarez/typescript.nvim",
         after = "mason-lspconfig.nvim",
@@ -205,6 +210,11 @@ local config = {
       {
         "ggandor/leap.nvim",
         config = function() require("leap").set_default_keymaps() end,
+      },
+      {
+        "hrsh7th/cmp-emoji",
+        after = "nvim-cmp",
+        config = function() astronvim.add_user_cmp_source "emoji" end,
       },
     },
     -- All other entries override the require("<key>").setup({...}) call for default plugins
@@ -238,7 +248,7 @@ local config = {
     },
     -- use mason-lspconfig to configure LSP installations
     ["mason-lspconfig"] = { -- overrides `require("mason-lspconfig").setup(...)`
-      ensure_installed = { "sumneko_lua" },
+      ensure_installed = { "sumneko_lua", "tsserver" },
     },
     -- use mason-tool-installer to configure DAP/Formatters/Linter installation
     ["mason-tool-installer"] = { -- overrides `require("mason-tool-installer").setup(...)`
@@ -246,6 +256,124 @@ local config = {
     },
     packer = { -- overrides `require("packer").setup(...)`
       compile_path = vim.fn.stdpath "data" .. "/packer_compiled.lua",
+    },
+    ["neo-tree"] = {
+      close_if_last_window = true,
+      popup_border_style = "rounded",
+      enable_git_status = true,
+      enable_diagnostics = false,
+      default_component_configs = {
+        indent = {
+          indent_size = 2,
+          padding = 0,
+          with_markers = true,
+          indent_marker = "│",
+          last_indent_marker = "└",
+          highlight = "NeoTreeIndentMarker",
+          with_expanders = false,
+          expander_collapsed = "",
+          expander_expanded = "",
+          expander_highlight = "NeoTreeExpander",
+        },
+        icon = {
+          folder_closed = "",
+          folder_open = "",
+          folder_empty = "",
+          default = "",
+        },
+        name = {
+          trailing_slash = false,
+          use_git_status_colors = true,
+        },
+        git_status = {
+          symbols = {
+            added = "",
+            deleted = "",
+            modified = "",
+            renamed = "➜",
+            untracked = "★",
+            ignored = "◌",
+            unstaged = "✗",
+            staged = "✓",
+            conflict = "",
+          },
+        },
+      },
+      window = {
+        position = "left",
+        width = 25,
+        mappings = {
+          ["<2-LeftMouse>"] = "open",
+          ["<cr>"] = "open",
+          ["o"] = "open",
+          ["S"] = "open_split",
+          ["s"] = "open_vsplit",
+          ["C"] = "close_node",
+          ["<bs>"] = "navigate_up",
+          ["."] = "set_root",
+          ["H"] = "toggle_hidden",
+          ["R"] = "refresh",
+          ["/"] = "fuzzy_finder",
+          ["f"] = "filter_on_submit",
+          ["<c-x>"] = "clear_filter",
+          ["a"] = "add",
+          ["d"] = "delete",
+          ["r"] = "rename",
+          ["y"] = "copy_to_clipboard",
+          ["x"] = "cut_to_clipboard",
+          ["p"] = "paste_from_clipboard",
+          ["c"] = "copy",
+          ["m"] = "move",
+          ["q"] = "close_window",
+        },
+      },
+      nesting_rules = {},
+      filesystem = {
+        filtered_items = {
+          visible = false,
+          hide_dotfiles = false,
+          hide_gitignored = false,
+          hide_by_name = {
+            ".DS_Store",
+            "thumbs.db",
+            "node_modules",
+            "__pycache__",
+          },
+        },
+        follow_current_file = true,
+        hijack_netrw_behavior = "open_current",
+        use_libuv_file_watcher = true,
+      },
+      buffers = {
+        show_unloaded = true,
+        window = {
+          mappings = {
+            ["bd"] = "buffer_delete",
+          },
+        },
+      },
+      git_status = {
+        window = {
+          position = "float",
+          mappings = {
+            ["A"] = "git_add_all",
+            ["gu"] = "git_unstage_file",
+            ["ga"] = "git_add_file",
+            ["gr"] = "git_revert_file",
+            ["gc"] = "git_commit",
+            ["gp"] = "git_push",
+            ["gg"] = "git_commit_and_push",
+          },
+        },
+      },
+      event_handlers = {
+        {
+          event = "vim_buffer_enter",
+          handler = function(_)
+            if vim.bo.filetype == "neo-tree" then vim.wo.signcolumn = "auto" end
+          end,
+        },
+      },
     },
   },
 
@@ -271,9 +399,9 @@ local config = {
       luasnip = 750,
       buffer = 500,
       path = 250,
+      emoji = 100,
     },
   },
-
   -- Modify which-key registration (Use this with mappings table in the above.)
   ["which-key"] = {
     -- Add bindings which show up as group name
@@ -303,7 +431,18 @@ local config = {
       pattern = "plugins.lua",
       command = "source <afile> | PackerSync",
     })
-
+    -- auto alpha
+    local function alpha_on_bye(cmd)
+      local bufs = vim.fn.getbufinfo { buflisted = true }
+      vim.cmd(cmd)
+      if require("core.utils").is_available "alpha-nvim" and not bufs[2] then require("alpha").start(true) end
+    end
+    vim.keymap.del("n", "<leader>c")
+    if require("core.utils").is_available "bufdelete.nvim" then
+      vim.keymap.set("n", "<leader>c", function() alpha_on_bye "Bdelete!" end, { desc = "Close buffer" })
+    else
+      vim.keymap.set("n", "<leader>c", function() alpha_on_bye "bdelete!" end, { desc = "Close buffer" })
+    end
     -- Set up custom filetypes
     -- vim.filetype.add {
     --   extension = {
