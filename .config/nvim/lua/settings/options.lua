@@ -1,4 +1,5 @@
 local options = {
+  backspace = vim.opt.backspace + { "nostop" }, -- Don't stop backspace at insert
   backup = false,                          -- creates a backup file
   clipboard = "unnamedplus",               -- allows neovim to access the system clipboard
   cmdheight = 2,                           -- more space in the neovim command line for displaying messages
@@ -16,7 +17,7 @@ local options = {
   splitbelow = true,                       -- force all horizontal splits to go below current window
   splitright = true,                       -- force all vertical splits to go to the right of current window
   swapfile = false,                        -- creates a swapfile
-  -- termguicolors = true,                    -- set term gui colors (most terminals support this)
+  termguicolors = true,                    -- set term gui colors (most terminals support this)
   timeoutlen = 300,                        -- time to wait for a mapped sequence to complete (in milliseconds)
   undofile = true,                         -- enable persistent undo
   updatetime = 300,                        -- faster completion (4000ms default)
@@ -33,8 +34,13 @@ local options = {
   scrolloff = 8,                           -- is one of my fav
   sidescrolloff = 8,
   guifont = "monospace:h17",               -- the font used in graphical neovim applications
-  spell = true                            -- disable spell checking
-
+  spell = true,                            -- disable spell checking
+  copyindent = true,                       -- Copy the previous indentation on autoindenting
+  fillchars = { eob = " " }, -- Disable `~` on nonexistent lines
+  history = 100, -- Number of commands to remember in a history table
+  lazyredraw = true, -- lazily redraw screen
+  preserveindent = true, -- Preserve indent structure as much as possible
+  laststatus = 3, -- globalstatus
 }
 
 for k, v in pairs(options) do
@@ -48,12 +54,14 @@ local disabled_built_ins = {
   "gzip",
   "logipat",
   -- "netrw",  -- If you disable netrw, you can't use gx to open links in browser
+  "matchit",
   "netrwPlugin",
   "netrwSettings",
   "netrwFileHandlers",
   "tar",
   "tarPlugin",
   "rrhelper",
+  "remote_plugins",
   "vimball",
   "vimballPlugin",
   "zip",
@@ -64,6 +72,10 @@ local disabled_built_ins = {
 for _, plugin in pairs(disabled_built_ins) do
   vim.g["loaded_" .. plugin] = 1
 end
+
+vim.g["do_filetype_lua"] = 1
+vim.g["did_load_filetypes"] = 0
+vim.g["load_black"] = false
 
 
 vim.cmd "set whichwrap+=<,>,[,],h,l"
